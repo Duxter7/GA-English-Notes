@@ -6,11 +6,7 @@ I **am** hungry
 **On** Friday
 
 I'm glad to meet you 
-It's 
 
 No, I don't
 
-He
-She 
-It
 
