@@ -9,6 +9,7 @@ Gated community
 **Acquaintance** = знакомый 
 
 **Get on well with** someone = хорошо ладить с кем-то
+
 **Be friendly with** someone = дружить с кем-то
 **Look up to** someone = восхищаться
 **Stay in touch with** someone = поддерживать связь
