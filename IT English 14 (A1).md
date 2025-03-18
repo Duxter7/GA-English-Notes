@@ -42,22 +42,3 @@ Here = здесь; there = там
 Difficult = сложно
 Hard = трудно
 
-
-## 17-03-2025
-
-Night shift = ночная смена
-Architect = архитектор
-IT support
-
-Acquaintance = знакомый 
-
-I don't know what to call them
-
-**Get on well with** someone
-**To be friendly with** someone
-**Look up to** someone
-**Stay in touch with** someone
-**Take after** someone
-**Close friend**
-
-I work hard
