@@ -1,3 +1,3 @@
 # GA-English-Notes
 
-Notes sharing repo for those  :)
+Notes sharing repo for those who are always looking forward to achieving more and beyond :)
