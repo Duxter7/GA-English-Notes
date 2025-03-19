@@ -48,3 +48,5 @@ Is it open?
 When does it open?
 
 Half past nine
+
+**Hide** = прятать
