@@ -10,3 +10,5 @@ What do you do = чем ты занимаешься (чем ты зарабат�
 **It depends on** where we meet
 
 Film (UK) = Movie (US)
+
+Do you have (US) = Have you got (UK)
