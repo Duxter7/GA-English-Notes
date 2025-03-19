@@ -43,3 +43,8 @@ Have you got (UK) = Do you have (US)
 Can you spell it = можешь прочитать (произнести) по буквам 
 
 On the weekend (US) = at the weekend (UK)
+
+Is it open?
+When does it open?
+
+Half past nine
