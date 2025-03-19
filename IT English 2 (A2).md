@@ -48,4 +48,5 @@ I **don't** like to speak with (to) Indians at work
 He **doesn't** understand anything
 My best friends **don't** want to do anything
 
-I work 
+I work every day and he work**s** every day too
+
