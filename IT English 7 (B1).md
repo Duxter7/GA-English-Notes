@@ -24,3 +24,4 @@ Diligent = трудолюбивый
 **Easy-going** = легкий на подъем
 **Reliable** 
 **Rely on** someone
+
