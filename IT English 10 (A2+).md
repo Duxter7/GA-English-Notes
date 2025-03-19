@@ -6,3 +6,6 @@ What are you doing?
 
 Which = когда есть выбор
 What = в общем
+
+What kind of
+What sort of 
