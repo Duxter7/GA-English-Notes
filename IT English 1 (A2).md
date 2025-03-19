@@ -23,4 +23,7 @@ Do you agree
 
 I go to bed at 11 PM
 
+I went to bed at 11 PM yesterday
 
+Go - went - gone
+	
