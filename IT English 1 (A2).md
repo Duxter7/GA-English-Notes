@@ -21,17 +21,15 @@ Do**es** he work here?
 I go to bed at 11 PM  
 I went to bed at 11 PM yesterday  
 
-Go - went - gone
+Go - went - gone  
+Wake up - woke up 
 
 Are you full of energy?
 
 What do you do?  
-What are you doing?
+What are you doing?  
 
-Employee
-Employer 
+Employee  
+Employer  
 
 Football (UK) - Soccer (US)
-
-Wake up - woke up 
-
