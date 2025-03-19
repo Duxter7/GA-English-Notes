@@ -55,4 +55,4 @@ Half past nine
 
 Queue (UK) = line (US)
 
-Fraud = мошенник / мо
+Fraud = мошенник / мошенничество
