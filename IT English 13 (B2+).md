@@ -2,4 +2,6 @@
 Take to someone = warm to someone
 Come between
 Hang around
-B
+Drift away
+
+Used to (more casual) = would (more formal)
