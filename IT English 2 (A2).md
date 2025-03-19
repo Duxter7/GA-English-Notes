@@ -39,3 +39,7 @@ I would like to have a console at home
 So, you don't like videogames in general?
 
 I played a little; I progressed a little 
+
+**Does** he like to play videogames?
+**Does** she study English?
+
