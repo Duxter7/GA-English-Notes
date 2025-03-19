@@ -43,3 +43,4 @@ I played a little; I progressed a little
 **Does** he like to play videogames?
 **Does** she study English?
 
+I **don't** like to speak with (to) Indians at work
