@@ -44,4 +44,5 @@ I played a little; I progressed a little
 **Does** she study English?
 
 I **don't** like to speak with (to) Indians at work
-He doesn't understand 
+He **doesn't** understand anything
+My best friends don't want to do anything
