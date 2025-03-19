@@ -12,3 +12,5 @@ What sort of
 
 Something like this = как-то так
 I watch series 
+
+Do you have (US) = Have you got (UK)
