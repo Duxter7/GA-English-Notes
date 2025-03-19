@@ -14,3 +14,6 @@ I had to talk English
 **Take after** someone = перенимать
 
 Dormitory (dorm) = общага
+
+Walk with the dog
+Walk the dog
