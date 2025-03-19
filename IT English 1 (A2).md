@@ -18,17 +18,14 @@ To be = быть; являться
 Do**es** he work here?  
 ## 19-03-2025
 
-I go to bed at 11 PM
-
-I went to bed at 11 PM yesterday
+I go to bed at 11 PM  
+I went to bed at 11 PM yesterday  
 
 Go - went - gone
 
 Are you full of energy?
 
-I am **live**
-
-What do you do?
+What do you do?  
 What are you doing?
 
 Employee
