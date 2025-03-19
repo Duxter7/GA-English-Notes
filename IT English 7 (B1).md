@@ -21,3 +21,4 @@ Walk the dog
 Hard-working
 Diligent = трудолюбивый
 
+Easy-going = легкий на подъем
