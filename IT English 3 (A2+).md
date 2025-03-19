@@ -50,3 +50,4 @@ When does it open?
 Half past nine
 
 **Hide** = прятать
+**Wake up** = просыпаться 
