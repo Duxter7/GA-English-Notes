@@ -11,4 +11,4 @@ What kind of
 What sort of 
 
 Something like this = как-то так
-I watch 
+I watch series 
