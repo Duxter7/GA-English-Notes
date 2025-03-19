@@ -13,4 +13,4 @@ I had to talk English
 **Stay in touch with** someone = поддерживать связь
 **Take after** someone = перенимать
 
-Dormi
+Dormitory (dorm) = общага
