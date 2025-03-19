@@ -5,20 +5,17 @@ Exhausted = very tired = dead (slang)
 
 **Practice makes perfect** = повторенье мать ученья
 
-Our Indian friend doesn't speak English
-I don't work at Letual, I work at Gold Apple
-What do you want to know my dear Indian?
+Our Indian friend doesn't speak English  
+I don't work at Letual, I work at Gold Apple  
+What do you want to know my dear Indian?  
 
-To be = быть; являться
-	is
-	are
-	am
+To be = быть; являться  
+	is  
+	are  
+	am  
 
-**Do** you work here?
-Do**es** he work here?
-
-Do you agree
-
+**Do** you work here?  
+Do**es** he work here?  
 ## 19-03-2025
 
 I go to bed at 11 PM
