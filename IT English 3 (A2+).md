@@ -51,3 +51,6 @@ Half past nine
 
 **Hide** = прятать
 **Wake up** = просыпаться 
+
+
+Queue (UK) = line (US)
