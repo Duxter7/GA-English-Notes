@@ -17,3 +17,6 @@ Dormitory (dorm) = общага
 
 Walk with the dog
 Walk the dog
+
+Hard-working
+Diligent = трудолюбивый
