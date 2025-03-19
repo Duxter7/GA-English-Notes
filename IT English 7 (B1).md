@@ -12,3 +12,5 @@ I had to talk English
 **Look up to** someone = уважать (равняться)
 **Stay in touch with** someone = поддерживать связь
 **Take after** someone = перенимать
+
+Dormi
