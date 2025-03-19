@@ -25,7 +25,7 @@ They work at Gold Apple
 
 Do I work
 Do you work
-Do**es** he work <br>
+Do**es** he work
 Do**es** she work
 Do**es** it work
 
