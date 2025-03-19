@@ -30,3 +30,6 @@ Go - went - gone
 Are you full of energy?
 
 I am **live**
+
+What do you do?
+What are you doing?
