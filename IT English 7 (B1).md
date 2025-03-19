@@ -8,3 +8,4 @@ I had to talk English
 **Acquaintance** = знакомый (человек)
 
 **Get on well with** someone = хорошо ладить
+**To be friendly with** someone = дружить с кем-то
