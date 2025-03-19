@@ -11,3 +11,4 @@ I had to talk English
 **To be friendly with** someone = дружить с кем-то
 **Look up to** someone = уважать (равняться)
 **Stay in touch with** someone = поддерживать связь
+**Take after** someone = перенимать
