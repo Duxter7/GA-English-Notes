@@ -44,3 +44,4 @@ I played a little; I progressed a little
 **Does** she study English?
 
 I **don't** like to speak with (to) Indians at work
+He doesn't understand 
