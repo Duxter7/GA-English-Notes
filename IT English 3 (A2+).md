@@ -36,3 +36,6 @@ Inspiration = вдохновение
 
 When I study English, I feel freedom 
 
+## 19-03-2025
+
+Have you got (UK) = Do you have (US)
