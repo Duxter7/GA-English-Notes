@@ -9,3 +9,4 @@ I had to talk English
 
 **Get on well with** someone = хорошо ладить
 **To be friendly with** someone = дружить с кем-то
+**Look up to** someone = уважать (равняться)
