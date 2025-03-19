@@ -20,3 +20,4 @@ Walk the dog
 
 Hard-working
 Diligent = трудолюбивый
+
