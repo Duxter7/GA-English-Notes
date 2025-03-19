@@ -40,4 +40,4 @@ When I study English, I feel freedom
 
 Have you got (UK) = Do you have (US)
 
-Can you spell it 
+Can you spell it = можешь прочитать (произнести) по буквам 
