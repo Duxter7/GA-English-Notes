@@ -42,7 +42,10 @@ I played a little; I progressed a little
 
 **Does** he like to play videogames?
 **Does** she study English?
+**Do** we know him?
 
 I **don't** like to speak with (to) Indians at work
 He **doesn't** understand anything
-My best friends don't want to do anything
+My best friends **don't** want to do anything
+
+I work 
