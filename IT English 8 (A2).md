@@ -17,3 +17,5 @@ Rest = отдыхать
 I don't know **yet** = еще 
 
 Term = термин
+
+**After that** I will rest
