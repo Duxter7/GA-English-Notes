@@ -78,3 +78,5 @@ South
 North  
 West  
 East  
+
+Right now = прямо сейчас
