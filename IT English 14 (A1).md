@@ -62,7 +62,13 @@ To be
 2. is
 3. are
 
+**Приветствия**
 Hello - hi - hey
-
 Good morning
 Good afternoon
+Good evening
+
+**Прощание**
+Good night
+See you
+
