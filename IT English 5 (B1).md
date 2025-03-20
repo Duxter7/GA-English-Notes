@@ -47,3 +47,26 @@ Tidy = аккуратный
 **I don't mind if** you do this = я не против если
 
 What's the occasion? = какой повод? 
+
+**Present simple**
+I like
+He like**s**
+
+I don't like
+He doesn't like
+
+Do I like?
+Does he like?
+
+**Present continuous**
+I am working
+He is working
+They are working
+
+I am not working
+He is not working 
+They are not working
+
+Am I working?
+Is he working?
+Are they working
