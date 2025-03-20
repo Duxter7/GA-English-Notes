@@ -86,4 +86,4 @@ Meeting = встреча
 
 At the moment = в данный момент
 
-Are1
+**What time** is it = сколько времени
