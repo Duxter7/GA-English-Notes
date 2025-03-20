@@ -32,3 +32,10 @@ Firm
 
 She was **stubborn** 
 No matter what = несмотря ни на что
+
+## 20-03-2025
+
+Cheerful
+Kind
+Generous
+Funny
