@@ -41,3 +41,4 @@ Generous = щедрый
 Funny = забавный
 Reliable = надежный
 	Rely on = положиться
+
