@@ -26,3 +26,5 @@ Bossy
 Easy-going
 Funny
 Generous 
+Reliable
+Polite 
