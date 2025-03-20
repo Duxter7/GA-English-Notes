@@ -7,3 +7,5 @@ Reliable = надежный
 	Rely on = положиться 
 
 Two pieces of advice
+
+What's the occasion? = какой повод?
