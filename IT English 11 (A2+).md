@@ -1,19 +1,17 @@
 
-Common = обычный; общий
-	We have many things **in common**
+## 19-03-2025
 
--How do you do
--How do you do
+Common = обычный; общий  
+	We have many things **in common**  
+
+-How do you do  
+-How do you do  
 
 What do you do = чем ты занимаешься (чем ты зарабатываешь)
-
-**It depends on** where we meet
-
-Film (UK) = Movie (US)
-
-Do you have (US) = Have you got (UK)
-
-How long is your shift
+**It depends on** where we meet  
+Film (UK) = Movie (US)  
+Do you have (US) = Have you got (UK)  
+How long is your **shift**  
 
 ## 20-03-2025
 

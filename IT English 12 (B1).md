@@ -1,13 +1,10 @@
 
 ## 20-03-2025
 
-Cheer up = взбодрись
-Diligent = трудолюбивый
-Reliable = надежный
+Cheer up = взбодрись  
+Diligent = трудолюбивый  
+Reliable = надежный  
 	Rely on = положиться 
 
 Two pieces of advice  
-
 What's the occasion? = какой повод?  
-
-I am trying to do this
