@@ -15,4 +15,5 @@ Common weapon - rare
 
 Start to like = take to someone; warm to someone
 Cause trouble between people = come between someone
-Have an aarg
+Have an argument = to fall out
+Become friends again = to make up
