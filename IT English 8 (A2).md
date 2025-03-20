@@ -15,3 +15,5 @@ No, I don't
 Rest = отдыхать
 
 I don't know **yet** = еще 
+
+Term = термин
