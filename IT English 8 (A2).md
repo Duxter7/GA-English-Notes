@@ -23,3 +23,5 @@ Term = термин
 It's Georgian cuisine 
 
 On Friday evening
+
+Employee
