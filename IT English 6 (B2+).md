@@ -12,3 +12,6 @@ Were I you, I would do it differently
 Were I to do that, he would be disappointed 
 
 Common weapon - rare 
+
+Start to like = take to someone
+Cause trouble between people = come between someone
