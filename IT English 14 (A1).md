@@ -44,5 +44,6 @@ Hard = трудно
 
 Can you **spell** it?
 
-Kind = добрый
-I 
+Kind = добрый  
+I am **now** sad = сейчас  
+My best friend is now in Moscow  
