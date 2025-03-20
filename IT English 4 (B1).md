@@ -51,3 +51,6 @@ I am not working
 He is not working 
 They are not working
 
+Am I working?
+Is he working?
+Are they working
