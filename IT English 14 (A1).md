@@ -47,3 +47,4 @@ Can you **spell** it?
 Kind = добрый  
 I am **now** sad = сейчас  
 My best friend is now in Moscow  
+I am an employee **at** Gold Apple
