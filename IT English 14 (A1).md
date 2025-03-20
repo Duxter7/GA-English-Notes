@@ -49,5 +49,9 @@ I am **now** sad = сейчас
 My best friend is now in Moscow  
 I am an employee **at** Gold Apple  
 
-**Is** he in the office now?
-Are the Indian*s* in the bar now?
+**Is** he in the office now?  
+Are the Indian*s* in the bar now?  
+Is **your** computer in the building? = твой
+
+PC = компьютер
+Laptop = ноутбук
