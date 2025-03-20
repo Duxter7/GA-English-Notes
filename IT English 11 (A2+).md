@@ -19,3 +19,5 @@ How long is your shift
 
 What time does it open?
 When is it open?
+
+Membership 
