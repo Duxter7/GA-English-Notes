@@ -17,3 +17,4 @@ Start to like = take to someone; warm to someone
 Cause trouble between people = come between someone
 Have an argument = to fall out
 Become friends again = to make up
+Gradually stop being friends = drift apart
