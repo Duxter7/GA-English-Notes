@@ -19,3 +19,10 @@ Seems right
 
 Hard-working 
 Diligent = трудолюбивый
+
+## 20-03-2025
+
+Bossy
+Easy-going
+Funny
+Generous 
