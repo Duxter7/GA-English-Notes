@@ -26,4 +26,5 @@ On Friday evening
 
 Employee
 
-Are you very 
+Are you very busy?
+Do you work a lot?
