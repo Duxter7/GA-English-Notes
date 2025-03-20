@@ -41,4 +41,3 @@ Nice to meet you = приятно познакомиться
 Here = здесь; there = там
 Difficult = сложно
 Hard = трудно
-
