@@ -43,3 +43,5 @@ Reliable = надежный
 	Rely on = положиться  
 Bossy = властный  
 Tidy = аккуратный
+
+**I don't mind if** you do this = я не против если
