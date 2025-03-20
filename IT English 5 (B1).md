@@ -35,7 +35,9 @@ No matter what = несмотря ни на что
 
 ## 20-03-2025
 
-Cheerful
-Kind
-Generous
-Funny
+Cheerful = радостный
+Kind = добрый
+Generous = щедрый
+Funny = забавный
+Reliable = надежный
+	Rely on = положиться
