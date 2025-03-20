@@ -83,3 +83,5 @@ Right now = прямо сейчас
 
 Meeting = встреча
 	Where is **our** (наша) meeting room? 
+
+At the moment = в данный момент
