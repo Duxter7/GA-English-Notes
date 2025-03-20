@@ -70,5 +70,8 @@ Good evening
 
 **Прощание**
 Good night
-See you
+See you - See you later
+	See you on Tuesday
+Goodbye - bye
+
 
