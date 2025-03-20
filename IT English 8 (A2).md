@@ -21,3 +21,5 @@ Term = термин
 **After that** I will rest
 
 It's Georgian cuisine 
+
+On Friday evening
