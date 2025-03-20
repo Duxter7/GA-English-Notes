@@ -44,4 +44,5 @@ Hard = трудно
 
 Can you **spell** it?
 
-K 
+Kind = добрый
+I 
