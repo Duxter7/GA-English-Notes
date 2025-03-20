@@ -55,3 +55,4 @@ Is **your** computer in the building? = твой
 
 PC = компьютер
 Laptop = ноутбук
+Notebook = тетрадь  
