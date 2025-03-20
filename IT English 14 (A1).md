@@ -61,3 +61,8 @@ To be
 1. am
 2. is
 3. are
+
+Hello - hi - hey
+
+Good morning
+Good afternoon
