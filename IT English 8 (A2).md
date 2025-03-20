@@ -28,3 +28,5 @@ Employee
 
 Are you very busy?
 Do you work a lot?
+
+The place where I was born
