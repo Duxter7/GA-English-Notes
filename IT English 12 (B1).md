@@ -4,7 +4,7 @@
 Cheer up = взбодрись  
 Diligent = трудолюбивый  
 Reliable = надежный  
-	Rely on = положиться 
+	Rely on = положиться  
 
 Two pieces of advice  
 What's the occasion? = какой повод?  
