@@ -42,3 +42,4 @@ Funny = забавный
 Reliable = надежный  
 	Rely on = положиться  
 Bossy = властный  
+Tidy = аккрутаный
