@@ -82,4 +82,4 @@ East
 Right now = прямо сейчас
 
 Meeting = встреча
-	Where is 
+	Where is **our** (наша) meeting room? 
