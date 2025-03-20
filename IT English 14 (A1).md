@@ -14,33 +14,29 @@ To be = быть; являться
 		He **is** hungry
 		She isn't angry
 		It
-
 Negatives
 	**am** not = aren't = 're not
 	**are** not = 'm not
-
 Questions
 	**Are** you busy?
 	**Am** I sleepy?
-
 Short answers
 	Are you busy?
 		Yes, I am
 		No, I am not
 
-Where **are** you from?
-Where **am** I? 
+Where **are** you from?  
+Where **am** I?  
 
-Sad = грустный
-Why **are** you sad?
+Sad = грустный  
+Why **are** you sad?  
+You **are** on fire = ты в ударе  
 
-You **are** on fire = ты в ударе
-
-You too = тебя тоже
-Nice to meet you = приятно познакомиться
-Here = здесь; there = там
-Difficult = сложно
-Hard = трудно
+You too = тебя тоже  
+Nice to meet you = приятно познакомиться  
+Here = здесь; there = там  
+Difficult = сложно  
+Hard = трудно  
 
 ## 20-03-2025
 
