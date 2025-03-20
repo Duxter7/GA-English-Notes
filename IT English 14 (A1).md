@@ -80,3 +80,6 @@ West
 East  
 
 Right now = прямо сейчас
+
+Meeting = встреча
+	Where is 
