@@ -5,3 +5,5 @@ Cheer up = взбодрись
 Diligent = трудолюбивый
 Reliable = надежный
 	Rely on = положиться 
+
+Advice
