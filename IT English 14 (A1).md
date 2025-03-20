@@ -53,6 +53,11 @@ I am an employee **at** Gold Apple
 Are the Indian*s* in the bar now?  
 Is **your** computer in the building? = твой
 
-PC = компьютер
-Laptop = ноутбук
+PC = компьютер  
+Laptop = ноутбук  
 Notebook = тетрадь  
+
+To be 
+1. am
+2. is
+3. are
