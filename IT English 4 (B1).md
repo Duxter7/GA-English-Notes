@@ -31,3 +31,10 @@ Polite
 
 Occasion 
 	What's the occasion? = что за повод?
+
+Present simple
+
+I like
+He like**s**
+
+I don't like
