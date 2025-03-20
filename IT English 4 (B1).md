@@ -28,3 +28,6 @@ Funny
 Generous 
 Reliable
 Polite 
+
+Occasion 
+	What's the occasion? = что за повод?
