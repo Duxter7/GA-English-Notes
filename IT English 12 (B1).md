@@ -6,4 +6,4 @@ Diligent = трудолюбивый
 Reliable = надежный
 	Rely on = положиться 
 
-Advice
+Two pieces of advice
