@@ -13,3 +13,5 @@ No, I don't
 ## 20-03-2025
 
 Rest = отдыхать
+
+I don't know **yet** = еще 
