@@ -11,3 +11,4 @@ I prefer a real conversation to an online one
 Were I you, I would do it differently 
 Were I to do that, he would be disappointed 
 
+Common weapon - rare 
