@@ -30,3 +30,11 @@ Are you very busy?
 Do you work a lot?
 
 The place where I was born
+
+To be 
+1. am
+2. is
+3. are
+
+4. was
+5. were
