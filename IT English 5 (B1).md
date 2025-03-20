@@ -70,3 +70,5 @@ They are not working
 Am I working?
 Is he working?
 Are they working
+
+Acquaintance = знакомый 
