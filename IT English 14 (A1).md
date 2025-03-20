@@ -74,4 +74,7 @@ See you - See you later
 	See you on Monday
 Goodbye - bye
 
-
+South  
+North  
+West  
+East  
