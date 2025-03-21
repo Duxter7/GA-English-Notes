@@ -41,3 +41,5 @@ Trip = поездка
 Take - took - taken
 
 Last year - this year - next year
+
+We were
