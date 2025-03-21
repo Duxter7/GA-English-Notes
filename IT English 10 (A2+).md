@@ -31,3 +31,8 @@ Gym membership = абонемент в зал
 	I bought a gym membership and I only went two times
 
 Rucksack (UK) = Backpack (US)
+
+Go home
+Hometown 
+
+Travel = 
