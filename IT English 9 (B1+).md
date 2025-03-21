@@ -25,3 +25,8 @@ Unfortunately I lost them and had to buy new ones
 
 Remember 
 Recall
+
+From these sales
+
+Second hand 
+Used
