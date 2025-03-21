@@ -113,3 +113,4 @@ Meeting room = переговорка
 
 How old are you? = сколько тебе лет?
 How many friends do you have? = сколько у тебя друзей?
+What time is it? = сколько времени?
