@@ -25,3 +25,6 @@ Diligent = трудолюбивый
 **Reliable** 
 **Rely on** someone
 
+## 21-03-2025
+
+Two pieces of advice 
