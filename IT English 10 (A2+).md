@@ -23,3 +23,4 @@ When does it open?
 ## 21-03-2025
 
 Next to = рядом (максимально)
+Near = рядом
