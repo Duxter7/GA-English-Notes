@@ -60,5 +60,6 @@ To be
 1. am
 	1. I = я
 2. is 
-	1. He; sh
+	1. He - он; she - она; it - это
 3. are
+	1. You - ты, вы; we - 
