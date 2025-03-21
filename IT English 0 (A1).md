@@ -85,3 +85,16 @@ To be
 	**Is** <u>my boss</u> in Moscow now?
 	**Am** <u>I</u> sad?
 	**Are** <u>the Indians</u> very hungry?
+
+**Приветствия****
+Hello - hi - hey
+Good morning = доброе утро
+Good afternoon = добрый день
+Good evening = добрый вечер
+
+**Прощания**
+Good night =  спокойной ночи
+See you - See you later
+	See you on Monday
+Goodbye - bye
+Good day
