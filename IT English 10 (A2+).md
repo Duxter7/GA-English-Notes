@@ -39,3 +39,5 @@ Travel = путешествовать; "путешественная - travel in
 Trip = поездка
 
 Take - took - taken
+
+Last year - this year - next year
