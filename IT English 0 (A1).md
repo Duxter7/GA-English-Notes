@@ -98,3 +98,8 @@ See you - See you later
 	See you **on** Monday
 Goodbye - bye
 Good day = хорошего дня
+
+South
+North
+East
+West 
