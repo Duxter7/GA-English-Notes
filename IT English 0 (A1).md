@@ -51,3 +51,8 @@ Are you a teacher?
 *Why* (почему) are you angry?  
 
 Nice to meet you = приятно познакомиться
+
+## 21-03-2025
+
+![[To be present.jpg]]
+

@@ -40,7 +40,7 @@ Hard = трудно
 
 ## 20-03-2025
 
-![[3886574_orig-2.jpg]]
+![[To be present.jpg]]
 
 Can you **spell** it?
 
