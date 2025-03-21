@@ -34,3 +34,6 @@ Occasionally
 		What's the occasion? = какой повод?
 
 Too ez
+
+Close the door (клоуз)
+Close friend (клоус)
