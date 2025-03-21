@@ -103,3 +103,10 @@ South
 North
 East
 West 
+
+When = когда
+Where = где
+Why = почему
+What = что; какой
+
+Meeting 
