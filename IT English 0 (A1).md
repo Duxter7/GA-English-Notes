@@ -65,5 +65,7 @@ To be
 	1. You - ты, вы; we - мы; they - они
 
 **Affirmative**  
-	They are busy
-	My best friend is
+	<u>They</u> **are** busy
+	<u>My best friend</u> **is** angry
+	<u>My boss</u> **is** in Moscow 
+	
