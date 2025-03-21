@@ -57,4 +57,8 @@ Nice to meet you = приятно познакомиться
 ![[To be present.jpg]]
 
 To be
-1. 
+1. am
+	1. I = я
+2. is 
+	1. He; sh
+3. are
