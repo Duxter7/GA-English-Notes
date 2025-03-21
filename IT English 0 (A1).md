@@ -110,3 +110,5 @@ Why = почему
 What = что; какой
 
 Meeting room = переговорка
+
+How old are you? = сколько тебе лет?
