@@ -109,4 +109,4 @@ Where = где
 Why = почему
 What = что; какой
 
-Meeting 
+Meeting room = переговорка
