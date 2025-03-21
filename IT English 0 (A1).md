@@ -94,7 +94,7 @@ Good evening = добрый вечер
 
 **Прощания**
 Good night =  спокойной ночи
-See you - See you later
-	See you on Monday
+See you - See you later 
+	See you **on** Monday
 Goodbye - bye
-Good day
+Good day = хорошего дня
