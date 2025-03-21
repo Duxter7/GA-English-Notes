@@ -77,3 +77,9 @@ To be
 	<u>My boss</u> **is not** in Moscow now 
 	<u>I</u> **am not** sad 
 	<u>The Indians</u> **are not** very hungry
+	
+
+**Questions**
+	**Are** <u>they</u> busy?
+	**Is** <u>my best friend</u> angry?
+	
