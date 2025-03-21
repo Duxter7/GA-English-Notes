@@ -22,4 +22,6 @@ Log out
 
 Take to someone; to warm to someone= start to like
 Come between someone = cause trouble
-Fall out = to have agrument
+Fall out = to have argument
+Made up = become friends again
+Drift apart = gradually stop being friends 
