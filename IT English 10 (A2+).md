@@ -37,3 +37,5 @@ Hometown
 
 Travel = путешествовать; "путешественная - travel insurance"
 Trip = поездка
+
+Take - took - taken
