@@ -31,3 +31,5 @@ From these sales
 Second hand 
 Used
 	I bought a used phone
+
+There are so many rules and exceptions
