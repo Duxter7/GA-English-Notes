@@ -84,4 +84,4 @@ To be
 	**Is** <u>my best friend</u> angry?
 	**Is** <u>my boss</u> in Moscow now?
 	**Am** <u>I</u> sad?
-	Are the Indians verty
+	**Are** <u>the Indians</u> very hungry?
