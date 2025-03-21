@@ -58,8 +58,10 @@ Nice to meet you = приятно познакомиться
 
 To be
 1. am
-	1. I = я
+	1. I - я
 2. is 
 	1. He - он; she - она; it - это
 3. are
-	1. You - ты, вы; we - 
+	1. You - ты, вы; we - мы; they - они
+
+Affir
