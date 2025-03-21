@@ -56,3 +56,5 @@ Nice to meet you = приятно познакомиться
 
 ![[To be present.jpg]]
 
+To be
+1. 
