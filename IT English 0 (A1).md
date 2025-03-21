@@ -93,11 +93,11 @@ Good afternoon = добрый день
 Good evening = добрый вечер
 
 **Прощания**
-Good night =  спокойной ночи
+Good night - спокойной ночи
 See you - See you later 
 	See you **on** Monday
 Goodbye - bye
-Good day = хорошего дня
+Good day - хорошего дня
 
 South
 North
@@ -111,6 +111,7 @@ What = что; какой
 
 Meeting room = переговорка
 
-How old are you? = сколько тебе лет?
+How old **are** you? = сколько тебе лет?
 How many friends do you have? = сколько у тебя друзей?
-What time is it? = сколько времени?
+What time **is** it? = сколько времени?
+It **is** 11 AM now
