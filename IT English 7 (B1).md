@@ -27,4 +27,8 @@ Diligent = трудолюбивый
 
 ## 21-03-2025
 
-Two pieces of advice 
+Two pieces of advice
+
+Occasionally
+	Occasion
+		What's the occasion? = какой повод?
