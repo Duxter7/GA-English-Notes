@@ -72,8 +72,8 @@ To be
 	<u>The Indians</u> **are** very hungry
 
 **Negatives**
-	<u>They</u> **are** **not** busy = aren't = 're not'
-	<u>My best friend</u> **is** angry
+	<u>They</u> **are** **not** busy = they **aren't** busy = they'**re not** busy
+	<u>My best friend</u> **is not** angry = my best isn't angry = my best friend
 	<u>My boss</u> **is** in Moscow 
 	<u>I</u> **am** sad
 	<u>The Indians</u> **are** very hungry
