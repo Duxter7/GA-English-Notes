@@ -26,3 +26,5 @@ Next to = рядом (максимально)
 Near = рядом
 
 Queue (UK) = line (US) = очередь
+
+Gym membership = абонемент
