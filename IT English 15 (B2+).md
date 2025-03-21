@@ -25,3 +25,6 @@ Come between someone = cause trouble
 Fall out = to have argument
 Made up = become friends again
 Drift apart = gradually stop being friends 
+
+When we were kids, we used to play videogames all day long
+When we were kids, we used to play videogames all day long
