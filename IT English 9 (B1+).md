@@ -30,3 +30,4 @@ From these sales
 
 Second hand 
 Used
+	I bought a used phone
