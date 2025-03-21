@@ -64,4 +64,6 @@ To be
 3. are
 	1. You - ты, вы; we - мы; they - они
 
-Affir
+**Affirmative**  
+	They are busy
+	My best friend is
