@@ -20,4 +20,5 @@ Log out
 
 ## 21-03-2025
 
-Take to someone = lio
+Take to someone = start to like
+Come between someone = cause trouble
