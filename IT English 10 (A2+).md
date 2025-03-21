@@ -35,7 +35,7 @@ Rucksack (UK) = Backpack (US)
 Go home
 Hometown 
 
-Travel = путешествовать; "путешественная - travel insurance"
+Travel = путешествовать; "путешественная" - travel insurance
 Trip = поездка
 
 Take - took - taken
