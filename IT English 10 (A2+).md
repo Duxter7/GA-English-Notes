@@ -24,3 +24,5 @@ When does it open?
 
 Next to = рядом (максимально)
 Near = рядом
+
+Queue (UK) = line (US) = очередь
