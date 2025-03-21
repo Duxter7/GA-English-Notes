@@ -82,4 +82,6 @@ To be
 **Questions**
 	**Are** <u>they</u> busy?
 	**Is** <u>my best friend</u> angry?
-	
+	**Is** <u>my boss</u> in Moscow now?
+	**Am** <u>I</u> sad?
+	Are the Indians verty
