@@ -39,3 +39,5 @@ Exhausting
 Exhausted
 
 Shopping mall
+
+ad - advert - advertisement
