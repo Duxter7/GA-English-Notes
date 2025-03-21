@@ -27,4 +27,5 @@ Near = рядом
 
 Queue (UK) = line (US) = очередь
 
-Gym membership = абонемент
+Gym membership = абонемент в зал
+	I bought a gym membership and I only went two times
