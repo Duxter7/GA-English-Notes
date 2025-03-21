@@ -34,3 +34,8 @@ Used
 
 There are so many rules and exceptions
 **Someone** who **buys** it
+
+Exhausting
+Exhausted
+
+Shopping mall
