@@ -68,4 +68,5 @@ To be
 	<u>They</u> **are** busy
 	<u>My best friend</u> **is** angry
 	<u>My boss</u> **is** in Moscow 
-	
+	<u>I</u> **am** sad
+	The Indians are v
