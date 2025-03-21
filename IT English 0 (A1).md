@@ -73,7 +73,7 @@ To be
 
 **Negatives**
 	<u>They</u> **are** **not** busy = they **aren't** busy = they'**re not** busy
-	<u>My best friend</u> **is not** angry = my best isn't angry = my best friend
-	<u>My boss</u> **is** in Moscow 
-	<u>I</u> **am** sad
-	<u>The Indians</u> **are** very hungry
+	<u>My best friend</u> **is not** angry = my best friend isn't angry = my best friend's not angry
+	<u>My boss</u> **is not** in Moscow now 
+	<u>I</u> **am not** sad 
+	<u>The Indians</u> **are not** very hungry
