@@ -70,3 +70,5 @@ Go here
 Go there
 
 Each other = друг друга
+To be exactly the same = один в один
+	Exactly 
