@@ -30,3 +30,8 @@ Wage = ставка
 Out of work = unemployed 
 
 Applied informatics 
+
+Eat - eating
+Sleep - sleeping 
+Smoke - smoking
+Drink - drinking 
