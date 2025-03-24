@@ -68,3 +68,5 @@ Go to the office
 Go home
 Go here
 Go there
+
+Each other = друг друга
