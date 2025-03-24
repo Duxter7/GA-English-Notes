@@ -126,3 +126,6 @@ Petrol station (UK)
 Programmer 
 Coder
 Developer
+
+Crane operator
+Builder
