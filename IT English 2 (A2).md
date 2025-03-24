@@ -61,3 +61,10 @@ Reload the page = перезагрузи страницу
 I went to bed at 10 PM
 
 A scene from the movie
+
+Go to work
+Go to the office
+
+Go home
+Go here
+Go there
