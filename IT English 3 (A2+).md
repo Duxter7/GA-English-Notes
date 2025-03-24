@@ -76,3 +76,5 @@ Wage = ставка
 Log in = Sign in
 Log out = Sign out
 Register = **Sign up**
+
+Not quite = не совсем
