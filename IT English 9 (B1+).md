@@ -69,3 +69,8 @@ I stopped smoking 5 years ago
 
 I forgot to lock the door
 I forgot locking the door
+
+Eat - eating
+See - seeing
+Drink - drinking
+
