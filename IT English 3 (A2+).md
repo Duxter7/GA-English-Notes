@@ -66,3 +66,6 @@ Nice to meet you
 
 Career = карьера
 Offer a job = предложить работу
+
+Payment (платеж; оплата в общем)
+The pay (оплата за работу)
