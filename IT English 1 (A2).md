@@ -38,4 +38,4 @@ Football (UK) - Soccer (US)
 Retired = в отставке
 Employee
 	Employed
-	
+	Unemployed = безработный
