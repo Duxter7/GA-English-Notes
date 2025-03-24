@@ -96,3 +96,5 @@ Is my boss in the office or not?
 Where are you?
 Where is your best friend now?
 They *are* not American**s**, they *are* Indian**s**
+Where is your new MacBook?
+Are you busy now?
