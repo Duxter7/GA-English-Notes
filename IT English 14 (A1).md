@@ -119,3 +119,6 @@ Painter = художник (красками)
 
 Cook = повар
 Chef = шеф-повар
+
+Gas station (US)  
+Petrol station (UK)  
