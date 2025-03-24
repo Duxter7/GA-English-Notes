@@ -66,10 +66,9 @@ Nice to meet you
 
 Career = карьера
 Offer a job = предложить работу
-
-Payment (платеж; оплата в общем)
-The pay (оплата за работу)
-Sign a contract 
+Sign a contract = подписать контракт
+Payment = платеж; оплата в общем
+The pay = оплата за работу
 
 Salary = оклад 
 Wage = ставка
