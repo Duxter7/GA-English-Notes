@@ -13,3 +13,5 @@ What's the occasion? = какой повод?
 
 Spend on 
 Firefighter
+
+They save lives by putting out (extinguishing) fire
