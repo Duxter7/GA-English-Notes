@@ -37,3 +37,11 @@ Lit (slang) = cool
 Car = wheels; whip
 
 Eat - ate - eaten
+
+Doing this is bad
+
+Smoking is bad
+Drinking is expensive 
+
+Before going to bed, I usually 
+
