@@ -19,3 +19,7 @@ They save lives by putting out (extinguishing) fire
 Chief = начальник
 Chef = шеф-повар
 Cook = повар
+
+The pay = оплата (за труд)
+Salary = оклад
+Wage = ставка
