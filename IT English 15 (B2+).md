@@ -36,3 +36,4 @@ Go on vacation (US) / holiday (UK)
 Lit (slang) = cool
 Car = wheels; whip
 
+Eat - ate - eaten
