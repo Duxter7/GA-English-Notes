@@ -35,4 +35,7 @@ Football (UK) - Soccer (US)
 
 ## 24-03-2025
 
-
+Retired = в отставке
+Employee
+	Employed
+	
