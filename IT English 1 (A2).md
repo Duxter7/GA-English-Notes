@@ -45,3 +45,4 @@ He doesn't work at Gold Apple?
 He works at Gold Apple
 
 Get up = вставать
+
