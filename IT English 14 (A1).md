@@ -98,3 +98,5 @@ Where is your best friend now?
 They *are* not American**s**, they *are* Indian**s**
 Where is your new MacBook?
 Are you busy now?
+Where is her bag?
+Where is your new employee?
