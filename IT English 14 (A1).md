@@ -122,3 +122,4 @@ Chef = шеф-повар
 
 Gas station (US)  
 Petrol station (UK)  
+
