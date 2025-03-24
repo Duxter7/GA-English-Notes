@@ -44,7 +44,11 @@ ad - advert - advertisement
 
 ## 24-03-2025
 
-Thorough cleaning = генеральная уборка
-From time to time = время от времени
+Thorough cleaning = генеральная уборка  
+From time to time = время от времени  
 
-It can be called
+It can be called  
+
+It depends on  
+
+Gigantic  
