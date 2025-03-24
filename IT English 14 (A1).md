@@ -103,3 +103,6 @@ Where is your new employee?
 Is it (this) **our** new employee?
 
 Waiter = официант  
+Singer = певец
+Doctor
+Driver
