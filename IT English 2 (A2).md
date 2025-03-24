@@ -61,4 +61,3 @@ Reload the page = перезагрузи страницу
 I went to bed at 10 PM
 
 A scene from the movie
-Play = пьеса 
