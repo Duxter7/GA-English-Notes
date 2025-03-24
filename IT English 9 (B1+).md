@@ -67,5 +67,5 @@ To smoke is bad
 I stopped to smoke 5 years ago
 I stopped smoking 5 years ago
 
-Forgot to lock 
-Forgot to do
+I forgot to lock the door
+I forgot locking the door
