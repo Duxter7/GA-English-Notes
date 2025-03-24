@@ -39,3 +39,7 @@ Retired = в отставке
 Employee
 	Employed
 	Unemployed = безработный
+
+Does he work at Gold Apple?
+He doesn't work at Gold Apple?
+He works at Gold Apple
