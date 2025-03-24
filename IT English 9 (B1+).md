@@ -63,3 +63,6 @@ Before I did this, I went to the store
 To be or not to be
 
 To smoke is bad
+
+I stopped to smoke 5 years ago
+I stopped smoking 5 years ago
