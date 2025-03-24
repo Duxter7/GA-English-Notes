@@ -52,3 +52,7 @@ It can be called
 It depends on  
 
 Gigantic  
+
+Renovation = ремонт квартиры
+
+About a year ago
