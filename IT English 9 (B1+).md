@@ -58,3 +58,8 @@ Renovation = ремонт квартиры
 About a year ago
 
 *Before* **doing** this, I went to the store
+Before I did this, I went to the store
+<u>Smoking</u> is bad 
+To be or not to be
+
+To smoke is bad
