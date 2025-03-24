@@ -46,3 +46,5 @@ He works at Gold Apple
 
 Get up = вставать
 
+I had a bed sleep
+I didn't sleep well 
