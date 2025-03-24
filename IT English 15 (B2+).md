@@ -34,3 +34,4 @@ When we were kids, we **would** play videogames all day long
 Go on vacation (US) / holiday (UK)
 
 Lit (slang) = cool
+Car = wheels; whip
