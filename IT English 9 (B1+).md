@@ -56,3 +56,5 @@ Gigantic
 Renovation = ремонт квартиры
 
 About a year ago
+
+*Before* **doing** this, I went to the store
