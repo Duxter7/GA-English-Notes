@@ -93,3 +93,5 @@ At the moment = в данный момент
 I woke up one hour ago
 
 Is my boss in the office or not?
+Where are you?
+Where is your best friend now?
