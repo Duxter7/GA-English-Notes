@@ -63,3 +63,5 @@ Meet with friends
 Nice to see you
 
 Nice to meet you
+
+Career = карьера
