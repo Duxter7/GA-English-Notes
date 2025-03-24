@@ -78,3 +78,7 @@ Log out = Sign out
 Register = **Sign up**
 
 Not quite = не совсем
+
+I have always been in HR
+
+My whole career has been 
