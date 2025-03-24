@@ -111,3 +111,6 @@ Nurse = медсестра
 
 **An** apple
 **A** doctor
+
+For example = например
+Let's wait for everyone
