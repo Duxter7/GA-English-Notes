@@ -12,5 +12,5 @@ Built
 
 Build - built - **built** 
 
-People sitting here are rude
-People sitting 
+People **sitting** here are rude
+People **sitting** there were rude
