@@ -26,3 +26,5 @@ Wage = ставка
 
 **Responsible for** something / someone
 **In charge of** something / someone
+
+At Gold Apple
