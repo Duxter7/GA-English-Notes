@@ -23,3 +23,6 @@ Cook = повар
 The pay = оплата (за труд)
 Salary = оклад
 Wage = ставка
+
+**Responsible for** something / someone
+**In charge of** something / someone
