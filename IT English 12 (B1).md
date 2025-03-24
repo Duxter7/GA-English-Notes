@@ -18,4 +18,4 @@ They save lives by putting out (extinguishing) fire
 
 Chief = начальник
 Chef = шеф-повар
-Cook
+Cook = повар
