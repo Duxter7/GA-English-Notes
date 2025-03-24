@@ -51,3 +51,7 @@ I didn't sleep well
 
 Exactly = именно
 	Exactly the same = полностью одинаковый
+
+Do - does
+Go - goes
+Teach - teach**es**
