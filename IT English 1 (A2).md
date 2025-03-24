@@ -48,3 +48,6 @@ Get up = вставать
 
 I had a bed sleep
 I didn't sleep well 
+
+Exactly = именно
+	Exactly the same = полностью одинаковый
