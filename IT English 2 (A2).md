@@ -54,3 +54,7 @@ For breakfast I have pizza, for breakfast he **has** pasta
 Live - leave
 
 Soccer  (US) = Football (UK)
+
+## 24-03-2025
+
+Reload the page = перезагрузи страницу
