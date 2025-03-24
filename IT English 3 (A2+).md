@@ -80,5 +80,4 @@ Register = **Sign up**
 Not quite = не совсем
 
 I have always been in HR
-
-My whole career has been 
+My whole career has always been HR 
