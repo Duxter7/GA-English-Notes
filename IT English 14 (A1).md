@@ -114,3 +114,8 @@ Nurse = медсестра
 
 For example = например
 Let's wait for everyone
+
+Painter = художник (красками)
+
+Cook = повар
+Chef = шеф-повар
