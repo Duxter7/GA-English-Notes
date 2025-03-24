@@ -1,4 +1,3 @@
- 
 ## 17-03-2025
 
 Exhausted = very tired = dead (slang)
@@ -33,3 +32,5 @@ Employee
 Employer  
 
 Football (UK) - Soccer (US)
+
+## 24-03-2025
