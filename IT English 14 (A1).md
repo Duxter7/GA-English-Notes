@@ -106,3 +106,6 @@ Waiter = официант
 Singer = певец
 Doctor
 Driver
+
+**An** apple
+**A** doctor
