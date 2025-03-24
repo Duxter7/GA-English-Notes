@@ -28,3 +28,5 @@ Wage = ставка
 **In charge of** something / someone  
 
 Out of work = unemployed 
+
+Applied informatics 
