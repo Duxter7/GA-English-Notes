@@ -72,3 +72,11 @@ Go there
 Each other = друг друга
 To be exactly the same = один в один
 	Exactly = именно
+
+Like - likes
+Play - plays
+
+Go - goes
+Do - does
+Watch - watches
+Teach - teaches
