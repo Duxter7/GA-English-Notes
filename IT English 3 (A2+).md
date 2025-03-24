@@ -69,6 +69,11 @@ Offer a job = предложить работу
 
 Payment (платеж; оплата в общем)
 The pay (оплата за работу)
+Sign a contract 
 
 Salary = оклад 
 Wage = ставка
+
+Log in = Sign in
+Log out = Sign out
+Register = **Sign up**
