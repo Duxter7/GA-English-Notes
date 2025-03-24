@@ -106,6 +106,7 @@ Waiter = официант
 Singer = певец
 Doctor
 Driver
+Artist = художник; творец
 
 **An** apple
 **A** doctor
