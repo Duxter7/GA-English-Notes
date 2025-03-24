@@ -107,6 +107,7 @@ Singer = певец
 Doctor
 Driver
 Artist = художник; творец
+Nurse = медсестра
 
 **An** apple
 **A** doctor
