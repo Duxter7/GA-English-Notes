@@ -65,3 +65,4 @@ Nice to see you
 Nice to meet you
 
 Career = карьера
+Offer a job = предложить работу
