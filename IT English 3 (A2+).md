@@ -56,3 +56,9 @@ Half past nine
 Queue (UK) = line (US)
 
 Fraud = мошенник / мошенничество
+
+## 24-03-2025
+
+Meet with friends 
+Nice to see you
+Nice to meet you
