@@ -45,5 +45,4 @@ ad - advert - advertisement
 ## 24-03-2025
 
 Thorough cleaning = генеральная уборка
-
-From time to ti
+From time to time = время от времени
