@@ -85,3 +85,5 @@ My whole career has always been HR
 Recruiter is a part of HR functions 
 
 Vet = veterinarian / veteran
+
+Subjects = предметы в школе
