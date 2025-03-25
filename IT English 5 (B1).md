@@ -109,4 +109,4 @@ A person who
 People who
 
 Who do you like?
-W
+Whom do you like?
