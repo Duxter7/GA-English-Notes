@@ -72,3 +72,5 @@ Minimum wage = прожиточный минимум
 
 Responsible for = ответственный за
 In charge of = во главе
+
+Out of work = unemployed
