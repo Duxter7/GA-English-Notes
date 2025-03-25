@@ -77,3 +77,8 @@ Acquaintance = знакомый
 
 Rely on = положиться
 Reliable = надежный
+
+Put out a fire
+Extinguish a fire
+
+Vet = veteri
