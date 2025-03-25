@@ -102,3 +102,5 @@ Out of work = unemployed
 2. B.A. / B.S.
 3. M.A. / M.S.
 4. PhD
+
+Utilities = коммунальные услуги
