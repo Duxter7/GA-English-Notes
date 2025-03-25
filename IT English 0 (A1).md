@@ -142,3 +142,5 @@ Woman - women
 Cook = повар
 Chef = шеф-повар
 Chief = начальник
+Musician = музыкант
+Ыш
