@@ -42,4 +42,4 @@ What are you eating now?
 Convenient = удобный (абстрактно)  
 Inconvenient  = неудобный (абстрактно)  
 
-Last weekend I 
+Last weekend I didn't do anything
