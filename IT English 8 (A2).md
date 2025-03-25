@@ -46,5 +46,7 @@ Last weekend I didn't do anything
 
 Except Sunday
 
-Hardly
-Chef 
+Hard (meticul= усердно
+Hardly = едва
+Chef = шеф-повар
+Chief = начальник
