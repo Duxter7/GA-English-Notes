@@ -69,3 +69,6 @@ Salary = оклад
 Wage = ставка
 
 Minimum wage = прожиточный минимум
+
+Responsible for 
+I
