@@ -82,3 +82,6 @@ Put out a fire
 Extinguish a fire
 
 Vet = veterinarian; veteran 
+
+Part-time
+Full-time
