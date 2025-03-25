@@ -43,3 +43,5 @@ Convenient = удобный (абстрактно)
 Inconvenient  = неудобный (абстрактно)  
 
 Last weekend I didn't do anything
+
+Except Sunday
