@@ -69,3 +69,7 @@ Walk someone = выгуливать
 Walk with someone = гулять
 
 I like to work from
+
+They are not alike
+They are not similar
+
