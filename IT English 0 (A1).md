@@ -146,3 +146,5 @@ Musician = музыкант
 Singer = певец
 
 Paint - painter
+
+Is he an Indian?
