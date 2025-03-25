@@ -120,3 +120,5 @@ It **is** 11 AM now
 
 Are you busy?
 Where are your friends?
+Why is he angry? 
+Why is your boss 
