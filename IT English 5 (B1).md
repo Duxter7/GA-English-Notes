@@ -72,3 +72,5 @@ Is he working?
 Are they working
 
 Acquaintance = знакомый 
+
+Get on well
