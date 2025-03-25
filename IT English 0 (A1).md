@@ -131,3 +131,5 @@ His job is very hard (difficult)
 My new laptop is very **expensive** (дорогой)
 
 Expensive - cheap
+Cold - hot
+Interesting - boring
