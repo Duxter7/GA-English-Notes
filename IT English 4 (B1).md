@@ -75,3 +75,6 @@ In charge of = во главе
 
 Out of work = unemployed
 
+Toes = пальцы на ногах
+Fingers = пальцы
+Thumbs = большие пальцы
