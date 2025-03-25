@@ -98,4 +98,6 @@ In charge of = во главе
 
 Out of work = unemployed 
 
-A.S.
+1. A.S. / A.A.
+2. B.A. / B.S.
+3. M.A.
