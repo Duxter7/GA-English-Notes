@@ -118,7 +118,11 @@ It **is** 11 AM now
 
 ## 25-03-2025
 
-Are you busy?
-Where are your friends?
-Why is he angry? 
-Why is your boss 
+
+
+**Are** you busy?
+Where **are** your friends?
+Why **is** he angry? 
+Why **is** your boss always hungry?
+
+I'm **here** (здесь)
