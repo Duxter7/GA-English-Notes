@@ -60,3 +60,5 @@ Are they working
 Psychologist
 Psychiatrist = shrink
 
+Hardly = едва
+	Hardly ever = практически никогда
