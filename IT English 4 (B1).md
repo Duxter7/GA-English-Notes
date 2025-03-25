@@ -70,5 +70,5 @@ Wage = ставка
 
 Minimum wage = прожиточный минимум
 
-Responsible for 
-I
+Responsible for = ответственный за
+In charge of = во главе
