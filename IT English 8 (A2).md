@@ -64,4 +64,6 @@ Play the piano
 After school I stopped playing the piano
 
 Walk someone = выгуливать
+	I walked my dog 5 minutes
+	I'll walk my dog in 5 minutes
 Walk with someone = гулять
