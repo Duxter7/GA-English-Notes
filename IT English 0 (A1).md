@@ -144,3 +144,5 @@ Chef = шеф-повар
 Chief = начальник
 Musician = музыкант
 Singer = певец
+
+Paint - painter
