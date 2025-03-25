@@ -68,4 +68,4 @@ Compensation = компенсация (за труд)
 Salary = оклад
 Wage = ставка
 
-Minimum wage
+Minimum wage = прожиточный минимум
