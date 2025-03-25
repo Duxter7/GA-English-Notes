@@ -138,3 +138,7 @@ Our new employee **is** an Indian
 
 Man - men
 Woman - women
+
+Cook = повар
+Chef = шеф-повар
+Chief = начальник
