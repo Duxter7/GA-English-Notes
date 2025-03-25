@@ -100,4 +100,5 @@ Out of work = unemployed
 
 1. A.S. / A.A.
 2. B.A. / B.S.
-3. M.A.
+3. M.A. / M.S.
+4. PhD
