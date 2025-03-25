@@ -88,5 +88,7 @@ Full-time
 
 Pay = оплата (труда)
 Salary = оклад
-Wage = ставка
+Wage = ставка (часовая)
 Compensation = компенсация (за труд)
+
+Minimum wage
