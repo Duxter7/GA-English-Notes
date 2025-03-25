@@ -110,3 +110,7 @@ People who
 
 Who do you like?
 Whom do you like?
+
+People wanting to buy a new phone
+
+Wanting to do 
