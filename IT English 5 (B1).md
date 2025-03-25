@@ -73,4 +73,7 @@ Are they working
 
 Acquaintance = знакомый 
 
-Get on well
+## 25-03-2025
+
+Rely on = положиться
+Reliable = надежный
