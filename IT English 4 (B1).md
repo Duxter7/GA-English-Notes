@@ -62,3 +62,6 @@ Psychiatrist = shrink
 
 Hardly = едва
 	Hardly ever = практически никогда
+
+The pay = оплата (за труд)
+Compensation = компенса
