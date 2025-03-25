@@ -46,7 +46,9 @@ Last weekend I didn't do anything
 
 Except Sunday
 
-Hard (meticul= усердно
+Hard (meticulously; thoroughly)= усердно
 Hardly = едва
 Chef = шеф-повар
 Chief = начальник
+
+Chauvinistic 
