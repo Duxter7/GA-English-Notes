@@ -58,3 +58,5 @@ Go for a walk
 
 Usually I don't go out **during** (в течении) the week
 **In** (через) two weeks
+
+Play the p
