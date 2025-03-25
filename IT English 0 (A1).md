@@ -116,3 +116,7 @@ How many friends do you have? = сколько у тебя друзей?
 What time **is** it? = сколько времени?
 It **is** 11 AM now
 
+## 25-03-2025
+
+Are you busy?
+Where are your friends?
