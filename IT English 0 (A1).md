@@ -143,4 +143,4 @@ Cook = повар
 Chef = шеф-повар
 Chief = начальник
 Musician = музыкант
-Ыш
+Singer = певец
