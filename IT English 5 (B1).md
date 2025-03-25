@@ -104,3 +104,9 @@ Out of work = unemployed
 4. PhD
 
 Utilities = коммунальные услуги
+
+A person who
+People who
+
+Who do you like?
+W
