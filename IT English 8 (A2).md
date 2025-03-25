@@ -62,3 +62,6 @@ Usually I don't go out **during** (в течении) the week
 Play the piano
 
 After school I stopped playing the piano
+
+Walk someone = выгуливать
+Walk with someone = гулять
