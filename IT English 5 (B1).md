@@ -85,3 +85,8 @@ Vet = veterinarian; veteran
 
 Part-time
 Full-time
+
+Pay = оплата (труда)
+Salary = оклад
+Wage = ставка
+Compenastion =
