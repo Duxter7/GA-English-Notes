@@ -128,3 +128,6 @@ Why **is** your boss always hungry?
 I'm **here** (здесь)
 My favorite *videogame* **is** on the table
 His job is very hard (difficult)
+My new laptop is very **expensive** (дорогой)
+
+Expensive - cheap
