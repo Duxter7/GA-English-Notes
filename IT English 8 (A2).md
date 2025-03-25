@@ -73,3 +73,9 @@ I like to work from
 They are not alike
 They are not similar
 
+My - mine 
+
+My job
+My book
+
+The book is mine
