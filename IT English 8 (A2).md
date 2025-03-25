@@ -52,3 +52,6 @@ Chef = шеф-повар
 Chief = начальник
 
 Chauvinistic 
+
+Go out
+Go for a walk
