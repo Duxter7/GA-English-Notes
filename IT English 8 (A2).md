@@ -56,4 +56,5 @@ Chauvinistic
 Go out
 Go for a walk
 
-Usually I don't go out 
+Usually I don't go out **during** (в течении) the week
+**In** (через) two weeks
