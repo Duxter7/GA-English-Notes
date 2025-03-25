@@ -55,3 +55,5 @@ Chauvinistic
 
 Go out
 Go for a walk
+
+Usually I don't go out 
