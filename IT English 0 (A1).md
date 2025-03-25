@@ -133,3 +133,5 @@ My new laptop is very **expensive** (дорогой)
 Expensive - cheap
 Cold - hot
 Interesting - boring
+
+Our new employee **is** an Indian
