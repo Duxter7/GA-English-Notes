@@ -92,3 +92,5 @@ Wage = ставка (часовая)
 Compensation = компенсация (за труд)
 
 Minimum wage
+
+Responible
