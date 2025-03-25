@@ -81,4 +81,4 @@ Reliable = надежный
 Put out a fire
 Extinguish a fire
 
-Vet = veteri
+Vet = veterinarian; veteran 
