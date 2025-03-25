@@ -93,4 +93,5 @@ Compensation = компенсация (за труд)
 
 Minimum wage
 
-Responible
+Responsible for = ответственный за 
+In charge of = во главе
