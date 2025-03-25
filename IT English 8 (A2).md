@@ -67,3 +67,5 @@ Walk someone = выгуливать
 	I walked my dog 5 minutes
 	I'll walk my dog in 5 minutes
 Walk with someone = гулять
+
+I like to work from
