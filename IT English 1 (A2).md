@@ -81,3 +81,5 @@ He works at Gold Apple
 Plays
 Fly - Flies
 Study - studies
+ 
+We studied with him
