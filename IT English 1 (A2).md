@@ -58,5 +58,8 @@ Teach - teach**es**
 
 ## 26-03-2025
 
-He likes
-Watch - watchs
+He like**s**
+Watch - watch**es**
+
+Go - go**es**
+Do - do**es** 
