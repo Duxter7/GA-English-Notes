@@ -88,3 +88,5 @@ He likes
 
 I watch
 He watches
+
+To be = быть; являт
