@@ -39,3 +39,6 @@ They = he or she
 
 The amount of time you spend in a profession doesn't reflect your skills
 
+Acquire 
+Learn
+
