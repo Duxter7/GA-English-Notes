@@ -57,3 +57,7 @@ In charge of = во главе
 Out of work = unemployed
 
 Vagabond
+
+ Before
+ After
+ By **doing** this, you will help us
