@@ -53,3 +53,7 @@ The pay = оплата (за работу)
 
 Responsible for = ответственный за
 In charge of = во главе
+
+Out of work = unemployed
+
+Vagabond
