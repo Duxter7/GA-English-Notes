@@ -89,4 +89,7 @@ He likes
 I watch
 He watches
 
-To be = быть; являт
+To be = быть; являться
+1. am
+2. is
+3. are
