@@ -83,4 +83,8 @@ Teach - teaches
 
 ## 26-03-2025
 
+I like
+He likes
 
+I watch
+He watches
