@@ -62,4 +62,4 @@ Vagabond
  After
  By **doing** this, you will help us
 
-A doctor can't hea
+A doctor can't hear = a deaf doctor 
