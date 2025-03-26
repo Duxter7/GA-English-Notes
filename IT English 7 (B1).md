@@ -37,3 +37,7 @@ Too ez
 
 Close the door (клоуз)
 Close friend (клоус)
+
+## 26-03-2025
+
+Put out = extinguish 
