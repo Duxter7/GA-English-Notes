@@ -41,3 +41,4 @@ Close friend (клоус)
 ## 26-03-2025
 
 Put out a fire = extinguish a fire
+A lifeguard = спасатель (пляж; бассейн)
