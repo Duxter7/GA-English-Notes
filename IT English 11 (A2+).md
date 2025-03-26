@@ -34,3 +34,5 @@ Stopwatch = секундомер
 
 Salary = оклад
 Wage = ставка
+
+A
