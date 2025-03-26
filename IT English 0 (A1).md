@@ -54,7 +54,7 @@ Nice to meet you = приятно познакомиться
 
 ## 21-03-2025
 
-![[To be present.jpg]]
+![[to be present.jpg]]
 
 To be
 1. am
