@@ -66,3 +66,9 @@ Do - do**es**
 
 I don't like 
 He do**es**n't like
+
+**Do** you like it?
+Yes I do
+
+**Are** you busy?
+Yes I am
