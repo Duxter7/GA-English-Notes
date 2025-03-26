@@ -20,3 +20,10 @@ When is it open?
 
 Gym membership = абонемент в зале
 Queue (UK) = line (US)
+
+## 26-03-2025
+
+Chef = шеф-повар
+Chief = начальник 
+
+We hardly work = мы едва работаем 
