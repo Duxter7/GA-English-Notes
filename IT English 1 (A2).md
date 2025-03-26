@@ -84,4 +84,5 @@ Study - studies
  
 We studied with him
 
-Why **do** the children *like* her
+Why **do** the children *like* her?
+Why **does** the child **like** her?
