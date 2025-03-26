@@ -40,4 +40,4 @@ Close friend (клоус)
 
 ## 26-03-2025
 
-Put out = extinguish 
+Put out a fire = extinguish a fire
