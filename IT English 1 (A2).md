@@ -84,4 +84,4 @@ Study - studies
  
 We studied with him
 
-Why 
+Where do wo
