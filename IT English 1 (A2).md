@@ -76,3 +76,8 @@ Yes I **am**
 I think his job is crazy and he thinks mine is
 
 He works at Gold Apple
+
+
+Plays
+Fly - Flies
+Study - studies
