@@ -42,3 +42,5 @@ Close friend (клоус)
 
 Put out a fire = extinguish a fire
 A lifeguard = спасатель (пляж; бассейн)
+
+Real estate agent
