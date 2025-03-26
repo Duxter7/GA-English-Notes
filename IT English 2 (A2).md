@@ -93,3 +93,6 @@ To be = быть; являться
 1. am
 2. is
 3. are
+
+
+*What languages in our world that many people speak on the daily basis and that are not hard* do you know?
