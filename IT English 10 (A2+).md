@@ -52,3 +52,9 @@ The most
 Mock exam 
 
 We have a new employee, they are here
+
+Sew
+
+Make clothes 
+
+Tank top 
