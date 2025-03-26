@@ -50,3 +50,5 @@ Public / bank holiday (UK) - Holiday (US) = праздничный день
 The most 
 
 Mock exam 
+
+We have a new employee, they are here
