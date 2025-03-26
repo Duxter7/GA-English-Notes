@@ -68,7 +68,9 @@ I don't like
 He do**es**n't like
 
 **Do** you like it?
-Yes I do
+Yes I **do**
 
 **Are** you busy?
-Yes I am
+Yes I **am**
+
+I think his job is crazy and he thinks mine is
