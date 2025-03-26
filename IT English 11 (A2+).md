@@ -35,4 +35,4 @@ Stopwatch = секундомер
 Salary = оклад
 Wage = ставка
 
-A
+They = he or she
