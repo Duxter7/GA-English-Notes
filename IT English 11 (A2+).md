@@ -30,3 +30,4 @@ We hardly work = мы едва работаем
 
 Clock = все что не на руке
 Watch = все что на руке
+Stopwatch = секундомер 
