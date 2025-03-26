@@ -66,3 +66,6 @@ A doctor can't hear = a deaf doctor
 
 Watch
 Clock
+
+Stopwatch
+Timer
