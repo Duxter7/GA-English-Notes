@@ -45,6 +45,9 @@ A lifeguard = спасатель (пляж; бассейн)
 
 Real estate agent
 
-Salary
-Wage
-Compensation
+Salary = оклад
+Wage = часовая ставка
+	Minimum wage
+Compensation 
+The pay = оплата (за работу)
+
