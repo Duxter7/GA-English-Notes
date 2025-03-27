@@ -145,4 +145,5 @@ Programmer
 Coder
 
 Artist - painter
-Em
+Employee 
+Waiter
