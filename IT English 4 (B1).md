@@ -81,3 +81,5 @@ Thumbs = большие пальцы
 
 ## 27-03-2025
 
+I stopped smoking
+I stopped to smoke
