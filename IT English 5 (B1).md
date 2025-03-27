@@ -117,4 +117,7 @@ Wanting to do good is great
 
 Present participle and past participle
 
-@
+## 27-03-2025
+
+Before going to work, I take a shower
+After having breakfast, I go to work
