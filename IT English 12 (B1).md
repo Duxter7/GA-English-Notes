@@ -47,4 +47,4 @@ Nightstand
 <u>Helping users when they ask questions</u> **is my job**
 <u>Smoking</u> **is bad**
 
-Fixing computers that people break every si
+<u>Fixing computers that people break every single day of my life in this new country that I moved to 3 years because of low salary in my hometown</u> **is interesting**
