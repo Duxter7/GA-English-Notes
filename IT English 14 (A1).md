@@ -147,3 +147,7 @@ Coder
 Artist - painter
 Employee 
 Waiter
+
+To be = быть; являться
+	is
+	are
