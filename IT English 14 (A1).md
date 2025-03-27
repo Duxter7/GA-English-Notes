@@ -137,3 +137,12 @@ Say - says
 He's hungry
 
 Where's the airport
+
+## 27-03-2025
+
+Developer
+Programmer 
+Coder
+
+Artist - painter
+Em
