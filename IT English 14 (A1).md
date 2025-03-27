@@ -151,3 +151,6 @@ Waiter
 To be = быть; являться
 	is
 	are
+	am
+	**was**
+	**were**
