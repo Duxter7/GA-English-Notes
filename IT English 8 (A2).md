@@ -87,3 +87,4 @@ The suburbs = пригород (частные дома)
 I don't 
 He doesn't
 
+To be not
