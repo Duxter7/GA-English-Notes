@@ -18,3 +18,7 @@ Cause trouble between people = come between someone
 Have an argument = to fall out
 Become friends again = to make up
 Gradually stop being friends = drift apart
+
+## 27-03-2025
+
+It makes no difference to him 
