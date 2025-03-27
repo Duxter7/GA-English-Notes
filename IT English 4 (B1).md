@@ -96,4 +96,11 @@ After
 By
 When drinking becomes a problem 
 
-Studyi
+Studying
+Playing
+
+Fly - flies
+Flying
+
+Studied
+Studies
