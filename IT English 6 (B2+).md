@@ -24,3 +24,6 @@ Gradually stop being friends = drift apart
 It makes no difference to him 
 
 People living here will be killed
+
+Will = воля
+Staff = посох
