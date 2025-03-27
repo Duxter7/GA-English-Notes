@@ -82,4 +82,4 @@ The book is mine
 
 ## 27-03-2025
 
-Su
+The suburbs = пригород (частные дома)
