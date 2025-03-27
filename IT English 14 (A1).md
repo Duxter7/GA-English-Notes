@@ -159,4 +159,4 @@ Gap = пропуск
 
 Isn't it hard?
 
-What's '...'
+What's '...' in English?
