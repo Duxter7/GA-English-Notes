@@ -53,4 +53,8 @@ Nightstand
 I like **to** see - I like see**ing** 
 
 want to see
-can do
+need to do
+decide to do
+
+I stopped to smoke
+I stopped smoking
