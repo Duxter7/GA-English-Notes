@@ -135,3 +135,8 @@ Modal verbs:
 	I must do this
 	I can swim in the sea
 
+Want to do
+Agree to do
+Seem to do
+Need to do
+Decide to do 
