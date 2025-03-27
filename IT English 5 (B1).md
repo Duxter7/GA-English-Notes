@@ -139,4 +139,9 @@ Want to do
 Agree to do
 Seem to do
 Need to do
-Decide to do 
+Decide to do
+Hope to do
+
+Avoid doing
+Imagine doing
+Enjoy doing
