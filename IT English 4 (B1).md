@@ -83,3 +83,5 @@ Thumbs = большие пальцы
 
 I stopped smoking
 I stopped to smoke
+
+I look forward to meeting
