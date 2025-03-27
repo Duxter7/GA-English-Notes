@@ -125,7 +125,8 @@ By speaking with Joshua, I learn English
 
 <u>Delivering goods</u> is our responsibility = <u>This thing</u> is our responsibility = <u>it</u> is our responsibility
 
-Learning English is our goal
+<u>Learning English</u> is our goal
 
 <u>Relaxing in Thailand in Winters</u> is a very good vacation
-Working at Gold Apple where I get invaluable experience every day because I speak with a lot of employees is good.
+<u>Working at Gold Apple where I get invaluable experience every day because I speak with a lot of employees</u> is good.
+
