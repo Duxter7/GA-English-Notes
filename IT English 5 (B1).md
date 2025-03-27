@@ -122,4 +122,6 @@ Present participle and past participle
 Before going to work, I take a shower
 After having breakfast, I go to work
 By speaking with Joshua, I learn English
-When going to bed, I read a book
+
+Delivering goods is our responsibility
+
