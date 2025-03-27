@@ -83,3 +83,7 @@ The book is mine
 ## 27-03-2025
 
 The suburbs = пригород (частные дома)
+
+I don't 
+He doesn't
+
