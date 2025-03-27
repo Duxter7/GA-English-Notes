@@ -59,3 +59,5 @@ decide to do
 I stopped to smoke
 I stopped smoking
 
+PhD
+M.A. / M.S.
