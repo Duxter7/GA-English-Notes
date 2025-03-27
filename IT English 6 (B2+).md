@@ -31,4 +31,4 @@ Well = колодец
 Spell = заклинания
 
 In one of the modernized rooms last year
-In one of the  rooms last year
+In one of the rooms modernized last year
