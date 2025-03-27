@@ -128,4 +128,4 @@ By speaking with Joshua, I learn English
 Learning English is our goal
 
 <u>Relaxing in Thailand in Winters</u> is a very good vacation
-
+Working at Gold Apple where I get invaluable experience every day because I speak with a lot of employees is good.
