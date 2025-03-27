@@ -29,3 +29,6 @@ Will = воля
 Staff = посох
 Well = колодец
 Spell = заклинания
+
+In one of the modernized rooms last year
+In one of the  rooms last year
