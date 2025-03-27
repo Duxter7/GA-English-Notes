@@ -34,4 +34,7 @@ Applied informatics
 Eat - eating
 Sleep - sleeping 
 Smoke - smoking
-Drink - drinking 
+Drink - drinking
+
+## 27-03-2025
+
