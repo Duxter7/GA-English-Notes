@@ -65,3 +65,12 @@ B.A. / B.S.
 A.A. / A.S.
 
 To learn became fun 
+
+Playing
+Studying
+Flying
+
+Studied
+Studies
+
+Flies
