@@ -41,3 +41,5 @@ Drink - drinking
 Pros and cons (**плюсы и минусы**)
 Advantages and disadvantages (**преимущества и недостатки**)
 More or less (**плюс минус так**)
+
+Nightstand 
