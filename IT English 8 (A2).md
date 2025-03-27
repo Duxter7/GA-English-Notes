@@ -99,4 +99,10 @@ Relaxes
 A couple of things = пара вещей
 A couple = парочка
 
-
+I don't like
+You don't like
+They don't like
+We don't like
+He doesn't like
+She doesn't like
+It doesn't like
