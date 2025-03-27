@@ -42,3 +42,11 @@ The amount of time you spend in a profession doesn't reflect your skills
 Acquire 
 Learn
 
+## 27-03-2025
+
+Further (farther)
+
+
+Far - further
+
+For further information 
