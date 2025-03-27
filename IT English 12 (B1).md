@@ -38,6 +38,6 @@ Drink - drinking
 
 ## 27-03-2025
 
-Pros and cons (плюсы и минусы)
-Advantages and disadvantages (преимущесмтв)
-More or less (плюс минус так)
+Pros and cons (**плюсы и минусы**)
+Advantages and disadvantages (**преимущества и недостатки**)
+More or less (**плюс минус так**)
