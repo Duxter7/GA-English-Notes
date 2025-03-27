@@ -78,3 +78,6 @@ Out of work = unemployed
 Toes = пальцы на ногах
 Fingers = пальцы
 Thumbs = большие пальцы
+
+## 27-03-2025
+
