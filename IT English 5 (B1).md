@@ -127,4 +127,5 @@ By speaking with Joshua, I learn English
 
 Learning English is our goal
 
-Relaxing in Thailand 
+<u>Relaxing in Thailand in Winters</u> is a very good vacation
+
