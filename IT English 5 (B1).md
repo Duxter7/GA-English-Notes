@@ -149,4 +149,6 @@ Enjoy doing
 I stopped to smoke
 I stopped smoking
 
-I discovered IT world
+I discovered the IT world
+
+When I was a kid
