@@ -86,4 +86,7 @@ I stopped to smoke
 
 I look forward to meeting
 
-By doing this, you help 
+By doing this, you help us
+
+It's my job to write code
+It's ok to sleep **122** hours a day
