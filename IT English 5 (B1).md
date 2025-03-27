@@ -123,4 +123,8 @@ Before going to work, I take a shower
 After having breakfast, I go to work
 By speaking with Joshua, I learn English
 
-<u>Delivering goods</u> is our responsibility = <u>This thing</u> is our responsibility = it is our responsibility 
+<u>Delivering goods</u> is our responsibility = <u>This thing</u> is our responsibility = <u>it</u> is our responsibility
+
+Learning English is our goal
+
+Relaxing in Thailand 
