@@ -43,3 +43,8 @@ Advantages and disadvantages (**преимущества и недостатки
 More or less (**плюс минус так**)
 
 Nightstand 
+
+<u>Helping users when they ask questions</u> **is my job**
+<u>Smoking</u> **is bad**
+
+Fixing computers that people break every si
