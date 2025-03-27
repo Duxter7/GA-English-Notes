@@ -27,3 +27,5 @@ People living here will be killed
 
 Will = воля
 Staff = посох
+Well = колодец
+Spell = заклинания
