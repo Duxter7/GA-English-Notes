@@ -22,3 +22,5 @@ Gradually stop being friends = drift apart
 ## 27-03-2025
 
 It makes no difference to him 
+
+People living here will be killed
