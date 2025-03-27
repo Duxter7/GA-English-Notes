@@ -96,5 +96,5 @@ Does
 
 Relaxes
 
-A couple of things
-A cou
+A couple of things = пара вещей
+A couple = парочка
