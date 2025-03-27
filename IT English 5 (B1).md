@@ -121,3 +121,4 @@ Present participle and past participle
 
 Before going to work, I take a shower
 After having breakfast, I go to work
+By learning English, I speak with Joshua
