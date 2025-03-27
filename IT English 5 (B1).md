@@ -130,3 +130,8 @@ By speaking with Joshua, I learn English
 <u>Relaxing in Thailand in Winters</u> is a very good vacation
 <u>Working at Gold Apple where I get invaluable experience every day because I speak with a lot of employees</u> is good.
 
+Modal verbs:
+	I should go to a negotiation
+	I must do this
+	I can swim in the sea
+
