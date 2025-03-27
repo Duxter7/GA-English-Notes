@@ -158,3 +158,5 @@ To be = быть; являться
 Gap = пропуск
 
 Isn't it hard?
+
+What's '...'
