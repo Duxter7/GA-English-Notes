@@ -88,3 +88,6 @@ I don't
 He doesn't
 
 To be not
+
+Teaches
+Watches
