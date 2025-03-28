@@ -101,7 +101,7 @@ Who / that
 Jewelries 
 
 My whole life I've been collecting
-Like you do 
+Like you have 
 
 Throw up 
 
