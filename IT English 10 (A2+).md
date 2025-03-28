@@ -66,4 +66,4 @@ I don't have plans for Sunday
 Weekend 
 
 Holiday = праздничный день 
-Hol
+Holiday (UK) = Vacation (US) = отпуск
