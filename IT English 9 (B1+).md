@@ -89,3 +89,5 @@ Spend time fixing something
 I stopped to smoke
 I stopped smoking
 
+Remember to eat chicken
+I don't remember talking to him
