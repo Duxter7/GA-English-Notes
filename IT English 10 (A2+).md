@@ -78,3 +78,10 @@ Simple:
 	Why **does** *he* **work** there?
 
 Is it snowing?
+
+
+Do you have
+Does he have?
+
+Am I doing this?
+I am doing this
