@@ -73,6 +73,6 @@ Design = разрабатывать (как дизайн)
 Continuous:
 	Why **are** *you* **wearing** a scarf?
 
-
-Why **do** *you* **like** it?
-Why **does** *he* **work** there?
+Simple:
+	Why **do** *you* **like** it?
+	Why **does** *he* **work** there?
