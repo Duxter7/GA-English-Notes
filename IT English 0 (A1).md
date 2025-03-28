@@ -153,4 +153,8 @@ Is he an Indian?
 
 The same = одинаковый; тоже самое
 
-
+Painter
+Artist
+Employee = сотрудник
+Worker = работник
+Waiter = официант
