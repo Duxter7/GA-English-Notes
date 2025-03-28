@@ -76,3 +76,5 @@ Continuous:
 Simple:
 	Why **do** *you* **like** it?
 	Why **does** *he* **work** there?
+
+Is it snowing?
