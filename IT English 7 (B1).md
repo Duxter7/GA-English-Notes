@@ -75,3 +75,5 @@ Timer
 Surge protector
 Out of stock
 Sold out
+
+Gated community
