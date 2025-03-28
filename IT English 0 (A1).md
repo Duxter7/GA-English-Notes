@@ -163,3 +163,11 @@ Police officer / policeman = полицейский
 **The lesson** is hard = **it** is hard
 
 Is **it** easy? = is **the lesson** easy?
+
+To be = быть; являться
+1. is
+2. are 
+3. am
+
+Are you hungry?
+**Is** your phone from China?
