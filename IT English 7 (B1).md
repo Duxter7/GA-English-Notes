@@ -77,3 +77,9 @@ Out of stock
 Sold out
 
 Gated community
+
+Eco friendly 
+
+More easy - easier
+
+In the suburbs
