@@ -100,4 +100,7 @@ Who / that
 
 Jewelries 
 
-My whole life 
+My whole life I've been collecting
+Like you do 
+
+Throw up 
