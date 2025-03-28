@@ -148,3 +148,9 @@ Singer = певец
 Paint - painter
 
 Is he an Indian?
+
+## 28-03-2025
+
+The same = одинаковый; тоже самое
+
+
