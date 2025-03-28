@@ -108,3 +108,6 @@ Throw up
 Worn down 
 
 Clothes 
+
+Different versions
+Accessories 
