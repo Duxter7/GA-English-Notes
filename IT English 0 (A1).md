@@ -159,3 +159,7 @@ Employee = сотрудник
 Worker = работник
 Waiter = официант
 Police officer / policeman = полицейский
+
+**The lesson** is hard = **it** is hard
+
+Is **it** easy? = is **the lesson** easy?
