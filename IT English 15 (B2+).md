@@ -60,5 +60,7 @@ Pros and cons
 Advantages and disadvantages
 More or less
 
-Stopped liking
-Stop to like
+Stopped smoking
+Stop to smoke
+
+Public transport access 
