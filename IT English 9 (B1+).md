@@ -81,3 +81,7 @@ People wanting to do this must be smarter
 **Delivering** the goods to remote regions *is* our job
 
 **Working remotely because the office is full nowadays in my workplace** is good
+
+Imagine living
+Avoid doing
+Spend time fixing something
