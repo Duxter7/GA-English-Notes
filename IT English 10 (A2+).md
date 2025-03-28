@@ -62,3 +62,8 @@ Tank top
 ## 28-03-2025
 
 I don't have plans for Sunday
+
+Weekend 
+
+Holiday = праздничный день 
+Hol
