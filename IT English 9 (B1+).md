@@ -104,3 +104,7 @@ My whole life I've been collecting
 Like you do 
 
 Throw up 
+
+Worn down 
+
+Clothes 
