@@ -158,3 +158,4 @@ Artist
 Employee = сотрудник
 Worker = работник
 Waiter = официант
+Police officer / policeman = полицейский
