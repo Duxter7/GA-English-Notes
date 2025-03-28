@@ -77,14 +77,3 @@ Out of stock
 Sold out
 
 Gated community
-
-Eco friendly 
-
-More easy - easier
-
-**In** the suburbs
-**On** the outskirts
-
-Pros and cons
-Advantages and disadvantages
-More or less

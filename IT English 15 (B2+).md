@@ -45,3 +45,20 @@ Drinking is expensive
 
 Before going to bed, I usually eat pizza
 
+## 28-03-2025
+
+Gated community
+
+Eco friendly 
+
+More easy - easier
+
+**In** the suburbs
+**On** the outskirts
+
+Pros and cons
+Advantages and disadvantages
+More or less
+
+Stopped liking
+Stop to like
