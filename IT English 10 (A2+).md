@@ -70,5 +70,9 @@ Holiday (UK) = Vacation (US) = отпуск
 
 Design = разрабатывать (как дизайн)
 
-Why are you wearing a scarf?
+Continuous:
+	Why **are** *you* **wearing** a scarf?
 
+
+Why **do** *you* **like** it?
+Why **does** *he* **work** there?
