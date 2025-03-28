@@ -82,4 +82,5 @@ Eco friendly
 
 More easy - easier
 
-In the suburbs
+**In** the suburbs
+**On** the outskirts
