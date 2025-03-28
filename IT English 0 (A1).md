@@ -169,5 +169,5 @@ To be = быть; являться
 2. are 
 3. am
 
-Are you hungry?
+**Are** you hungry?
 **Is** your phone from China?
