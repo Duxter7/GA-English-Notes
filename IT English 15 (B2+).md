@@ -60,7 +60,7 @@ Pros and cons
 Advantages and disadvantages
 More or less
 
-Stopped smoking
+Stop smoking
 Stop to smoke
 
 Public transport access 
