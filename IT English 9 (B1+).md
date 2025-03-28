@@ -98,4 +98,6 @@ easier
 
 Who / that
 
+Jewelries 
 
+My whole life 
