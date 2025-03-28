@@ -85,3 +85,7 @@ People wanting to do this must be smarter
 Imagine living
 Avoid doing
 Spend time fixing something
+
+I stopped to smoke
+I stopped smoking
+
