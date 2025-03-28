@@ -78,4 +78,6 @@ Drink - drinking
 
 People wanting to do this must be smarter
 
-**Delivering** the goods to remote regions is our job
+**Delivering** the goods to remote regions *is* our job
+
+**Working remotely because the office is full nowadays in my workplace** is good
