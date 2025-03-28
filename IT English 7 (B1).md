@@ -84,3 +84,6 @@ More easy - easier
 
 **In** the suburbs
 **On** the outskirts
+
+Pros and cons
+Advantages and disadvantages
