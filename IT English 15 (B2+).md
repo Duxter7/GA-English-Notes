@@ -78,3 +78,5 @@ Parenthesis (US) = Brackets (UK)
 
 Upper-body
 Torso
+
+Tank top
