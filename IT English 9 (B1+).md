@@ -136,3 +136,5 @@ Case = корпус
 I can't imagine my life without a computer
 
 It affects art, property rights 
+
+At some point
