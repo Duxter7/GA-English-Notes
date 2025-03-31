@@ -121,4 +121,5 @@ Welcome to the team
 You're welcome = не за что; пожалуйста
 	No worries
 	No problem 
-	
+
+I work for / at Microsoft
