@@ -205,3 +205,6 @@ You're welcome = не за что; пожалуйста
 
 Network administrator = сетевой админ
 System analyst = системный аналитик
+
+Her = ее
+His = его
