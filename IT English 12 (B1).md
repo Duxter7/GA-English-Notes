@@ -106,3 +106,5 @@ Research supervisor
 Install
 Uninstall
 Reinstall
+
+Deal with requests 
