@@ -213,3 +213,8 @@ This is Eduard
 
 Junior 
 Astronaut 
+
+Saint-Petersburg
+
+I work at home 
+I work from home
