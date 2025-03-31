@@ -109,3 +109,5 @@ Pleasure = удовольствие
 
 Your name is?
 You are?
+
+Night shift = ночная смена
