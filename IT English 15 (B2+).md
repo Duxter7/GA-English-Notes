@@ -70,8 +70,6 @@ Public transport access
 Clothes 
 Fine motor skills
 
-Children
+Don't know what to do beside playing videogames or watching videos
 
-Don't know what to do beside playing videogames or wathcing videos
-
-You don't lo
+You don't always
