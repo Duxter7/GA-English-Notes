@@ -119,3 +119,4 @@ Reinstall
 Uninstall 
 
 Troubleshoot = diagnose problems
+What do you mean?
