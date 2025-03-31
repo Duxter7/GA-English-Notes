@@ -127,8 +127,8 @@ Power outage = отключение электричества
 
 **Some** of **them** **are**
 
-GPU 
-CPU 
-RAM
-PSU
+GPU =видеокарта
+CPU = процессор
+RAM = оперативка
+PSU = БП
 Case = корпус
