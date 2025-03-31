@@ -74,3 +74,11 @@ Studied
 Studies
 
 Flies
+
+## 31-03-2025
+
+There aren't many tasks
+There are not enough tasks
+
+Therefore = следовательно
+That's why 
