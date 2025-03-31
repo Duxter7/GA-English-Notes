@@ -124,3 +124,7 @@ What do you mean?
 What else can you design?
 
 Deal with = решать
+
+At school / in school
+
+In my biology class 
