@@ -175,6 +175,8 @@ I was just resting - I just rested
 
 Go - went - gone
 
-On the weekend = at the weekend = на выходных
+**On the weekend** = **at the weekend** = на выходных
 
-I walked
+I walked in the forest 
+
+Participate = уч
