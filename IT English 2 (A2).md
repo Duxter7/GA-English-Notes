@@ -108,8 +108,8 @@ We finish
 They finish
 
 He finishes 
-She 
-It 
+She finishes
+It finishes 
 
 I work
 He works
