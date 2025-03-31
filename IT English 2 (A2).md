@@ -127,3 +127,6 @@ Pleased to meet you (1st time)
 And you are?
 
 Likewise = you too
+
+Welcome = добро пожаловать
+You're welcom
