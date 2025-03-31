@@ -117,3 +117,5 @@ Look after = присматривать
 Install
 Reinstall
 Uninstall 
+
+Troubleshoot = diagnose problems
