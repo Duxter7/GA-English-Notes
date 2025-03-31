@@ -197,3 +197,8 @@ Likewise = взаимно
 You too = тебя тоже
 
 And you are?
+
+Welcome = добро пожаловать
+You're welcome = не за что; пожалуйста
+	No problem
+	No worries 
