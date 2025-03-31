@@ -89,3 +89,6 @@ Do you have a problem?
 Do you have an issue?
 
 **Be responsible for** something
+
+Onboarding
+Probation period
