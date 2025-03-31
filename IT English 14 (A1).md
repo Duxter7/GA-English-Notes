@@ -163,6 +163,8 @@ What's '...' in English?
 
 ## 31-03-2025
 
+*What did you do on the weekend*?
+
 Tomorrow in the morning
 **Gym** = тренажерный зал
 **Recording studio** = студия записи
@@ -179,4 +181,7 @@ Go - went - gone
 
 I walked in the forest 
 
-Participate = уч
+Participate = участвовать
+	Participant 
+
+Oldest daughter
