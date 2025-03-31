@@ -174,3 +174,7 @@ We just **spent some** time there (провели время)
 I was just resting - I just rested
 
 Go - went - gone
+
+On the weekend = at the weekend = на выходных
+
+I walked
