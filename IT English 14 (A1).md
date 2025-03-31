@@ -224,3 +224,6 @@ CEO = chief executive officer
 I make plans for my team
 
 Analyst 
+
+She test**s** 
+Colleague = коллега
