@@ -119,4 +119,7 @@ He works
 Pleased to see you (you know them)
 Pleased to meet you (1st time)
 	Pleasure = удовольствие
-	(I'm) pleas
+	(I'm) pleased to see you (очень рад)
+	It's a pleasure to see you
+	I'm pleased to meet you
+	It's a pleasure to meet you
