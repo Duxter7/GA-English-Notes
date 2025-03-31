@@ -191,4 +191,7 @@ Introduction = знакомство; введение
 
 Nice to meet you 
 Pleased to meet you (1st time)
-Pleased to see you (you know this person) 
+Pleased to see you (you **know** this person) 
+
+Likewise = взаимно
+You too = тебя 
