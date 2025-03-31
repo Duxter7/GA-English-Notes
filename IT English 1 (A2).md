@@ -114,4 +114,5 @@ Night shift = ночная смена
 
 Nice to meet you
 	You too
-	
+	Likewise
+	The feeling's mutual 
