@@ -135,3 +135,9 @@ Introduce = представить кого-то / что-то
 Super duper 
 
 Colleague 
+
+I think that
+
+Buy 
+Purchase
+Procure (закуп)
