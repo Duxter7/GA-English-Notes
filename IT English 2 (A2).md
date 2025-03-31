@@ -135,4 +135,6 @@ Welcome = добро пожаловать
 
 I work for Gold Apple
 I work at Gold Apple
-	In department 
+	In department
+
+Ialways only work on networks
