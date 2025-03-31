@@ -185,3 +185,6 @@ Participate = участвовать
 	Participant 
 
 Oldest daughter
+
+Introduction = знакомство; введение
+	Introduce = представиться
