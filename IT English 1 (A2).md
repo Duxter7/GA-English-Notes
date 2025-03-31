@@ -139,5 +139,6 @@ Colleague
 I think that
 
 Buy 
-Purchase
+Purchase = покупать; покупка
+	Purchases = покупки
 Procure (закуп)
