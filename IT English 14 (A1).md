@@ -194,4 +194,4 @@ Pleased to meet you (1st time)
 Pleased to see you (you **know** this person) 
 
 Likewise = взаимно
-You too = тебя 
+You too = тебя тоже
