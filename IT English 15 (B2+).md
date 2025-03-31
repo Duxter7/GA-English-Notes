@@ -75,4 +75,7 @@ Don't know what to do beside playing videogames or watching videos
 You don't always
 
 GPU
-CP
+CPU
+RAM
+PSU
+CASE
