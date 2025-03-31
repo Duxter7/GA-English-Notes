@@ -140,3 +140,5 @@ I work at Gold Apple
 I always only work on networks
 
 Cash register and POS 
+
+Solve = решать (проблему)
