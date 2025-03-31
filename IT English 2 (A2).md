@@ -132,3 +132,7 @@ Welcome = добро пожаловать
 	You're welcome = не за что; пожалуйста
 		No problem
 		No worries
+
+I work for Gold Apple
+I work at Gold Apple
+	I
