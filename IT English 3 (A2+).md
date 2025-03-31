@@ -122,3 +122,5 @@ Troubleshoot = diagnose problems
 What do you mean?
 
 What else can you design?
+
+Deal with = 
