@@ -113,3 +113,7 @@ Guess =
 	try to guess
 
 Look after = присматривать
+
+Install
+Reinstall
+Uninstall 
