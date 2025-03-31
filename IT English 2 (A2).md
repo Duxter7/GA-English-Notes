@@ -101,3 +101,9 @@ To be = быть; являться
 
 On vacation I broke my sleep cycle
 I was doing the dishes
+
+I finish
+He finishes 
+
+I work
+He works
