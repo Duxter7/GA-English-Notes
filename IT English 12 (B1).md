@@ -102,3 +102,7 @@ Maintenance = обслуживание
 	Maintainer 
 
 Research supervisor
+
+Install
+Uninstall
+Reinstall
