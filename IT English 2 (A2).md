@@ -114,4 +114,4 @@ It finishes
 I work
 He works
 
-*He* **studies** Chinese every single of his beautiful life and then goes ouyt
+*He* **studies** Chinese every single of his beautiful life and then **goes** out
