@@ -203,4 +203,5 @@ You're welcome = не за что; пожалуйста
 	No problem
 	No worries 
 
-Network administrator
+Network administrator = сетевой админ
+System analyst = системный аналитик
