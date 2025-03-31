@@ -128,3 +128,6 @@ Architect
 
 What's your job?
 What do you do?
+
+Introduce = представить кого-то / что-то
+	Introduction = введение
