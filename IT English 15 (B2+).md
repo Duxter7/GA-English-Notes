@@ -66,8 +66,7 @@ Stop to smoke
 Public transport access 
 
 ## 31-03-2025
-
-Clothes 
+ 
 Fine motor skills
 
 Don't know what to do beside playing videogames or watching videos
@@ -80,10 +79,8 @@ RAM
 PSU
 CASE
 
-Addicted to
-
-Other
+**Addicted to** something
 
 Per day = a day
 
-Replaced with a Kindle 
+**Replaced** my phone **with** a Kindle 
