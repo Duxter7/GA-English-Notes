@@ -125,3 +125,6 @@ You're welcome = не за что; пожалуйста
 I work for / at Microsoft
 
 Architect 
+
+What's your job?
+What do you do?
