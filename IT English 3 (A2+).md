@@ -87,3 +87,7 @@ Recruiter is a part of HR functions
 Vet = veterinarian / veteran
 
 Subjects = предметы в школе
+
+## 31-03-2025
+
+I was at 2 concerts and a ski resort 
