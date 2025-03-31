@@ -221,4 +221,6 @@ I work from home
 
 CEO = chief executive officer
 
-I make plans 
+I make plans for my team
+
+Analyst 
