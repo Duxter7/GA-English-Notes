@@ -129,4 +129,6 @@ And you are?
 Likewise = you too
 
 Welcome = добро пожаловать
-You're welcom
+	You're welcome = не за что; пожалуйста
+		No problem
+		No worries
