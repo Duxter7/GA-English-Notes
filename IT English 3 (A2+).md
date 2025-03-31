@@ -103,3 +103,6 @@ Obedient = послушный
 Maintain = обслуживать ()
 	Maintenance = обслуживание
 	Maintainer 
+
+Have a problem
+Have an 
