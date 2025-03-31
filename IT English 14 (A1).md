@@ -208,3 +208,5 @@ System analyst = системный аналитик
 
 Her = ее
 His = его
+
+This is Eduard 
