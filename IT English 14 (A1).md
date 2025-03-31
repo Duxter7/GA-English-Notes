@@ -202,3 +202,5 @@ Welcome = добро пожаловать
 You're welcome = не за что; пожалуйста
 	No problem
 	No worries 
+
+Network administrator
