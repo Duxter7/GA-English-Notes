@@ -83,3 +83,7 @@ CASE
 Addicted to
 
 Other
+
+Per day = a day
+
+Replaced with a Kindle 
