@@ -131,3 +131,7 @@ What do you do?
 
 Introduce = представить кого-то / что-то
 	Introduction = введение
+
+Super duper 
+
+Colleague 
