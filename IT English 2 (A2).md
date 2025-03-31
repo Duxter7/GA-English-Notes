@@ -115,3 +115,8 @@ I work
 He works
 
 *He* **studies** Chinese every single of his beautiful life and then **goes** out
+
+Pleased to see you (you know them)
+Pleased to meet you (1st time)
+	Pleasure = удовольствие
+	(I'm) pleas
