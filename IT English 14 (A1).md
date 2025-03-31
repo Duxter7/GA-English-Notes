@@ -170,3 +170,5 @@ Tomorrow in the morning
 We just **spent some** time there (провели время)
 	Spend - spent - spent
 	I have just finished my homework
+
+I was just resting - I just rested
