@@ -164,6 +164,8 @@ What's '...' in English?
 ## 31-03-2025
 
 Tomorrow in the morning
-Gym 
-Recording studio 
+**Gym** = тренажерный зал
+**Recording studio** = студия записи
 
+We just **spent some** time there (провели время)
+	Spend - spent - spent
