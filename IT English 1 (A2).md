@@ -99,3 +99,5 @@ I usually go for a walk to relax
 On the weekend = at the weekend
 
 Close = рядом; близкий
+
+To be excited = быть в предвкушении
