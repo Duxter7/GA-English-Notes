@@ -94,4 +94,6 @@ Meet - met - met
 
 Board games = настольные игры 
 
-I usually go for a
+I usually go for a walk to relax
+
+On the weekend = at the weekend
