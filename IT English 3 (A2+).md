@@ -95,3 +95,5 @@ I was at 2 concerts and a ski resort
 Painful = очень болезненный
 
 Win - won - won
+
+I went to Gold Apple store
