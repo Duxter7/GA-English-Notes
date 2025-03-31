@@ -137,4 +137,6 @@ I work for Gold Apple
 I work at Gold Apple
 	In department
 
-Ialways only work on networks
+I always only work on networks
+
+Cash register and POS 
