@@ -111,3 +111,7 @@ Your name is?
 You are?
 
 Night shift = ночная смена
+
+Nice to meet you
+	You too
+	
