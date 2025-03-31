@@ -123,4 +123,4 @@ What do you mean?
 
 What else can you design?
 
-Deal with = 
+Deal with = решать
