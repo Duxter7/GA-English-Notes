@@ -101,3 +101,5 @@ On the weekend = at the weekend
 Close = рядом; близкий
 
 To be excited = быть в предвкушении
+
+Nice to meet you
