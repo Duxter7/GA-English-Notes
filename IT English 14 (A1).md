@@ -219,4 +219,6 @@ Saint-Petersburg
 I work at home 
 I work from home
 
-CEO = chief execti
+CEO = chief executive officer
+
+I make plans 
