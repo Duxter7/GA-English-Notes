@@ -189,7 +189,7 @@ Oldest daughter
 Introduction = знакомство; введение
 	Introduce = представиться
 
-Nice to meet you 
+Nice to meet you = nice meeting you 
 Pleased to meet you (1st time)
 Pleased to see you (you **know** this person) 
 
