@@ -148,4 +148,4 @@ Support engineer
 Telecom Provider Specialist 
 This is Mark, he's our English teacher
 
-Maintenance = об 
+Maintenance = обслуживание 
