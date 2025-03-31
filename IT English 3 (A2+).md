@@ -111,3 +111,5 @@ Have an issue
 
 Guess = 
 	try to guess
+
+Look after = присматривать
