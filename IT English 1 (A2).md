@@ -106,3 +106,6 @@ Nice to meet you
 Pleasure = удовольствие
 	(I'm) **pleased to meet** you (очень рад встретиться с вами)
 	**It's a pleasure** to meet you (очень рад встретиться с вами)
+
+Your name is?
+You are?
