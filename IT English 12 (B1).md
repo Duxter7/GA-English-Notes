@@ -85,3 +85,7 @@ That's why
 
 It depends **on** ...
 
+Do you have a problem?
+Do you have an issue?
+
+Be responsible for 
