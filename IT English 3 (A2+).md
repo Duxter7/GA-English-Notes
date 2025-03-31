@@ -97,3 +97,5 @@ Painful = очень болезненный
 Win - won - won
 
 I went to Gold Apple store
+
+Obedient = послушный
