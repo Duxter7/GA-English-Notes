@@ -82,3 +82,5 @@ There are not enough tasks
 
 Therefore = следовательно
 That's why 
+
+It depends **on** ...
