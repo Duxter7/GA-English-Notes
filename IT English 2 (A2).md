@@ -142,3 +142,5 @@ I always only work on networks
 Cash register and POS 
 
 Solve = решать (проблему)
+
+I work in first line support 
