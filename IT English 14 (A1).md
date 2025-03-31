@@ -172,3 +172,5 @@ We just **spent some** time there (провели время)
 	I have just finished my homework
 
 I was just resting - I just rested
+
+Go - went - gone
