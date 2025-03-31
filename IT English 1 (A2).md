@@ -118,4 +118,7 @@ Nice to meet you
 	The feeling's mutual 
 
 Welcome to the team
-You
+You're welcome = не за что; пожалуйста
+	No worries
+	No problem 
+	
