@@ -123,4 +123,4 @@ VR headset
 
 I agree with this
 
-Power outage 
+Power outage = отключение электричества
