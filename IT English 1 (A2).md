@@ -104,4 +104,5 @@ To be excited = быть в предвкушении
 
 Nice to meet you
 Pleasure = удовольствие
-	(I'm) pleased to meet you (очень рад встретиться с вами)
+	(I'm) **pleased to meet** you (очень рад встретиться с вами)
+	**It's a pleasure** to meet you (очень рад встретиться с вами)
