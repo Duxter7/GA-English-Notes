@@ -195,3 +195,5 @@ Pleased to see you (you **know** this person)
 
 Likewise = взаимно
 You too = тебя тоже
+
+And you are?
