@@ -126,3 +126,9 @@ I agree with this
 Power outage = отключение электричества
 
 **Some** of **them** **are**
+
+GPU 
+CPU 
+RAM
+PSU
+Case = корпус
