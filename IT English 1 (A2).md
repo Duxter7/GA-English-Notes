@@ -116,3 +116,6 @@ Nice to meet you
 	You too
 	Likewise
 	The feeling's mutual 
+
+Welcome to the team
+You
