@@ -105,4 +105,4 @@ Maintain = обслуживать ()
 	Maintainer 
 
 Have a problem
-Have an 
+Have an issue 
