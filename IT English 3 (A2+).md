@@ -107,4 +107,7 @@ Maintain = обслуживать ()
 Have a problem
 Have an issue 
 
-**Responsible for** someone / something = ответственный  за
+**Responsible for** someone / something = *ответственный  за*
+
+Guess = 
+	try to guess
