@@ -32,3 +32,10 @@ Spell = заклинания
 
 In one of the modernized rooms last year
 In one of the rooms modernized last year
+
+## 01-04-2025
+
+Equation 
+Augmented reality = дополненная реальность
+
+There was no

@@ -111,4 +111,37 @@ What **does** Susie do in the evenings?
 
 Math (US) = Maths (UK)
 
+## 01-04-2025
 
+Nice to meet you = nice meeting you
+Glad to meet you
+Pleased to meet you 
+It's a pleasure to meet you
+
+Welcome = добро пожаловать
+You're welcome = не за что
+	No problem
+	No worries
+	It's ok
+
+I work at
+I work for
+
+Set up = настраивать
+
+Introduce = представиться
+	Introduction = приветствие; ведение
+
+Deal with
+
+I work at/for Gold Apple as a system analyst
+
+I work at Gold Apple, in IT department 
+
+8 years of experience
+web developer
+Development 
+
+I make reports for head office employees 
+
+She come**s** from 

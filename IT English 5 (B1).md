@@ -161,3 +161,15 @@ Mrs
 Playing
 Studying
 Flying
+
+
+## 01-04-2025
+
+Colocation != collocation
+
+Car maintenance
+
+Pilot phase 
+iterative
+
+I've never worked as a systems analyst

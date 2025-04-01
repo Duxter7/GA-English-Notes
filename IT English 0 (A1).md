@@ -171,3 +171,43 @@ To be = быть; являться
 
 **Are** you hungry?
 **Is** your phone from China?
+
+## 01-04-2025
+
+Last weekend 
+
+22 thousand steps 
+
+Then I came back home
+
+Changed tires = поменять шины 
+
+Pleased to meet you = nice to meet you
+Pleased to see you = nice to see you
+
+Nice meeting you = nice to meet you
+
+You're welcome = не за что
+	No problem
+	No worries
+
+Likewise = взаимно
+
+Network administrator = сетевой администратор
+System analyst = системный аналитик
+
+Remove
+Uninstall
+Delete
+
+Work at 
+Work for
+
+Introduction
+	Introduce
+
+Junior technical specialist
+
+Peripherals
+
+I administer 
