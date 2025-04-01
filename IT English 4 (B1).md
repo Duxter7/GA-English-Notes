@@ -111,3 +111,4 @@ Colocation is not a collocation
 
 Install
 Uninstall
+Reinstall
