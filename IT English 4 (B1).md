@@ -107,3 +107,4 @@ Studies
 
 ## 01-04-2025
 
+Colocation is not a collocation
