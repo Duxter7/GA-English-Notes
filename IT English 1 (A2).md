@@ -169,3 +169,6 @@ Finding telecom providers
 On time = вовремя
 
 E-commerce
+
+What do you want to know?
+	Wh
