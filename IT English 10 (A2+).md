@@ -85,3 +85,8 @@ Does he have?
 
 Am I doing this?
 I am doing this
+
+## 02-04-2025
+
+I think = я считаю
+I'm thinking = я размышляю
