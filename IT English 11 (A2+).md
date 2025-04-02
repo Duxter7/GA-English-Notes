@@ -70,3 +70,6 @@ Maintenance = обслуживание
 	Car maintenance
 	Maintain
 	Maintainer 
+
+
+Research supervisor 
