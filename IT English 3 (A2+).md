@@ -165,4 +165,4 @@ Take a deep breath
 We are playing a videogames
 
 What's the occasion? = какой повод?
-	Occasionally = 
+	Occasionally = по случаю (иногда)
