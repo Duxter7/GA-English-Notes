@@ -156,3 +156,10 @@ Pleased to see you
 Firewall = брандмауэр
 
 Make sure = убедись
+
+Solve = решать (проблему)
+	Solution = решение
+	Yesterday he solved a difficult task.
+
+Decide = решать (умственное заключение)
+	Decision = решение
