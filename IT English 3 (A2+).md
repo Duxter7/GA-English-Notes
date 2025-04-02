@@ -139,3 +139,7 @@ Car shop
 Tire shop
 
 Forecast = прогноз погоды
+
+There will be snow this week
+
+Last , this, next
