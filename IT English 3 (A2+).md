@@ -149,3 +149,5 @@ I'm thinking about going to the gym
 
 Is it worth it
 
+I think = по-моему мнению
+I'm thinking = я думаю о чем-то...
