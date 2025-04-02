@@ -171,4 +171,4 @@ On time = вовремя
 E-commerce
 
 What do you want to know?
-	Wh
+	Whatchu wanna know?
