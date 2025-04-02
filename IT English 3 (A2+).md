@@ -168,3 +168,5 @@ What's the occasion? = какой повод?
 	Occasionally = по случаю (иногда)
 
 Vacancy = позиция (должность)
+
+Access = доступ
