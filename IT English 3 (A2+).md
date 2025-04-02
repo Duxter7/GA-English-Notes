@@ -144,4 +144,6 @@ There will be snow this week
 
 Last week, this next, next
 
-I'm thinking 
+I'm thinking if it's worth or not
+
+Is it worth it?
