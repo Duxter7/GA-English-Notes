@@ -58,3 +58,8 @@ Look up = искать в словаре
 Look for = искать
 
 Install
+Uninstall
+Reinstall
+
+Delete
+Remove
