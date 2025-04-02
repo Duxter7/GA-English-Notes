@@ -165,3 +165,5 @@ Decide = решать (умственное заключение)
 	Decision = решение
 
 Finding telecom providers
+
+On time = вовремя
