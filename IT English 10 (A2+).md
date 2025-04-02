@@ -105,5 +105,5 @@ Hardware = железо (комплектующие)
 Design a network
 
 Maintain
-	Car maintenance 
+	Car maintenance = ТО 
 Support
