@@ -52,3 +52,8 @@ For further information
 ## 02-04-2025
 
 Supervisor 
+
+Look after = присматривать
+Look up = искать в словаре
+Look for = искать
+
