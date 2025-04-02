@@ -64,5 +64,5 @@ Reinstall
 Delete
 Remove
 
-Diagnose a problem and fix it = 
+Diagnose a problem and fix it = troubleshoot
 
