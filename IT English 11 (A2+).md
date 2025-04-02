@@ -66,3 +66,5 @@ Remove
 
 Diagnose a problem and fix it = troubleshoot
 
+Maintenance = обслуживание
+	Maintain
