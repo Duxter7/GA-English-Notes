@@ -90,3 +90,5 @@ I am doing this
 
 I think = я считаю
 I'm thinking = я размышляю
+
+Look after = приглядывать
