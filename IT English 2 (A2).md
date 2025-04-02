@@ -144,3 +144,7 @@ Cash register and POS
 Solve = решать (проблему)
 
 I work in first line support 
+
+## 02-04-2025
+
+My job is to set up new systems
