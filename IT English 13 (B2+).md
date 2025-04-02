@@ -32,3 +32,6 @@ A few months
 ## 02-04-2025
 
 Aspect ratio = соотношение сторон
+
+RAM =  
+ROM =
