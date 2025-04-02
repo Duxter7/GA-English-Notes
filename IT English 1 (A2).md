@@ -168,4 +168,4 @@ Finding telecom providers
 
 On time = вовремя
 
-e-
+E-commerce
