@@ -96,3 +96,5 @@ Look after = приглядывать
 issue 
 
 Install
+Uninstall
+Reinstall
