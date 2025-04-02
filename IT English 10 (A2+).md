@@ -94,3 +94,5 @@ I'm thinking = я размышляю
 Look after = приглядывать
 
 issue 
+
+Install
