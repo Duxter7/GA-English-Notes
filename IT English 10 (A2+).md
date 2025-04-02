@@ -101,3 +101,5 @@ Reinstall
 
 Software = ПО
 Hardware = железо (комплектующие)
+
+Вуышп
