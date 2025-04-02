@@ -100,4 +100,4 @@ Uninstall
 Reinstall
 
 Software = ПО
-Hardware = железо
+Hardware = железо (комплектующие)
