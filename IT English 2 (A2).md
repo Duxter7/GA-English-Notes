@@ -165,3 +165,5 @@ Decide = решать (умственное заключение)
 	Decision = решение
 
 E-commerce 
+
+What do you want to know = Whatchu wanna know
