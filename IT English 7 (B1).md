@@ -92,4 +92,5 @@ Purpose of my trip
 
 Research supervisor
 
-Diagnose a problem and fix it = 
+Diagnose a problem
+**Troubleshoot** = найти и решить проблему
