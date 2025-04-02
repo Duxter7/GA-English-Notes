@@ -95,6 +95,6 @@ Research supervisor
 Diagnose a problem
 **Troubleshoot** = найти и решить проблему
 
-Maintain 
-
-Car maintnenace 
+Maintain = обслуживать
+	Maintainer = обслуживатель 
+Car maintenance = ТО
