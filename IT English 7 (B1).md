@@ -84,8 +84,6 @@ I got tired = I became tired
 I got angry = I became angry
 I got hungry = I became hungry
 
-Visit
-There
-That
-
 On the outskirts
+
+A few movies
