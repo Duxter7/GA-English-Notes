@@ -116,3 +116,5 @@ Implementation
 
 I check database tables for mistakes
 I meet with customers
+
+Middle man = посредник
