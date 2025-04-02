@@ -134,3 +134,8 @@ It doesn't matter what you are using
 
 The day before yesterday
 The day after tomorrow
+
+Car shop
+Tire shop
+
+Forecast = прогноз погоды
