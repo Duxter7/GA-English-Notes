@@ -167,3 +167,5 @@ Decide = решать (умственное заключение)
 E-commerce 
 
 What do you want to know = Whatchu wanna know
+
+My dream job is to ... 
