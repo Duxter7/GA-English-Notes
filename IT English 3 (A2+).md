@@ -176,3 +176,7 @@ I register fiscal storage in Federal Tax Service
 Procure = закуп
 Purchase
 Buy
+
+Zoho 
+
+Активы = Assets
