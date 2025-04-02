@@ -98,3 +98,6 @@ issue
 Install
 Uninstall
 Reinstall
+
+Software = ПО
+Hardware = железо
