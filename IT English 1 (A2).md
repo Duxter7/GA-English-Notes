@@ -156,3 +156,8 @@ Firewall = брандмауэр
 Make sure = убедись; проверь (что что-то точно так)
 
 None of that = ничего из этого
+
+Solve = решать (проблему)
+	
+	Yesterday he solved a difficult task.
+	
