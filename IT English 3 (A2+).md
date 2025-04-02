@@ -142,4 +142,6 @@ Forecast = прогноз погоды
 
 There will be snow this week
 
-Last , this, next
+Last week, this next, next
+
+I'm thinking 
