@@ -63,3 +63,6 @@ Reinstall
 
 Delete
 Remove
+
+Diagnose a problem and fix it = 
+
