@@ -152,3 +152,5 @@ Install software
 
 Pleased to meet you 
 Pleased to see you
+
+Firewall = брандмауэр
