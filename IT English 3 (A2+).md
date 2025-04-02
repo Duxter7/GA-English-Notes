@@ -145,5 +145,7 @@ There will be snow this week
 Last week, this next, next
 
 I'm thinking if it's worth or not
+I'm thinking about going to the gym
 
-Is it worth it?
+Is it worth it
+
