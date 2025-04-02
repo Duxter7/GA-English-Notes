@@ -172,3 +172,12 @@ E-commerce
 
 What do you want to know?
 	Whatchu wanna know?
+
+To be 
+1. am
+2. is
+3. are
+
+4. was
+5. were
+
