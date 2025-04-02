@@ -154,3 +154,5 @@ Pleased to meet you
 Pleased to see you
 
 Firewall = брандмауэр
+
+Make sure = убедись
