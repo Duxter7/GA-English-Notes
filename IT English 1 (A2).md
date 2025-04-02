@@ -164,4 +164,4 @@ Solve = решать (проблему)
 Decide = решать (умственное заключение)
 	Decision = решение
 
-
+Finding telecom providers
