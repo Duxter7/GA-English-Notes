@@ -171,4 +171,6 @@ Vacancy = позиция (должность)
 
 Access = доступ
 
-I register fiscal storage in Federal   
+I register fiscal storage in Federal Tax Service
+
+Procure = зак
