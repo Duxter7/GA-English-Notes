@@ -103,3 +103,7 @@ Software = ПО
 Hardware = железо (комплектующие)
 
 Design a network
+
+Maintain
+	Car maintenance 
+Support
