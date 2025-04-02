@@ -182,3 +182,7 @@ To be
 5. were
 
 Bless you = будь здоров
+
+
+It doesn't matter = не имеет разницы
+It makes no difference to me = мне без разницы
