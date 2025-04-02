@@ -114,4 +114,5 @@ Have to
 Implement
 Implementation
 
-I check database tables for errors
+I check database tables for mistakes
+I meet with customers
