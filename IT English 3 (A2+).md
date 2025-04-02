@@ -154,5 +154,5 @@ I'm thinking = я думаю о чем-то...
 
 Going to go 
 
-Then I'm going to the gym
-A
+**Then** I'm going to the gym
+**After that** I'm going to the gym
