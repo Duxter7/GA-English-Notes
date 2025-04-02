@@ -173,4 +173,6 @@ Access = доступ
 
 I register fiscal storage in Federal Tax Service
 
-Procure = зак
+Procure = закуп
+Purchase
+Buy
