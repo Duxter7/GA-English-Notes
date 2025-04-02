@@ -33,5 +33,5 @@ A few months
 
 Aspect ratio = соотношение сторон
 
-RAM =  
-ROM =
+RAM = ОЗУ 
+ROM = ПЗУ
