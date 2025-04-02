@@ -167,4 +167,4 @@ We are playing a videogames
 What's the occasion? = какой повод?
 	Occasionally = по случаю (иногда)
 
-Vacancy = позиция ()
+Vacancy = позиция (должность)
