@@ -181,3 +181,4 @@ To be
 4. was
 5. were
 
+Bless you = будь здоров
