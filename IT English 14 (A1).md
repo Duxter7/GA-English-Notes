@@ -250,3 +250,5 @@ Properly = корректно
 
 Work at Gold Apple
 Work for Gold Apple 
+
+Architect = архитектор
