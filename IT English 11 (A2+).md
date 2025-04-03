@@ -79,3 +79,6 @@ Research supervisor
 Middle man
 Broker
 Mediator
+
+Yesterday I went to a store
+I went to a store yesterday
