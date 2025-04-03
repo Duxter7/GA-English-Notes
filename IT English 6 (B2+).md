@@ -39,3 +39,7 @@ Equation
 Augmented reality = дополненная реальность
 
 There was no
+
+## 03-04-2025
+
+Agreement 
