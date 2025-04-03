@@ -76,3 +76,6 @@ Research supervisor
 
 ## 03-04-2025
 
+Middle man
+Broker
+Mediator
