@@ -165,3 +165,5 @@ Decide = решать (умозаключение)
 	Decision = решение
 
 Our **solution** for this problem is to fire half of our employees, and this is our **decision** 
+
+I decided not t g
