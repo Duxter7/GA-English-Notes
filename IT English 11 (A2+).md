@@ -89,3 +89,5 @@ You my little nigga, what size them is?
 
 Do you want to come?
 What are your future plans?
+
+Your mic is off
