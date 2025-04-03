@@ -244,3 +244,6 @@ Maintenance = обслуживание
 **Is** our new worker in the building?
 
 Firewall - брандмауэр
+Make sure = убедись
+
+Properly = корректно
