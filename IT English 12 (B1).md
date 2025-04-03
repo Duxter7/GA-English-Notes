@@ -118,3 +118,5 @@ Memo = служебная записка
 
 CIO = chief information officer
 CEO = chief executive officer
+
+**Can't; mustn't** = you forbid
