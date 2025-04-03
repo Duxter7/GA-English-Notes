@@ -129,4 +129,7 @@ CEO = chief executive officer
 ---
 
 **Have to (gotta); must** = obligation
+	You have to write a letter to IT Support
+**Can** = not forced
+	You can talk to Indians if you want to
 
