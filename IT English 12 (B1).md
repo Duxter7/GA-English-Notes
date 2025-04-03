@@ -124,7 +124,7 @@ CEO = chief executive officer
 **Can't; mustn't** = you forbid
 	You can't sit here
 **Don't have to** = not forced
-	You don't have to talk to Indians
+	You don't have to talk to Indians if you don't want to
 
 ---
 
@@ -133,3 +133,6 @@ CEO = chief executive officer
 **Can** = not forced
 	You can talk to Indians if you want to
 
+---
+
+Need = нужно
