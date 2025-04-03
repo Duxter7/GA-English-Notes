@@ -294,3 +294,6 @@ Doesn't = не (в действиях)
 What do you do? = чем зарабатываешь (что делаешь)
 	I'm a developer
 	I'm an analyst
+
+Where do you study?
+	Are you a student?
