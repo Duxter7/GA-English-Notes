@@ -252,3 +252,6 @@ Work at Gold Apple
 Work for Gold Apple 
 
 Architect = архитектор
+
+To process = обрабатывать
+Process = процесс
