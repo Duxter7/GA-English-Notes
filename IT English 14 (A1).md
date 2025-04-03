@@ -247,3 +247,6 @@ Firewall - брандмауэр
 Make sure = убедись
 
 Properly = корректно
+
+Work at Gold Apple
+Wor
