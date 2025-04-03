@@ -47,3 +47,5 @@ Contract
 
 Computer parts
 Computer components
+
+Peripherals = периферия 
