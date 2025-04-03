@@ -87,5 +87,5 @@ What's the occasion? = какой повод?
 
 You my little nigga, what size them is?
 
-Do you want to come
+Do you want to come?
 What are your future plans?
