@@ -199,3 +199,4 @@ Pull out = выдергивать
 
 All-in-one = моноблок
 
+Attach
