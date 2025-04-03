@@ -158,3 +158,7 @@ Process = обрабатывать
 Analyze = анализировать
 
 Courses = курсы
+
+Solve = решать
+	Solution = решение
+Decide = 
