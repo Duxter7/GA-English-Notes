@@ -274,6 +274,17 @@ Do **You** like; do; work; eat
 Do **We** like; do; work; eat
 Do **They** like; do; work; eat
 
-Does He like; do; work; eat
-She like; do; work; eat
-It like; do; work; eat
+**Does** He like; do; work; eat
+**Does** She like; do; work; eat
+**Does** It like; do; work; eat
+
+*Отрицания*
+**I** don't like; eat; sleep; do
+**You** don't like; do; work; eat
+**We** don't like; do; work; eat
+**They** don't like; do; work; eat
+
+He like; **I** do; **I** work; **I** eat
+**You** like; do; work; eat
+**We** like; do; work; eat
+**They** like; do; work; eat
