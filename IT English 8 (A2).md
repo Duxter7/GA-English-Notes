@@ -150,3 +150,4 @@ She come**s** from
 
 Firewall = брандмауэр
 Design the network
+Make sure = убедись 
