@@ -139,4 +139,12 @@ CEO = chief executive officer
 **Should** = следует
 
 
-Do you must
+~~Do you must?~~
+~~Have you to do this?~~
+
+Must you do this?
+Should you do this?
+Can you do this?
+
+Close the window
+Open
