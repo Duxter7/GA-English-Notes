@@ -297,3 +297,6 @@ What do you do? = чем зарабатываешь (что делаешь)
 
 Where do you study?
 	Are you a student?
+Where **does** *he* **eat**?
+Where do they usually play videogames?
+What does your boss usually do on the weekends
