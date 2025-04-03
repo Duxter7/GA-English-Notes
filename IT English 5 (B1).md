@@ -192,3 +192,6 @@ Let me = lemme
 
 Something = some
 
+Spill = пролить
+	I spilled my juice on the keyboard
+
