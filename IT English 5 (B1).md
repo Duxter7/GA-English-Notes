@@ -205,3 +205,6 @@ Attachments = вложения
 Ecommerce
 
 Firewall
+
+It was hacked
+It was breached 
