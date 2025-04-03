@@ -259,3 +259,9 @@ Process = процесс
 ### Present simple actions
 
 **I** like; **I** do; **I** work; **I** eat
+**You** like; do; work; eat
+**We** like; do; work; eat
+**They** like; do; work; eat
+
+He like**s**; do**es**; work**s**; eat**s**
+She 
