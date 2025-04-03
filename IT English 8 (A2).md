@@ -152,4 +152,4 @@ Firewall = брандмауэр
 Design the network
 Make sure = убедись 
 
-Network administrator = сетевой администратор 
+Network administrator = сетевой администратор
