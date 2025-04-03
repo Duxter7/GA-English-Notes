@@ -154,3 +154,5 @@ Make sure = убедись
 
 Network administrator = сетевой администратор
 
+Process = обрабатывать
+Analyze = анализировать
