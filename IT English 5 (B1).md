@@ -208,3 +208,6 @@ Firewall
 
 It was hacked
 It was breached 
+
+Extension = расширение
+Extensive = расширенный 
