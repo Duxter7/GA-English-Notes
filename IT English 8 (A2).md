@@ -146,4 +146,6 @@ I make reports for head office employees
 
 She come**s** from 
 
-@
+## 03-04-2025
+
+Firewall = брандмауэр
