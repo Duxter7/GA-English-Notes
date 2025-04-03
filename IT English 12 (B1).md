@@ -115,3 +115,6 @@ Bigger than
 ## 03-04-2025
 
 Memo = служебная записка
+
+CIO = chief information officer
+CEO = chief executive officer
