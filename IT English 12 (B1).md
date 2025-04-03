@@ -146,5 +146,8 @@ Must you do this?
 Should you do this?
 Can you do this?
 
-Close the window
-Open
+**Close** the window
+**Open** the door
+
+**Don't close** the windows
+**Don't do** it
