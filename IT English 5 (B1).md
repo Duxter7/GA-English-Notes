@@ -182,4 +182,5 @@ To be afraid = бояться
 
 Horror movies
 
-Сщ
+Brackets (UK) = Parenthesis (US) = **()**
+
