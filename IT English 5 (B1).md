@@ -188,5 +188,7 @@ We **do** work here = мы **действительно** работаем зд�
 
 Want to = wanna
 Going to = gonna = gon' = finna
+Let me = lemme 
 
+Something = some
 
