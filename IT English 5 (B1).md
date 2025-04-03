@@ -187,5 +187,6 @@ Brackets (UK) = Parenthesis (US) = **()**
 We **do** work here = мы **действительно** работаем здесь
 
 Want to = wanna
+Going to = gonna = gon' = finna
 
-Going 
+
