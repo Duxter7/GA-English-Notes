@@ -290,3 +290,7 @@ Do **They** like; do; work; eat
 
 Don't = не (в действиях)
 Doesn't = не (в действиях)
+
+What do you do? = чем зарабатываешь (что делаешь)
+	I'm a developer
+	I'm an analyst
