@@ -235,3 +235,6 @@ I don't have any plans **for the weekend**
 **For breakfast** I always eat an apple
 
 Go for a walk 
+
+They - Their = их
+We - Our = наш 
