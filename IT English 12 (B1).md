@@ -120,3 +120,5 @@ CIO = chief information officer
 CEO = chief executive officer
 
 **Can't; mustn't** = you forbid
+
+**Don't have to** = not forced
