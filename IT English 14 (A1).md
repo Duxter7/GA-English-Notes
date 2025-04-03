@@ -242,3 +242,5 @@ We - Our = наш
 Maintenance = обслуживание
 
 **Is** our new worker in the building?
+
+Firewall - брандмауэр
