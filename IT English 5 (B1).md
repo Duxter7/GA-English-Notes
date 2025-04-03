@@ -178,5 +178,6 @@ I've never worked as a systems analyst
 
 Fear = страх
 Scary = страшный
+To be afraid = бояться
 
 Horror movies
