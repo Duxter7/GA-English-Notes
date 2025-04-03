@@ -44,3 +44,6 @@ There was no
 
 Agreement 
 Contract
+
+Computer parts
+Computer components
