@@ -185,3 +185,7 @@ Horror movies
 Brackets (UK) = Parenthesis (US) = **()**
 
 We **do** work here = мы **действительно** работаем здесь
+
+Want to = wanna
+
+Going 
