@@ -284,7 +284,9 @@ Do **They** like; do; work; eat
 **We** don't like; do; work; eat
 **They** don't like; do; work; eat
 
-He like; **I** do; **I** work; **I** eat
-**You** like; do; work; eat
-**We** like; do; work; eat
-**They** like; do; work; eat
+**He** doesn't like;  do;  work;  eat
+**She** doesn't like; do; work; eat
+**It** doesn't like; do; work; eat
+
+Don't = не (в действиях)
+Doesn't = не (в действиях)
