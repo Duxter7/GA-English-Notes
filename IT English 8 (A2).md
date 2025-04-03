@@ -159,6 +159,8 @@ Analyze = анализировать
 
 Courses = курсы
 
-Solve = решать
+Solve = решать (решать проблему)
 	Solution = решение
-Decide = 
+Decide = решать (умозаключение)
+	Decision = решение
+
