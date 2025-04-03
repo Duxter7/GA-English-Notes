@@ -169,4 +169,4 @@ Our **solution** for this problem is to fire half of our employees, and this is 
 I **decided** not to go home today
 
 E-commerce
-Ecommerc
+Ecommerce
