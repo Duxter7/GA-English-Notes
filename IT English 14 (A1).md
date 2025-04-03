@@ -231,5 +231,5 @@ Architect
 
 ## 03-04-2025
 
-I don't have any plans for the weekend
-For breakfast I always eat an apple
+I don't have any plans **for the weekend**
+**For breakfast** I always eat an apple
