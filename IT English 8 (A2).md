@@ -149,3 +149,4 @@ She come**s** from
 ## 03-04-2025
 
 Firewall = брандмауэр
+Design the network
