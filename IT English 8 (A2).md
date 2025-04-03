@@ -156,3 +156,5 @@ Network administrator = сетевой администратор
 
 Process = обрабатывать
 Analyze = анализировать
+
+Courses = курсы
