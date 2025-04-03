@@ -173,3 +173,7 @@ Pilot phase
 iterative
 
 I've never worked as a systems analyst
+
+## 03-04-2025
+
+Fear = 
