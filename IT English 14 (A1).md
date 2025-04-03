@@ -301,4 +301,5 @@ Where **does** *he* **eat**?
 Where **do** they usually **play** videogames?
 What **does** your boss usually **do** on the weekends?
 Where **does** your best friend **work**?
-What 
+What **do** they **do** in the morning?
+**Do** you **build** computers?
