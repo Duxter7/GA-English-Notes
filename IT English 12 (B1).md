@@ -135,4 +135,8 @@ CEO = chief executive officer
 
 ---
 
-Need = нужно
+**Need** = нужно
+**Should** = следует
+
+
+Do you must
