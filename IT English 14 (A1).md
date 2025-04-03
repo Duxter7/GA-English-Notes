@@ -268,4 +268,12 @@ Process = процесс
 **She** like**s**; do**es**; work**s**; eat**s**
 **It** like**s**; do**es**; work**s**; eat**s**
 
-Do I like?; do; work; eat
+*Вопросы*
+Do **I** like?; do; work; eat
+Do **You** like; do; work; eat
+Do **We** like; do; work; eat
+Do **They** like; do; work; eat
+
+Does He like; do; work; eat
+She like; do; work; eat
+It like; do; work; eat
