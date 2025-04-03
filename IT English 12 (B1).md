@@ -119,6 +119,13 @@ Memo = служебная записка
 CIO = chief information officer
 CEO = chief executive officer
 
-**Can't; mustn't** = you forbid
 
+---
+**Can't; mustn't** = you forbid
+	You can't sit here
 **Don't have to** = not forced
+	You don't have to talk to Indians
+
+---
+
+Have to; must = obligation
