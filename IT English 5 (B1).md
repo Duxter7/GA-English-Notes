@@ -199,4 +199,5 @@ Pull out = выдергивать
 
 All-in-one = моноблок
 
-Attach
+Attachments = вложения
+	Attach = прикрепить
