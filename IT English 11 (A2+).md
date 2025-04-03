@@ -86,3 +86,5 @@ I went to a store yesterday
 What's the occasion? = какой повод?
 
 You my little nigga, what size them is?
+
+Do you
