@@ -255,3 +255,7 @@ Architect = архитектор
 
 To process = обрабатывать
 Process = процесс
+
+### Present simple actions
+
+**I** like; **I** do; **I** work; **I** eat
