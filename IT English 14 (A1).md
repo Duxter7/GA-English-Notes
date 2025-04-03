@@ -249,4 +249,4 @@ Make sure = убедись
 Properly = корректно
 
 Work at Gold Apple
-Wor
+Work for Gold Apple 
