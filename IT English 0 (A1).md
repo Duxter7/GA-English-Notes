@@ -239,3 +239,6 @@ I - my = мой
 My laptop **is** expensive
 Their shoes **are** expensive
 His car **is** cheap
+
+Maintenance = обслуживание
+	Car maintenance
