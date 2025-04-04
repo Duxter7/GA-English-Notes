@@ -122,3 +122,5 @@ Middleman = посредник
 ## 04-04-2025
 
 **Long time no see** = давно не виделись
+
+I'm at my computer = я за компьютером
