@@ -216,3 +216,5 @@ I administer
 
 Partial**ly** = частично
 Quiet**ly** = тихо
+
+I **will** go to a *birthday party*
