@@ -104,4 +104,4 @@ Car maintenance = ТО
 Hardware 
 Computer parts / components
 
-o
+Oversee 
