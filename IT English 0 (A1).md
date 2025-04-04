@@ -242,3 +242,5 @@ His car **is** cheap
 
 Maintenance = обслуживание
 	Car maintenance
+
+Best regards = всего наилучшего
