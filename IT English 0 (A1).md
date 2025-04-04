@@ -281,3 +281,5 @@ Don't = не (в действиях)
 Doesn't = не (в действиях)
 
 Firewall = брандмауэр
+Design networks = проектировать сети
+Make sure = убе
