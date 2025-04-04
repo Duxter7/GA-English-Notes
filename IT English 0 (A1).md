@@ -230,9 +230,12 @@ I want **to be** a senior developer
 
 They - their = их
 We - our = наш
+He - his = его
+She - her = ее
 I - my = мой
 
 <u>Our job</u> **is** easy
 
-My laptop is expensive
-Th
+My laptop **is** expensive
+Their shoes **are** expensive
+His car **is** cheap
