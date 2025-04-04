@@ -105,3 +105,8 @@ Hardware
 Computer parts / components
 
 Oversee 
+
+**Middleman** = посредник
+
+Technical specifications
+Architecture documentation
