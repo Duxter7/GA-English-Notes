@@ -284,3 +284,6 @@ Firewall = брандмауэр
 Design networks = проектировать сети
 Make sure = убедиться 
 Proper**ly** = тщательно; исправно
+
+Work for a company
+Work at a company 
