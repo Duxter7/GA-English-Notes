@@ -112,3 +112,7 @@ Technical specifications
 Architecture documentation
 
 I **spilled** water on my keyboard
+
+Memo = служебная записка
+
+Chief Information Officer = 
