@@ -191,5 +191,5 @@ SSD
 NVMe
 
 **Memory**
-RAM - 32 Gigs
-ROM - 
+RAM - ОЗУ (32 Gigs)
+ROM - ПЗУ
