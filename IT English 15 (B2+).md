@@ -99,3 +99,6 @@ Insecure
 
 Case = корпус
 Peripherals = периферия
+
+Computer parts
+Computers components
