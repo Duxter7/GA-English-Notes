@@ -177,3 +177,8 @@ Frail = хрупкий (слабый)
 
 Factory reset
 Restore
+
+Hack
+Break into
+Compromise
+Breach
