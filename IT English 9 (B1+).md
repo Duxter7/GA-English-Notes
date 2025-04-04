@@ -184,3 +184,9 @@ Compromise
 Breach
 
 All-in-one PC
+
+**Storage devices**
+HDD
+SSD
+NVMe
+
