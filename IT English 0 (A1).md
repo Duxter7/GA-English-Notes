@@ -279,3 +279,5 @@ Do **They** like; do; work; eat
 
 Don't = не (в действиях)
 Doesn't = не (в действиях)
+
+Firewall = брандмауэр
