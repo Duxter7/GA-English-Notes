@@ -234,4 +234,5 @@ I - my = мой
 
 <u>Our job</u> **is** easy
 
-Their 
+My laptop is expensive
+Th
