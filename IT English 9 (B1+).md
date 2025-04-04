@@ -191,4 +191,5 @@ SSD
 NVMe
 
 **Memory**
-RAM
+RAM - 32 Gigs
+ROM
