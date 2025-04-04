@@ -115,4 +115,6 @@ I **spilled** water on my keyboard
 
 Memo = служебная записка
 
-Chief Information Officer = 
+Chief Information Officer = CIO
+Chief Executive Officer = CEO
+Chief Technology Officer = CTO
