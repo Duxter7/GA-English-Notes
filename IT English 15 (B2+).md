@@ -93,3 +93,6 @@ Region
 Compromised
 Hacked
 Security breach 
+
+Unsecure
+Insecure
