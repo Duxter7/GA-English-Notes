@@ -174,3 +174,6 @@ Accountant
 Shrink
 
 Frail = хрупкий (слабый)
+
+Factory reset
+Restore
