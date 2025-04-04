@@ -117,7 +117,7 @@ Implementation
 I check database tables for mistakes
 I meet with customers
 
-Middle man = посредник
+Middleman = посредник
 
 ## 04-04-2025
 
