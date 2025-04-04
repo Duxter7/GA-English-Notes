@@ -172,3 +172,5 @@ Sockets (outlets) = розетки
 Accountant 
 
 Shrink
+
+Frail = хрупкий (слабый)
