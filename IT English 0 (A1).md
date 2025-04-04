@@ -211,3 +211,8 @@ Junior technical specialist
 Peripherals
 
 I administer 
+
+## 04-04-2025
+
+Partial**ly** = частично
+Quiet**ly** = тихо
