@@ -128,4 +128,4 @@ Brackets (UK) = Parenthesis (US)
 **Question mark** = ?
 **Exclamation mark** = ! 
 
-Customer v
+Customer (products) vs Client (services)
