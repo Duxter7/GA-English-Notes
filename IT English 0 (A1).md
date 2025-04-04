@@ -282,4 +282,5 @@ Doesn't = не (в действиях)
 
 Firewall = брандмауэр
 Design networks = проектировать сети
-Make sure = убе
+Make sure = убедиться 
+Proper**ly** = тщательно; исправно
