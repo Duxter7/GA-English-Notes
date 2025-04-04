@@ -129,3 +129,5 @@ Brackets (UK) = Parenthesis (US)
 **Exclamation mark** = ! 
 
 Customer (products) vs Client (services)
+**Typo** = опечатка
+	It's a typo, I'm sorry
