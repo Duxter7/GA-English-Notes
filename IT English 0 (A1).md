@@ -291,3 +291,6 @@ Work at a company
 Network architect
 
 **Staff** only 
+
+I'm not interested in this
+I don't work
