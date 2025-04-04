@@ -105,3 +105,6 @@ Computers components
 
 RAM = ОЗУ
 ROM = ПЗУ
+
+HDD
+SSD
