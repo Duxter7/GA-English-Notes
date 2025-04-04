@@ -231,3 +231,7 @@ I want **to be** a senior developer
 They - their = их
 We - our = наш
 I - my = мой
+
+<u>Our job</u> **is** easy
+
+Their 
