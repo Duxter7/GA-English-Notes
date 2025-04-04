@@ -193,3 +193,6 @@ NVMe
 **Memory**
 RAM - ОЗУ (32 Gigs)
 ROM - ПЗУ
+
+**CPU** 
+**GPU** (videocard)
