@@ -183,7 +183,7 @@ Break into
 Compromise
 Breach
 
-All-in-one PC
+**All-in-one** PC
 
 **Storage devices**
 HDD
@@ -202,3 +202,7 @@ Mouse
 Keyboard
 Speaker
 Monitor
+
+Computer = PC
+
+**Case** = корпус
