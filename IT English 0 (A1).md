@@ -244,3 +244,38 @@ Maintenance = обслуживание
 	Car maintenance
 
 Best regards = всего наилучшего
+
+### Present simple actions
+
+*Утверждения*
+**I** like; **I** do; **I** work; **I** eat
+**You** like; do; work; eat
+**We** like; do; work; eat
+**They** like; do; work; eat
+
+**He** like**s**; do**es**; work**s**; eat**s**
+**She** like**s**; do**es**; work**s**; eat**s**
+**It** like**s**; do**es**; work**s**; eat**s**
+
+*Вопросы*
+Do **I** like?; do; work; eat
+Do **You** like; do; work; eat
+Do **We** like; do; work; eat
+Do **They** like; do; work; eat
+
+**Does** He like; do; work; eat
+**Does** She like; do; work; eat
+**Does** It like; do; work; eat
+
+*Отрицания*
+**I** don't like; eat; sleep; do
+**You** don't like; do; work; eat
+**We** don't like; do; work; eat
+**They** don't like; do; work; eat
+
+**He** doesn't like;  do;  work;  eat
+**She** doesn't like; do; work; eat
+**It** doesn't like; do; work; eat
+
+Don't = не (в действиях)
+Doesn't = не (в действиях)
