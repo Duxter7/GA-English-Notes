@@ -131,3 +131,5 @@ Brackets (UK) = Parenthesis (US)
 Customer (products) vs Client (services)
 **Typo** = опечатка
 	It's a typo, I'm sorry
+
+You might spill the water on your computer
