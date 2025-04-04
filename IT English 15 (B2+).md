@@ -84,3 +84,7 @@ CASE
 Per day = a day
 
 **Replaced** my phone **with** a Kindle 
+
+## 04-04-2025
+
+In the past - in the present - in the future
