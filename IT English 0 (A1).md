@@ -220,3 +220,8 @@ Quiet**ly** = тихо
 I **will** go to a *birthday party*
 
 I'll do my homework, I'll play videogames 
+
+To be = быть; являться; находиться
+1. am
+2. is
+3. are
