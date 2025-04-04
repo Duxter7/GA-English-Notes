@@ -98,3 +98,8 @@ Diagnose a problem
 Maintain = обслуживать
 	Maintainer = обслуживатель 
 Car maintenance = ТО
+
+## 04-04-2025
+
+Hardware 
+Computer parts / components
