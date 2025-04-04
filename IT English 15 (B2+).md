@@ -98,3 +98,4 @@ Unsecure
 Insecure
 
 Case = корпус
+Peripherals = периферия
