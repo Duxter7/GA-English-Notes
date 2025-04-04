@@ -192,4 +192,4 @@ NVMe
 
 **Memory**
 RAM - 32 Gigs
-ROM
+ROM - 
