@@ -225,3 +225,5 @@ To be = быть; являться; находиться
 1. am
 2. is
 3. are
+
+I want **to be** a senior developer
