@@ -219,4 +219,4 @@ Quiet**ly** = тихо
 
 I **will** go to a *birthday party*
 
-I'll do my homework, I'll play videog
+I'll do my homework, I'll play videogames 
