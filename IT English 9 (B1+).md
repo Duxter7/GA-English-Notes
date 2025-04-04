@@ -190,3 +190,5 @@ HDD
 SSD
 NVMe
 
+**Memory**
+RAM
