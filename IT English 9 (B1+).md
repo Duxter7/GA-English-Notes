@@ -154,7 +154,7 @@ Homicide
 ## 04-04-2025
 
 There will be a concert on Sunday
-
+I don't have any plans for the weekend
 
 
 King
@@ -162,3 +162,5 @@ Sing
 
 Sin = грех
 Kin = род
+
+Spouse
