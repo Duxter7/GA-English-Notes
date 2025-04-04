@@ -170,3 +170,5 @@ Switch = выключатель
 Sockets (outlets) = розетки
 
 Accountant 
+
+Shrink
