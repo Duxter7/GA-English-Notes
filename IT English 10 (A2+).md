@@ -127,3 +127,5 @@ I'm at my computer = я за компьютером
 Brackets (UK) = Parenthesis (US)
 **Question mark** = ?
 **Exclamation mark** = ! 
+
+Customer v
