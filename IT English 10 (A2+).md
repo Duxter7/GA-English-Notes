@@ -118,3 +118,7 @@ I check database tables for mistakes
 I meet with customers
 
 Middle man = посредник
+
+## 04-04-2025
+
+**Long time no see** = давно не виделись
