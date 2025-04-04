@@ -155,4 +155,8 @@ Homicide
 
 There will be a concert on Sunday
 
-S
+King
+Sing
+
+Sin = грех
+Kin = род
