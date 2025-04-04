@@ -195,4 +195,10 @@ RAM - ОЗУ (32 Gigs)
 ROM - ПЗУ
 
 **CPU** 
-**GPU** (videocard)
+**GPU** (video card)
+
+**Peripherals**
+Mouse
+Keyboard
+Speaker
+Monitor
