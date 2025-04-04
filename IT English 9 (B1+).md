@@ -163,5 +163,8 @@ Sing
 Sin = грех
 Kin = род
 
-
 Basement
+
+Bulb = лампочка
+Switch = выключатель
+Sockets (outlets) = розетки
