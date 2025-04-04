@@ -96,3 +96,5 @@ Security breach
 
 Unsecure
 Insecure
+
+Case = корпус
