@@ -102,3 +102,6 @@ Peripherals = периферия
 
 Computer parts
 Computers components
+
+RAM = ОЗУ
+ROM = ПЗУ
