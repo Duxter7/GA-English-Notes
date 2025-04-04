@@ -124,3 +124,4 @@ Middleman = посредник
 **Long time no see** = давно не виделись
 
 I'm at my computer = я за компьютером
+Brackets (UK) = Pare
