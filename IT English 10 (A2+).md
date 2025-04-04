@@ -137,3 +137,5 @@ You might spill the water on your computer
 Have to = must
 
 I **spilled** coffee on my laptop but it didn't break
+
+AFK = away from keyboard
