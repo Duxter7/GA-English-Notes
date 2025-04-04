@@ -227,3 +227,7 @@ To be = быть; являться; находиться
 3. are
 
 I want **to be** a senior developer
+
+They - their = их
+We - our = наш
+I - my = мой
