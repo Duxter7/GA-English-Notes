@@ -195,5 +195,10 @@ Do you live together?
 **Singular**
 Girl - girl's
 Max = Max's
-Kid = ki
-Cat
+Kid = kid's
+Cat = cat's
+
+**Plural**
+Girls - girls'
+Kids = kids'
+Cat = cats'
