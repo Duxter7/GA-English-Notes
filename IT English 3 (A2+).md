@@ -188,3 +188,9 @@ Meet with = встретиться
 See = увидеться
 
 I visited my friend
+
+New heights = новые вершины
+
+On Saturday
+
+Car shop = автосервис 
