@@ -162,4 +162,4 @@ I've **gotta** do it = I **gotta** do it = I have to do it
 **Can't**; mustn't 
 
 Distract = отвлекать
-Disturb = 
+Disturb = беспокоить
