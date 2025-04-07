@@ -119,3 +119,6 @@ Peripherals
 Carbs = carbohydrates = углеводы
 	Slow carbs
 Broth = бульон
+
+Fries (US) = Chips (UK) = картошка фри
+Chips (US) = Crisps (UK) = чипсы
