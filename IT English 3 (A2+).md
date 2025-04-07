@@ -206,4 +206,6 @@ I am playing right now
 Play - playing (играние)
 Eat - eating (поедание)
 
-I can 
+I can do it
+
+I enjoy to
