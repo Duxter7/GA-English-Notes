@@ -309,3 +309,4 @@ What **do** they **do** in the morning?
 Who do you work for?
 
 Purse = кошелек (как маленький мешок)
+Keyboard = клавиатура
