@@ -158,3 +158,5 @@ You **should** stop smoking (recommendation)
 I **have to** do it else I will be fired = I **must** do it else I will be fired 
 
 I've **gotta** do it = I **gotta** do it = I have to do it
+
+**Can't**; mustn't 
