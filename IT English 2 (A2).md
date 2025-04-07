@@ -202,3 +202,6 @@ Cat = cat's
 Girls - girls'
 Kids = kids'
 Cat = cats'
+
+Boss - boss's 
+Children - children's 
