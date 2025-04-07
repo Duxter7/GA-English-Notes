@@ -170,3 +170,6 @@ What do you want to know = Whatchu wanna know
 
 My dream job is to ... 
 
+## 07-04-2025
+
+Cousin = двоюродный брат или сестра
