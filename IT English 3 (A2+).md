@@ -198,3 +198,5 @@ Car shop = автосервис
 Mexican cuisine
 
 Cousin = двоюродный брат или сестра
+
+Hang out = 
