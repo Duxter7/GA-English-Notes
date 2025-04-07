@@ -165,3 +165,5 @@ Distract = отвлекать
 Disturb = беспокоить
 
 Malware = вирус
+
+Groceries = продукты питания
