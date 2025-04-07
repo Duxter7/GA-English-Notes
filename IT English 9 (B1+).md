@@ -211,3 +211,5 @@ Computer = PC
 
 Should = следует
 Have to (gotta) = must = должен
+
+
