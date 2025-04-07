@@ -115,3 +115,5 @@ Computers parts / PC componentes
 Hardware
 
 Peripherals
+
+Carbs = carbohydrates
