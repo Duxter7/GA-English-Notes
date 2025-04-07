@@ -47,3 +47,10 @@ Case
 PC parts / PC components / PC hardware
 
 Peripherals 
+
+Storage device
+
+GPU
+CPU
+
+
