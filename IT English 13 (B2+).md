@@ -40,4 +40,10 @@ ROM = ПЗУ
 
 Cook = повар
 Chef = шеф-повар
-Chief = 
+Chief = главарь; начальник
+
+Case
+
+PC parts / PC components / PC hardware
+
+Peripherals 
