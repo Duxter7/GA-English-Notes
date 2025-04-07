@@ -116,5 +116,6 @@ Hardware
 
 Peripherals
 
-Carbs = carbohydrates
+Carbs = carbohydrates = углеводы
 	Slow carbs
+Broth = бульон
