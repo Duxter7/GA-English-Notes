@@ -331,4 +331,4 @@ Something else = что-то
 Wear = носить
 	I rarely wear a backpack
 
-I
+Usually I don't wear a bag 
