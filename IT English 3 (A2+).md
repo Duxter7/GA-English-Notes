@@ -193,4 +193,4 @@ New heights = новые вершины
 
 On Saturday
 
-Car shop = автосервис 
+Car shop = автосервис
