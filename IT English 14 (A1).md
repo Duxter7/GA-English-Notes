@@ -323,3 +323,5 @@ Earbuds
 AirPods
 
 Pills = таблетки
+
+Something else = что-то
