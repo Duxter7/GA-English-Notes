@@ -203,4 +203,7 @@ Hang out = тусить; проводить время с друзьями
 
 I am playing right now
 
-Play - play
+Play - playing (играние)
+Eat - eating (поедание)
+
+I can 
