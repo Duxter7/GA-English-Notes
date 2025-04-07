@@ -155,6 +155,6 @@ Can you do this?
 ## 07-04-2025
 
 You **should** stop smoking (recommendation)
-I **have to** do it else I will be fired 
-I m do it else I will be fired 
+I **have to** do it else I will be fired = I **must** do it else I will be fired 
+
 
