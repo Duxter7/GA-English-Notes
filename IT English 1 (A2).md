@@ -214,3 +214,5 @@ Mother-in-law
 
 Nephew = внук
 Niece = племянница
+
+Sibling = брат или сестра
