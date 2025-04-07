@@ -191,3 +191,9 @@ I don't talk to her
 We don't talk talk to each other
 
 Do you live together?
+
+**Singular**
+Girl - girl's
+Max = Max's
+Kid = ki
+Cat
