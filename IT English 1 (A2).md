@@ -193,3 +193,5 @@ Distract
 
 ## 07-04-2025
 
+Try = пытаться; пробовать
+	I tried it, but I didn't like it
