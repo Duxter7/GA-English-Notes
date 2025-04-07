@@ -173,3 +173,9 @@ My dream job is to ...
 ## 07-04-2025
 
 Cousin = двоюродный брат или сестра
+Uncle = дядя
+Aunt = тетя
+Nephew = племянник
+Niece = племянница
+
+Ste
