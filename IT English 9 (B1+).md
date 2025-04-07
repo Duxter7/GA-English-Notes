@@ -206,3 +206,8 @@ Monitor
 Computer = PC
 
 **Case** = корпус
+
+## 07-04-2025
+
+Should = следует
+Have to (gotta) = must = должен
