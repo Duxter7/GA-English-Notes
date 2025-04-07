@@ -163,3 +163,5 @@ I've **gotta** do it = I **gotta** do it = I have to do it
 
 Distract = отвлекать
 Disturb = беспокоить
+
+Malware = вирус
