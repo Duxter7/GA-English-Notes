@@ -319,3 +319,5 @@ Password
 
 Headphones
 Earphones
+Earbuds
+AirPods
