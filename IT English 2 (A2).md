@@ -189,3 +189,5 @@ Sibling = a brother or sister
 
 I don't talk to her
 We don't talk talk to each other
+
+Do you live together?
