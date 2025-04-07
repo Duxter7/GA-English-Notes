@@ -332,3 +332,7 @@ Wear = носить
 	I rarely wear a backpack
 
 Usually I don't wear a bag 
+
+Karina 
+Katerina
+A
