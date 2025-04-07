@@ -325,3 +325,8 @@ AirPods
 Pills = таблетки
 
 Something else = что-то
+
+**Rarely** / seldom
+
+Wear = носить
+	I rarely wear a back
