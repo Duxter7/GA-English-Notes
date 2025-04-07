@@ -178,4 +178,10 @@ Aunt = тетя
 Nephew = племянник
 Niece = племянница
 
-Ste
+Stepmother
+Stepbrother
+Stepfather
+
+Mother-in-law = теща
+
+Sibling = a brother or sister
