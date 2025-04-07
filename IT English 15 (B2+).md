@@ -122,3 +122,5 @@ Broth = бульон
 
 Fries (US) = Chips (UK) = картошка фри
 Chips (US) = Crisps (UK) = чипсы
+
+Integral part = неотъемлемая часть
