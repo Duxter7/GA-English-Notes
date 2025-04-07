@@ -195,4 +195,6 @@ On Saturday
 
 Car shop = автосервис
 
-Mexican cuisine = ме
+Mexican cuisine
+
+Cousin = двоюродный брат или сестра
