@@ -205,3 +205,8 @@ Cat = cats'
 
 Boss - boss's 
 Children - children's 
+
+I have two cats
+
+These are my cats' toys
+This is my son's iPhone
