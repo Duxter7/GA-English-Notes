@@ -201,10 +201,10 @@ Own = собственный
 
 Son
 Daughter
-Uncle
-Aunt
+Uncle = дядя
+Aunt = тетя
 Grandparents
-Cousin
+Cousin = двоюродный брат или сестра
 Husband
 Wife
 Stepmother
