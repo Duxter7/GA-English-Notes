@@ -209,3 +209,8 @@ Husband
 Wife
 Stepmother
 Stepfather
+
+Mother-in-law
+
+Nephew = внук
+Niece = племянница
