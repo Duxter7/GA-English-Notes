@@ -108,3 +108,7 @@ ROM = ПЗУ
 
 HDD
 SSD
+
+## 07-04-2025
+
+Computers parts /
