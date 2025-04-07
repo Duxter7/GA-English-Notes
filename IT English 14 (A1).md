@@ -329,4 +329,6 @@ Something else = что-то
 **Rarely** / seldom
 
 Wear = носить
-	I rarely wear a back
+	I rarely wear a backpack
+
+I
