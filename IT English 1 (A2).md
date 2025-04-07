@@ -199,4 +199,13 @@ Try = пытаться; пробовать
 Own = собственный
 	My own car
 
-RTX 
+Son
+Daughter
+Uncle
+Aunt
+Grandparents
+Cousin
+Husband
+Wife
+Stepmother
+Stepfather
