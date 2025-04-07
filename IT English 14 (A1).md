@@ -321,3 +321,5 @@ Headphones
 Earphones
 Earbuds
 AirPods
+
+Pills = таблетки
