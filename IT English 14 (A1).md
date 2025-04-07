@@ -316,3 +316,6 @@ Charge = заряд
 	Charger = зарядка
 
 Password 
+
+Headphones
+Earphones
