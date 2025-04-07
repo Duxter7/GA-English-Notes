@@ -194,3 +194,5 @@ New heights = новые вершины
 On Saturday
 
 Car shop = автосервис
+
+Mexican cuisine = ме
