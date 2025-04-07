@@ -111,4 +111,7 @@ SSD
 
 ## 07-04-2025
 
-Computers parts /
+Computers parts / PC componentes
+Hardware
+
+Peripherals
