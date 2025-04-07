@@ -195,3 +195,6 @@ Distract
 
 Try = пытаться; пробовать
 	I tried it, but I didn't like it
+
+Own = собственный
+	My own car
