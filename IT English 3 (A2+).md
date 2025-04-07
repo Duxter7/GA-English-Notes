@@ -202,3 +202,5 @@ Cousin = двоюродный брат или сестра
 Hang out = тусить; проводить время с друзьями
 
 I am playing right now
+
+Play - play
