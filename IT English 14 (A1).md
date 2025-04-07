@@ -314,3 +314,5 @@ Wallet = кошелек
 
 Charge = заряд
 	Charger = зарядка
+
+Password 
