@@ -67,3 +67,6 @@ Filling
 Rye bread
 
 Integral part = неотъемлемая часть
+
+Crepes 
+Pancakes
