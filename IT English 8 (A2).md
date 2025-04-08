@@ -201,3 +201,5 @@ Stepfather
 Stepbrother
 Stepsister
 Mother-in-law
+
+AC (air conditioner) = кондиционер
