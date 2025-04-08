@@ -72,3 +72,6 @@ Crepes
 Pancakes
 
 Goes for this
+
+Fries = Chips
+Chips = Crisps
