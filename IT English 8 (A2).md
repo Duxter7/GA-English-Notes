@@ -206,4 +206,5 @@ AC (air conditioner) = кондиционер
 
 Girl's book
 Boss's car
-Employee's workpla
+Employee's workplace
+
