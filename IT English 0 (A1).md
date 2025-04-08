@@ -331,3 +331,5 @@ My boss doesn't speak Spanish, but I speak Spanish because I study it
 Do you know many languages?
 Do**es** he use *a* laptop at work?
 
+Responsible = ответственный
+Responsibility = ответственность 
