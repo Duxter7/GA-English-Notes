@@ -254,9 +254,7 @@ Malware
 Spyware
 Ransomware
 
-Trojan 
-Virus
-Encrypting virus
+Data transfer
 
 
 
