@@ -325,3 +325,5 @@ I work
 He work**s**
 
 I don't study Chinese
+I don't work at Letual because I work at Gold Apple
+My best friend 
