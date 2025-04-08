@@ -147,3 +147,5 @@ Virus
 Trojan
 
 Malware 
+
+Plantago = подорожник
