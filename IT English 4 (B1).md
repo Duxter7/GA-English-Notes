@@ -139,4 +139,6 @@ You **can** talk to him
 
 ---
 
-Can't; 
+**Can't**; **mustn't**
+
+**Don't have to** = не обязан
