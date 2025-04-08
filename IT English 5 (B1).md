@@ -236,4 +236,7 @@ Pipes
 
 Policy
 
-Have to = must = долэе
+---
+
+Have to (gotta) = must = должен
+
