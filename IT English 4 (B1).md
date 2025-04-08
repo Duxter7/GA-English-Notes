@@ -130,5 +130,9 @@ Stuff
 
 ## 08-04-2025
 
-You have to work = You gotta work = You've gotta work You must work
+You have to work = You gotta work = You've gotta work = You must work
+
+You should stop smoking
+You should stop to smoke
+
 
