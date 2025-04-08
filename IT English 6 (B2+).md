@@ -55,3 +55,4 @@ Peripherals = периферия
 
 Fan
 Fun
+
