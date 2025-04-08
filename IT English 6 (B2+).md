@@ -56,3 +56,4 @@ Peripherals = периферия
 Fan
 Fun
 
+Reminisce 
