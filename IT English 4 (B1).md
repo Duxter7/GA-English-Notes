@@ -149,3 +149,6 @@ Trojan
 Malware 
 
 Plantago = подорожник
+
+
+Mortgage = ипотека
