@@ -333,3 +333,6 @@ Do**es** he use *a* laptop at work?
 
 Responsible = ответственный
 Responsibility = ответственность 
+
+Solve = решать (проблему)
+	Solution = решение
