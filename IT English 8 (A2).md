@@ -208,5 +208,9 @@ Girl's book
 Boss's car
 Employee's workplace
 
-Parents' friends
-Parent's friends
+**Parents**' friends
+**Parent**'s friends
+
+Parents'
+Girls' 
+
