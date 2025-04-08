@@ -52,7 +52,6 @@ Peripherals = периферия
 
 ## 08-04-2025
 
-
 Fan
 Fun
 
@@ -64,3 +63,4 @@ FYI = for your information
 
 Stuffing
 Filling 
+
