@@ -188,4 +188,9 @@ Husband
 Uncle
 Wife
 Aunt 
-Cousin = двоюрдоный брат или сестра
+Cousin = двоюродный брат или сестра
+Nephew = племянник
+Niece = племянница
+2nd cousin = троюродный брат или сестра
+
+Sib
