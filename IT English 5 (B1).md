@@ -247,3 +247,23 @@ Have to (gotta) = must = должен
 Can't; mustn't = не можешь (запрещено)
 
 **Don't have to** = не обязан
+
+---
+
+Malware
+Spyware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
