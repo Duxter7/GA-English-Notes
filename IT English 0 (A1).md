@@ -341,3 +341,6 @@ Know
 
 I know Dima
 He know**s** Dima
+
+Know = знать
+Want = хотеть
