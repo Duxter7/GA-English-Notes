@@ -304,6 +304,9 @@ Tired = уставший
 Bored = заскучавший
 Sleepy = сонный
 Hungry
-
+Angry
+Funny
+Happy
+Elderly 
 
 I have *enough* energy
