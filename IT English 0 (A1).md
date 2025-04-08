@@ -310,3 +310,7 @@ Happy
 Elderly 
 
 I have *enough* energy
+
+Headache = головная боль
+	I have a headache
+Migraine = мигрень 
