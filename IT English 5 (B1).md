@@ -256,6 +256,12 @@ Ransomware
 
 Data transfer
 
+Buddy
+Pal
+Mate 
+Friend
+Bro
+Comrade
 
 
 
