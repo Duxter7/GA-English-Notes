@@ -315,3 +315,4 @@ Headache = головная боль
 	I have a headache
 Migraine = мигрень 
 
+Do you work
