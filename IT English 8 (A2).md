@@ -193,4 +193,4 @@ Nephew = племянник
 Niece = племянница
 2nd cousin = троюродный брат или сестра
 
-Sib
+Sibling = a brother or sister
