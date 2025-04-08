@@ -142,3 +142,8 @@ You **can** talk to him
 **Can't**; **mustn't**
 
 **Don't have to** = не обязан
+
+Virus
+Trojan
+
+Malware
