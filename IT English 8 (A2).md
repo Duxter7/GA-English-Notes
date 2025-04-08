@@ -192,7 +192,11 @@ Cousin = двоюродный брат или сестра
 Nephew = племянник
 Niece = племянница
 2nd cousin = троюродный брат или сестра
-
 Sibling = a brother or sister
 Relatives = родственники
-
+Grandson
+Granddaughter
+Stepmother
+Stepfather
+Stepbrother
+Stepsister
