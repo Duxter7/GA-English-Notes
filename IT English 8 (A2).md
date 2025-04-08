@@ -170,3 +170,8 @@ I **decided** not to go home today
 
 E-commerce
 Ecommerce
+
+## 08-04-2025
+
+Ask for = просить что-то
+	
