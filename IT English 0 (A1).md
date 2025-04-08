@@ -326,4 +326,5 @@ He work**s**
 
 I don't study Chinese
 I don't work at Letual because I work at Gold Apple
-My best friend 
+My best friend do**es**n't eat fish because he like**s** meat
+My boss doesn't speak Spanish, but I speak Spanish beca
