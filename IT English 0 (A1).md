@@ -344,3 +344,7 @@ He know**s** Dima
 
 Know = знать
 Want = хотеть
+
+Does he
+Does she
+Does it
