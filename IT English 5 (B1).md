@@ -240,3 +240,10 @@ Policy
 
 Have to (gotta) = must = должен
 
+Should = следует
+
+Can = можешь
+
+---
+
+Сф
