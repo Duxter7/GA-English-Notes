@@ -252,6 +252,11 @@ Can't; mustn't = не можешь (запрещено)
 
 Malware
 Spyware
+Ransomware
+
+Trojan 
+Virus
+Encrypting virus
 
 
 
