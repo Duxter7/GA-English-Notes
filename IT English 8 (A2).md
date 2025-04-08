@@ -222,3 +222,7 @@ The laptop of my boss
 Nick's dog
 
 Boys
+
+Where's a WC
+Where's a bathroom
+Where's a restroom
