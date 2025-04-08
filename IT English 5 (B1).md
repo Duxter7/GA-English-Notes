@@ -240,12 +240,10 @@ Policy
 
 Have to (gotta) = must = должен
 
-Should = следует
-
-Can = можешь
+**Can** = можешь
 
 ---
 
 Can't; mustn't = не можешь (запрещено)
 
-Don't have to = не обязан
+**Don't have to** = не обязан
