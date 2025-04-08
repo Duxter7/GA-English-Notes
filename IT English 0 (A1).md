@@ -339,3 +339,5 @@ Solve = решать (проблему)
 
 Know
 
+I know Dima
+He know**s** Dima
