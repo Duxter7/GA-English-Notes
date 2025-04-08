@@ -56,4 +56,8 @@ Peripherals = периферия
 Fan
 Fun
 
-Reminisce 
+Reminisce
+
+Carbs = carbohydrates
+
+FYI = for your interest
