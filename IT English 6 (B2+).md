@@ -65,3 +65,5 @@ Stuffing
 Filling 
 
 Rye bread
+
+Integral part = неотъемлемая часть
