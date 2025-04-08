@@ -70,3 +70,5 @@ Integral part = неотъемлемая часть
 
 Crepes 
 Pancakes
+
+Goes for this
