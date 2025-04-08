@@ -177,3 +177,15 @@ Ask for = просить что-то
 
 Children
 Mother
+Father
+Grandmother
+Grandfather
+Parents
+Grandparents
+Daughter
+Son
+Husband
+Uncle
+Wife
+Aunt 
+Cousin = двоюрдоный брат или сестра
