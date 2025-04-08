@@ -297,3 +297,13 @@ I don't work at Gold Apple
 
 I **sleep** every day
 He doesn't work at Gold Apple
+
+## 08-04-2025
+
+Tired = уставший
+Bored = заскучавший
+Sleepy = сонный
+Hungry
+
+
+I have *enough* energy
