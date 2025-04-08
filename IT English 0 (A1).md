@@ -315,4 +315,11 @@ Headache = головная боль
 	I have a headache
 Migraine = мигрень 
 
-Do you work
+Do you work?
+Do**es** he work?
+
+I don't work
+He do**es**n't work
+
+I work
+He work**s**
