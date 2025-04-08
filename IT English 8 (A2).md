@@ -174,3 +174,6 @@ Ecommerce
 ## 08-04-2025
 
 Ask for = просить что-то
+
+Children
+Mother
