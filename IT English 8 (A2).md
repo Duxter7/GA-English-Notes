@@ -194,3 +194,5 @@ Niece = племянница
 2nd cousin = троюродный брат или сестра
 
 Sibling = a brother or sister
+Relatives = родственники
+
