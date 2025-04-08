@@ -336,3 +336,6 @@ Responsibility = ответственность
 
 Solve = решать (проблему)
 	Solution = решение
+
+Know
+
