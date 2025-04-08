@@ -265,7 +265,8 @@ Comrade
 
 Signed 
 
-R
+RAM
+ROM
 
 
 
