@@ -229,4 +229,8 @@ The end of the movie
 Youngest brother's toy
 Boss's laptop - Bosses' laptops
 Children's room
-M 
+My colleague's task
+
+Employee = сотрудник
+Employer = работодатель
+Employ 
