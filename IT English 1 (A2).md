@@ -234,7 +234,7 @@ My colleague's task
 Employee = сотрудник
 Employer = работодатель
 
-The car of Niko = никовская машина
+~~The car of Niko~~ = никовская машина
 
 **'** vs **'s**
 
@@ -246,6 +246,3 @@ Girls'
 Boys'
 Employees' 
 
-Its good
-
-Its architecture is good
