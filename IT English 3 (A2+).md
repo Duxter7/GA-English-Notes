@@ -45,3 +45,9 @@ I like to do = I like doing
 Vice versa = наоборот
 
 Would you mind opening the 
+
+I can do
+I will do
+I could do
+I should do
+
