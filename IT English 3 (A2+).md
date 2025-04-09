@@ -26,3 +26,7 @@ I'm going to go to the office = I'm going to the office
 
 ### Ing verbs and Infinitives
 
+I want to eat
+He needs to go
+I decided to work harder
+
