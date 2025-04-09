@@ -158,3 +158,6 @@ bathhouse
 AC ; DC
 
 CIO 
+
+To be in charge of = быть во главе чего-то
+To be resonible for 
