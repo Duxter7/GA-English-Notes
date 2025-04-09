@@ -225,5 +225,5 @@ The end of the movie
 A page of the book
 
 **Children**'s room
-Men's bathroom
-People's 
+**Men**'s bathroom
+**People**'s 
