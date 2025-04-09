@@ -91,3 +91,7 @@ Do you want to come?
 What are your future plans?
 
 Your mic is off
+
+## 09-04-2025
+
+Furniture = мебель
