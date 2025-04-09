@@ -178,7 +178,12 @@ Have to (neutral) = must (formal) = gotta (slang) должен / обязан
 Can = можешь
 	You can do it if you want
 
+Should = следует 
+
+Need = нужно
+
 ---
 
 **Can't**; **mustn't** 
+
 
