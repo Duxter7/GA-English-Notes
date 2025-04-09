@@ -120,7 +120,7 @@ Data
 
 **Have to** (informal) = **must** (formal) = gotta (slang)
 
-**can** = можешь
+**Сan** = можешь
 
 Should = следует
 
@@ -129,3 +129,12 @@ Need to = нужно
 --- 
 
 **Can't** = **mustn't** = запрет
+
+**Don't have to** = не обязан
+
+Shouldn't = не следует
+
+Don't need to = не нужно
+
+---
+
