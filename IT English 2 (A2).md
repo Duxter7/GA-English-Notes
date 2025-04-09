@@ -227,3 +227,7 @@ A page of the book
 **Children**'s room
 **Men**'s bathroom
 **People**'s 
+
+Pippa's dog
+
+'s = is / possessive
