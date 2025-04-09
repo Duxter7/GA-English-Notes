@@ -262,4 +262,9 @@ Nikolay's
 
 Sister's husband's job
 
-Students' 
+Students'
+
+Elf - elves
+
+Knife - knives
+
