@@ -23,3 +23,6 @@ Going to go = going
 I'm watching a new movie in the evening
 
 I'm going to go to the office = I'm going to the office
+
+### Ing verbs and Infinitives
+
