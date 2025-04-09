@@ -233,3 +233,7 @@ My colleague's task
 
 Employee = сотрудник
 Employer = работодатель
+
+The car of Niko = никовская машина
+
+' vs 's
