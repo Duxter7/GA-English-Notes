@@ -54,7 +54,8 @@ I would do
 
 I would like to do
 I would love to see
-
+I would hate to do
+**Would you mind doing this?** 
 
 I want to do
 I need to do
