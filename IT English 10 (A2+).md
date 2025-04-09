@@ -173,3 +173,6 @@ Have to (neutral) = must (formal) = gotta (slang) должен / обязан
 	I must do it
 	I gotta do it
 	I've gotta do it
+
+Can = можешь
+	
