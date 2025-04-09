@@ -250,3 +250,6 @@ Pippa's dog
 
 Man - 1
 Men - 2 or more
+
+Restroom = туалет 
+Bathroom = ванная
