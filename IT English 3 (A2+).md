@@ -30,3 +30,6 @@ I want to eat
 He needs to go
 I decided to work harder
 
+*Modal verbs*
+I can do it
+I will meet him
