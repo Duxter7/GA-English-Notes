@@ -184,6 +184,17 @@ Need = нужно
 
 ---
 
-**Can't**; **mustn't** 
+**Can't**; **mustn't** = запрет
+
+Don't have to = не обязан
+
+Shouldn't = не следует
+
+Don't need to = не нужно
+
+---
+
+I can work if I want to
+I don't have to work if I don't want to
 
 
