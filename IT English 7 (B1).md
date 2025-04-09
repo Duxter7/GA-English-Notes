@@ -151,3 +151,8 @@ Don't have to = не обязан
 	He doesn't have to sit at a desk because he's an Arab
 	My boss doesn't have to get up at 5 AM
 	I like colleagues very much, bu they don't have to know about this
+
+---
+
+You can talk to him if you want to 
+You
