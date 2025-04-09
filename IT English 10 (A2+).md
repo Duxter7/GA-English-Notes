@@ -212,3 +212,4 @@ Hacker
 Because it **distracts** you from your work
 
 Requirement = требование 
+System requirements 
