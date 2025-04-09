@@ -106,3 +106,6 @@ Secure network
 	Strong password 
 
 I can't stand changing passwords every month
+
+**To be in charge of** = быть во главе
+	I'm in charg
