@@ -135,11 +135,16 @@ Have to (informal) = must (formal) = gotta (slang) = обязанность
 	I gotta do this
 	I must do this
 
-Shoulda = should have = совет
+Shoulda = should have = стоит
 
 Can = можешь
 	You can sit here if you want to
 
 ---
 
-Can't; mustn't
+**Can't**; **mustn't** = запрет
+
+Shouldn't = не стоит
+
+Don't have to = не обязан
+	
