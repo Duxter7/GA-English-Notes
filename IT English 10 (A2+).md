@@ -168,4 +168,8 @@ And it must
 
 ---
 
-Have to (neutral) = must (formal) = должен / обязан
+Have to (neutral) = must (formal) = gotta (slang) должен / обязан
+	I have to do it
+	I must do it
+	I gotta do it
+	I've gotta do it
