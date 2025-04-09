@@ -118,3 +118,7 @@ Memo = служебная записка
 Chief Information Officer = CIO
 Chief Executive Officer = CEO
 Chief Technology Officer = CTO
+
+## 09-04-2025
+
+CEO
