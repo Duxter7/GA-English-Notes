@@ -129,5 +129,10 @@ typhon
 
 ---
 
-Have to (informal) = must (formal) = gotta (slang)
-	I've got
+Have to (informal) = must (formal) = gotta (slang) = обязанность
+	I've gotta do this
+	I have to do this
+	I gotta do this
+	I must do this
+
+Shoulda = should have = совет
