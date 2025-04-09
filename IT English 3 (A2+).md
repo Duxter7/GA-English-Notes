@@ -50,4 +50,13 @@ I can do
 I will do
 I could do
 I should do
+I would do 
 
+I would like to do
+I would love to see
+
+
+I want to do
+I need to do
+I decide to do
+I hope to do
