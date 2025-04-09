@@ -236,4 +236,11 @@ Employer = работодатель
 
 The car of Niko = никовская машина
 
-' vs 's
+**'** vs **'s**
+
+Children's
+Men's
+People's
+
+Girls'
+Boys'
