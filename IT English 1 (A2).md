@@ -233,4 +233,3 @@ My colleague's task
 
 Employee = сотрудник
 Employer = работодатель
-Employ 
