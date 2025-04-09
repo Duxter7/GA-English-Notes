@@ -108,4 +108,8 @@ Secure network
 I can't stand changing passwords every month
 
 **To be in charge of** = быть во главе
-	I'm in charg
+	I'm in charge of this department
+
+CIO = chief information officer
+CEO = chief executive officer
+CTO = chief technology officer
