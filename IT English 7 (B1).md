@@ -156,3 +156,7 @@ Don't have to = не обязан
 
 You **can** talk to him if you **want** to 
 You **don't have to** talk to him if you **don't want** to
+
+Malware
+Spyware
+Ransomware
