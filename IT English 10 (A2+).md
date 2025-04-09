@@ -161,3 +161,7 @@ CIO
 
 To be in charge of = быть во главе чего-то
 To be responsible for = быть ответственным за что-то
+
+assdsad123!1./,,
+
+And it must include special characters - !@
