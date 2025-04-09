@@ -116,4 +116,8 @@ CTO = chief technology officer
 
 Data 
 
-Have to = must 
+---
+
+Have to (informal) = must (formal) = gotta (slang)
+
+can = можешь
