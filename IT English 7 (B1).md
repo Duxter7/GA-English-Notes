@@ -126,3 +126,8 @@ CEO
 Me neither
 
 typhon 
+
+---
+
+Have to (informal) = must (formal) = gotta (slang)
+	I've got
