@@ -24,11 +24,14 @@ I'm watching a new movie in the evening
 
 I'm going to go to the office = I'm going to the office
 
+
 ### Ing verbs and Infinitives
 
 I want to eat
 He needs to go
 I decided to work harder
+I have to do it = I have got to do it
+
 
 *Modal verbs*
 I can do it
