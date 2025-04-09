@@ -104,3 +104,5 @@ At the desk
 Secure network 
 	Weak password
 	Strong password 
+
+I can't stand changing passwords every month
