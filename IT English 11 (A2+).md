@@ -100,3 +100,7 @@ Spill = пролить
 
 At the desk 
 	I am at my workplace
+
+Secure network 
+	Weak password
+	Strong password 
