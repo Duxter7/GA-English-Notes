@@ -149,4 +149,5 @@ Shouldn't = не стоит
 Don't have to = не обязан
 	You don't have to talk with Indians if you don't want to
 	He doesn't have to sit at a desk because he's an Arab
-	My boss doesn't have to get up at 5 
+	My boss doesn't have to get up at 5 AM
+	I like colleagues very much, bu they don't have to know about this
