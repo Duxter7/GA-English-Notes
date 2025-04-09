@@ -16,4 +16,8 @@ Cheap - chip
 Feel - fill
 
 Going to go = going
-	I'm going 
+	I'm going to swim tomorrow
+	He's going to eat after the meeting
+	I'm going to the store
+
+I'm watching a new movie in the evening
