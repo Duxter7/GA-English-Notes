@@ -194,7 +194,7 @@ Don't need to = не нужно
 
 ---
 
-I can work if I want to
-I don't have to work if I don't want to
+I **can** work if I **want** to
+I **don't have to** work if I **don't want** to
 
 
