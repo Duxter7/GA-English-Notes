@@ -142,3 +142,7 @@ I **can** work from every day if I want to
 I **don't have to** work in the office if I don't want to
 
 You can't download files 
+
+Can't 
+
+Don't have to
