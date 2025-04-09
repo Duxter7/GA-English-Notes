@@ -138,4 +138,8 @@ Have to (informal) = must (formal) = gotta (slang) = обязанность
 Shoulda = should have = совет
 
 Can = можешь
-	
+	You can sit here if you want to
+
+---
+
+Can't; mustn't
