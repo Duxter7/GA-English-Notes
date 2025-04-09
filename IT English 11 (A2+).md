@@ -115,3 +115,5 @@ CEO = chief executive officer
 CTO = chief technology officer
 
 Data 
+
+Have to = must 
