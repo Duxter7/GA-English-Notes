@@ -43,3 +43,5 @@ I enjoy wanting you
 I like to do = I like doing
 
 Vice versa = наоборот
+
+Would you mind opening the 
