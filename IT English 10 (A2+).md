@@ -160,4 +160,4 @@ AC ; DC
 CIO 
 
 To be in charge of = быть во главе чего-то
-To be resonible for 
+To be responsible for = быть ответственным за что-то
