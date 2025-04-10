@@ -386,4 +386,4 @@ My boss has **an** *expensive car*
 My friends have a new iPhone
 His colleague has many problems
 (Today) I don't have many tasks (today)
-He don't 
+He doesn't have a lot of money
