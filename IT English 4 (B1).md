@@ -178,3 +178,4 @@ Brackets (UK) = Parenthesis (US) = **()**
 I have a quite good lifestyle
 
 The exam is a really difficult one
+The exam is really a difficult one
