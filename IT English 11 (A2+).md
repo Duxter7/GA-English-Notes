@@ -153,3 +153,5 @@ Frail
 
 Fabric = ткань
 Factory = завод
+
+Walk around the city
