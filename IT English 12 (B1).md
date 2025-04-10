@@ -200,3 +200,6 @@ Curly brackets = {}
 
 Comfortable (камфтбл)
 Vegetable (веджтбл)
+
+I'm bored = мне скучно
+I'm boring = я душный
