@@ -167,3 +167,8 @@ Disturb = беспокоить
 Malware = вирус
 
 Groceries = продукты питания
+
+## 10-04-2025
+
+Debts = долги
+	Your debt has been paid off 
