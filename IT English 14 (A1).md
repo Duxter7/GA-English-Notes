@@ -360,4 +360,7 @@ I **will** go and watch a play
 
 I bought a property / land
 
+I am a teacher
+I am an teacher
 
+Hour
