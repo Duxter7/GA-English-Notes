@@ -272,7 +272,7 @@ ROM
 
 6 by 6 = 36 square meters
 
-
+He doesn't have to work every day
 
 
 
