@@ -154,3 +154,9 @@ Plantago = подорожник
 Mortgage = ипотека
 
 I have a lot of things to do
+
+
+## 10-04-2025
+
+You should work harder
+You don't have t
