@@ -171,4 +171,4 @@ Fairly
 
 No can do = не могу сделать
 
-Well, probably no
+Well... probably no
