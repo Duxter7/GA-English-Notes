@@ -388,4 +388,5 @@ His colleague has many problems
 (Today) I don't have many tasks (today)
 He doesn't have a lot of money
 **Does** he have a MacBook?
-Does she have an Android or an iPhone?
+**Does** she have an Android or an iPhone?
+My best friend 
