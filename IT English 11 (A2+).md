@@ -170,3 +170,5 @@ Don't Mind
 Enjoy
 
 Truck (US) = Lorry (UK)
+
+Answer (энсер)
