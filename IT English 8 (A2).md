@@ -281,3 +281,7 @@ John Doe
 Ее мама это сестра моей мамы
 
 Her mother is my mother's sister
+
+Apartment block
+
+My sister's apartment block is near mine
