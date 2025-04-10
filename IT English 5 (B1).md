@@ -270,7 +270,7 @@ ROM
 
 ## 10-04-2025
 
-
+6 by 6 = 36 square meters
 
 
 
