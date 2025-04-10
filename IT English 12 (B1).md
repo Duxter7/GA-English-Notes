@@ -183,3 +183,9 @@ Pretty
 
 Quiet = тихий
 Quit = бросить; выйти
+
+A lot more
+A lot less
+
+A bit more
+A
