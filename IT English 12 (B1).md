@@ -175,3 +175,10 @@ Debts = долги
 
 Want
 Won't
+
+Quite
+Fairly
+Relatively
+Pretty
+
+Quiet
