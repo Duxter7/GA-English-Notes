@@ -273,8 +273,8 @@ ROM
 6 by 6 = 36 square meters
 
 He doesn't have to work every day
-
-
+Our new employee can't work here
+You need to finish the report by the evening
 
 
 
