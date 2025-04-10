@@ -176,9 +176,10 @@ Debts = долги
 Want
 Won't
 
-Quite
+Quite = довольно
 Fairly
 Relatively
 Pretty
 
-Quiet
+Quiet = тихий
+Quit = бросить; выйти
