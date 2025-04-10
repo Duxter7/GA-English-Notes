@@ -363,4 +363,4 @@ I bought a property / land
 I am a teacher
 I am an teacher
 
-I have **a** car, I *also* (также) have **a** daughter
+I have **a** car, I *also* (также) have **a** daughter. I eat **an** apple every day
