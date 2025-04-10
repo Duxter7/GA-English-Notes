@@ -384,4 +384,5 @@ Open **the** window
 
 My boss has **an** *expensive car*
 My friends have a new iPhone
-His colleague has 
+His colleague has many problems
+I don't have 
