@@ -385,4 +385,5 @@ Open **the** window
 My boss has **an** *expensive car*
 My friends have a new iPhone
 His colleague has many problems
-I don't have 
+(Today) I don't have many tasks (today)
+He don't 
