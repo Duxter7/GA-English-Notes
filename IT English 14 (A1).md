@@ -391,3 +391,4 @@ He doesn't have a lot of money
 **Does** she have an Android or an iPhone?
 My best friend doesn't have **a** good microphone for recording tracks.
 
+My employees don't have a big sall
