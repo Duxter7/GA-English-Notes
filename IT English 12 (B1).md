@@ -192,4 +192,8 @@ A bit less
 
 It's quite an expensive car
 
-Be reasonable = быть разумным 
+Be reasonable = быть разумным
+
+Parenthesis (US) = Brackets (UK) = ()
+Brackets (US) = Square Brackets (UK) = []
+Curly b
