@@ -168,3 +168,7 @@ Quite
 Pretty
 Relatively 
 Fairly
+
+No can do = не могу сделать
+
+Well, probably no
