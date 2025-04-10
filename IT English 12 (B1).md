@@ -203,3 +203,5 @@ Vegetable (веджтбл)
 
 I'm bored = мне скучно
 I'm boring = я скучный
+
+This is quite a useful app
