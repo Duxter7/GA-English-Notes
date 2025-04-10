@@ -363,4 +363,4 @@ I bought a property / land
 I am a teacher
 I am an teacher
 
-Hour
+I have **a** car, I *also* (также) have **a** daughter
