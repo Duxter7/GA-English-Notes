@@ -172,3 +172,6 @@ Groceries = продукты питания
 
 Debts = долги
 	Your debt has been paid off 
+
+Want
+Won't
