@@ -378,4 +378,4 @@ Watch = часы наручные
 **The**
 *Конкретное*
 
-The lesson start**s**
+The lesson start**s** *in* (через) 5 minutes
