@@ -159,4 +159,6 @@ I have a lot of things to do
 ## 10-04-2025
 
 You should work harder
-You don't have t
+You don't have to talk to Indians
+You can sit here
+You have to sit here = You must sit here
