@@ -191,3 +191,5 @@ A bit more
 A bit less
 
 It's quite an expensive car
+
+Be reasonable = быть разумным 
