@@ -401,3 +401,6 @@ addresses
 Cit**y** -> cit**ies**
 
 A bottle of water
+Notebook
+Laptop
+Umbrella
