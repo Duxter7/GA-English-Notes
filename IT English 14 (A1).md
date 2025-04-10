@@ -352,3 +352,8 @@ Notepad
 ## 10-04-2025
 
 Long time no see = давно не виделись
+
+Play
+Performance 
+
+I **will** go and watch a play 
