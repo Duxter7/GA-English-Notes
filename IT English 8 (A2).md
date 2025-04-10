@@ -241,3 +241,5 @@ Masseur
 	Children's room
 
 The keyboard of the laptop 
+
+Colour (UK) = Color (US)
