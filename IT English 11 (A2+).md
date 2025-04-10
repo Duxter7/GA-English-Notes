@@ -165,3 +165,6 @@ I **would** like **to** do
 I would love to do
 I would hate to do
 I wouldn't mind doing
+
+Don't Mind
+Enjoy
