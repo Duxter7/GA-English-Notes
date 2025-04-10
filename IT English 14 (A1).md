@@ -382,4 +382,5 @@ The lesson start**s** *in* (через) 5 minutes
 Close **the** door
 Open **the** window
 
-My boss 
+My boss has **an** *expensive car*
+My friends 
