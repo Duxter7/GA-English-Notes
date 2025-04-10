@@ -389,4 +389,5 @@ His colleague has many problems
 He doesn't have a lot of money
 **Does** he have a MacBook?
 **Does** she have an Android or an iPhone?
-My best friend 
+My best friend doesn't have **a** good microphone for recording tracks.
+
