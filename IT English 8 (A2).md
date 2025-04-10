@@ -277,5 +277,3 @@ Helen's husband's job is an engineer
 
 Ivan Ivanov 
 John Doe
-
-Iva
