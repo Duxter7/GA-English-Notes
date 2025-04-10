@@ -80,3 +80,4 @@ Chips = Crisps
 ## 10-04-2025
 
 Cost an arm and a leg
+Speak of the devil
