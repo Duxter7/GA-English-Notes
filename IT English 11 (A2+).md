@@ -159,3 +159,8 @@ Walk around the city
 Enjoy cooking
 Avoid doing
 Don't mind = не против
+
+I like doing 
+I **would** like **to** do
+I would love to do
+I would hate to do
