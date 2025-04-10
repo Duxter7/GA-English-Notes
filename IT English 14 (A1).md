@@ -360,10 +360,12 @@ I **will** go and watch a play
 
 I bought a property / land
 
-Articles
+### Articles
 
-I am a teacher
-I am an teacher
+**A**
+Неопред
+I am **a** teacher
+I am **an** teacher
 
 I have **a** car, I *also* (также) have **a** daughter. I eat **an** apple every day
 
@@ -371,3 +373,5 @@ I eat orange**s** every day
 
 Clock = часы любые (не наручные)
 Watch = часы наручные
+
+**The**
