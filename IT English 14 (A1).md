@@ -363,7 +363,8 @@ I bought a property / land
 ### Articles
 
 **A**
-Неопред
+*Неопределенное*
+
 I am **a** teacher
 I am **an** teacher
 
@@ -375,3 +376,6 @@ Clock = часы любые (не наручные)
 Watch = часы наручные
 
 **The**
+*Конкретное*
+
+The lesson start**s**
