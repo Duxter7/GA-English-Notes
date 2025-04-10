@@ -281,6 +281,8 @@ Don't forget to lock your PC before leaving the workplace
 
 Postpone = откладывать =Putt off the tasks
 
+Parenthesis (US) = Brackers
+
 
 
 
