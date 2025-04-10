@@ -207,3 +207,5 @@ I'm boring = я скучный
 This is quite a useful app
 
 Commute 
+
+12 AM = Midnight
