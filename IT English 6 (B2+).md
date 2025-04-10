@@ -86,3 +86,5 @@ Comparing apples and oranges
 Going to = gonna = gon' = finna
 
 Deafening 
+
+Wretched
