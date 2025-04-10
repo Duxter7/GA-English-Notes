@@ -163,3 +163,8 @@ You don't have to talk to Indians
 You can sit here
 You have to sit here = You must sit here
 You can't smoke in the office
+
+Quite
+Pretty
+Relatively 
+Fairly
