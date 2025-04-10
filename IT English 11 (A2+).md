@@ -148,3 +148,8 @@ Can't
 Don't have to
 
 Frail
+
+## 10-04-2025
+
+Fabric = ткань
+Factory = завод
