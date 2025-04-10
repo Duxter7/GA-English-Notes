@@ -88,3 +88,4 @@ Going to = gonna = gon' = finna
 Deafening 
 
 Wretched
+Hideous 
