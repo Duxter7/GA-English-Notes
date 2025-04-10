@@ -172,3 +172,5 @@ Fairly
 No can do = не могу сделать
 
 Well... probably no
+
+Brackets (UK) = Parenthesis (US) = **()**
