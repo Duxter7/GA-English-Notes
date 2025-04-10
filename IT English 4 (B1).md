@@ -174,3 +174,7 @@ No can do = не могу сделать
 Well... probably no
 
 Brackets (UK) = Parenthesis (US) = **()**
+
+I have a quite good lifestyle
+
+The exam is a really difficult one
