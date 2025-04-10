@@ -197,3 +197,6 @@ Be reasonable = быть разумным
 Parenthesis (US) = Brackets (UK) = ()
 Brackets (US) = Square Brackets (UK) = []
 Curly brackets = {}
+
+Comfortable (камфтбл)
+Vegetable (веджтбл)
