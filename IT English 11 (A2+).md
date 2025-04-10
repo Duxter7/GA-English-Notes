@@ -155,3 +155,6 @@ Fabric = ткань
 Factory = завод
 
 Walk around the city
+
+Enjoy cooking
+Avoid d
