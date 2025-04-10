@@ -392,4 +392,3 @@ He doesn't have a lot of money
 My best friend doesn't have **a** good microphone for recording tracks.
 
 My employees don't have a big **salary**
-
