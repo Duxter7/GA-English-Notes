@@ -240,4 +240,4 @@ Masseur
 	Parents' dog
 	Children's room
 
-The keyboard 
+The keyboard of the laptop 
