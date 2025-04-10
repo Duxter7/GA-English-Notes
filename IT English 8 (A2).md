@@ -286,4 +286,21 @@ Apartment block
 
 My sister's apartment block is near mine
 
-Maxim goes 
+Maxim will go to Nicka's school
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
