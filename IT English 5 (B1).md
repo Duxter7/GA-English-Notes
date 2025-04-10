@@ -277,6 +277,8 @@ Our new employee can't work here
 You need to finish the report by the evening
 You shouldn't do it 
 
+Don't forget to lock your PC before leaving the workplace
+
 
 
 
