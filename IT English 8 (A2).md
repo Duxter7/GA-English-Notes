@@ -288,6 +288,7 @@ My sister's apartment block is near mine
 
 Maxim will go to Nicka's school
 
+Maxim and Nicka's cat's name is Smoki
 
 
 
