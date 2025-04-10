@@ -278,3 +278,6 @@ Helen's husband's job is an engineer
 Ivan Ivanov 
 John Doe
 
+Ее мама это сестра моей мамы
+
+Her mother is my mother's sister
