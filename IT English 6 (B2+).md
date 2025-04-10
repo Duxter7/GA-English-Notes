@@ -82,3 +82,5 @@ Chips = Crisps
 Cost an arm and a leg
 Speak of the devil
 Comparing apples and oranges
+
+Going to = gonna = gon' = finna
