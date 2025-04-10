@@ -383,4 +383,5 @@ Close **the** door
 Open **the** window
 
 My boss has **an** *expensive car*
-My friends 
+My friends have a new iPhone
+His colleague has 
