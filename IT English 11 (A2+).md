@@ -169,3 +169,4 @@ I wouldn't mind doing
 Don't Mind
 Enjoy
 
+Truck (US) = Lorry (UK)
