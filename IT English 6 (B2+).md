@@ -90,4 +90,4 @@ Deafening
 Wretched
 Hideous 
 
-Yapping
+Yapping = talk a lot
