@@ -141,3 +141,5 @@ Whip = тачка
 Deafening
 
 Wealthy
+
+Hideous
