@@ -227,3 +227,7 @@ When pigs fly
 
 After that I went to a store
 Then I went to 
+
+Drop by
+Come by
+Stop by
