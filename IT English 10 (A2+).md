@@ -249,4 +249,4 @@ I **would hate**
 **Would** you **mind** **closing** the door? 
 
 I wouldn't mind having breakfast
-I love not doing anything in the evengi
+I love not doing anything in the evenings = I love doing nothing in the evenings
