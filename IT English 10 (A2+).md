@@ -216,3 +216,6 @@ System requirements
 
 ## 11-04-2025
 
+You can't smoke here
+You should work harder
+You must write the report 
