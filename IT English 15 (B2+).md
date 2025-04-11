@@ -131,3 +131,6 @@ Burn the bridges
 Cost an arm and a leg
 Speak of the Devil
 Comparing apples and oranges
+
+Coach = тренер
+Couch = диван
