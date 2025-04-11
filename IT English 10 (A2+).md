@@ -247,3 +247,5 @@ I **would love**
 I **would hate**
 
 **Would** you **mind** **closing** the door? 
+
+I wouldn't mind 
