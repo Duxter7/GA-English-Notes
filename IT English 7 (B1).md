@@ -167,3 +167,9 @@ Fan
 
 Passive income = пассивный доход
 It depends **on** the day of the week
+
+Quite = довольно 
+	Quite good
+Pretty = довольно
+	Pretty good
+	
