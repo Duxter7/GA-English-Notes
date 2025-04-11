@@ -368,4 +368,4 @@ He charge**s** his laptop every day
 
 Driver's license
 
-Painkiller = 
+Painkiller = обезболивающий
