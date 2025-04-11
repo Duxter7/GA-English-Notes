@@ -236,3 +236,6 @@ Eat - eating
 Work - working
 Kill - killing
 Sleep - sleeping
+
+**Enjoy** (always ing verb) = enjoy doing
+**Don't mind** (always ing verb) = don't mind doing
