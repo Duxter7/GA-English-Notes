@@ -388,7 +388,8 @@ H2O
 Неопределённый
 
 **I have** a cool laptop
-**He has** 
+**He has** a car
 
 **The**
 Определённый 
+
