@@ -190,6 +190,8 @@ Reason = причина
 	Reasonable person
 	Be reasonable
 
-Brackets 
+Brackets (UK) = Parenthesis (US) = ()
+Square Brackets (UK) = Brackets (US) = []
+Curly brackets = 
 
 Braces = брекеты
