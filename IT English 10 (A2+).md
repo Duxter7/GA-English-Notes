@@ -221,3 +221,13 @@ You should work harder
 You must (have to; gotta) write the report by Friday
 You **don't have to** work late
 You can sit here if you want to
+You mustn't run here
+
+**Can**
+**Should**
+**Must**
+**Will**
+**Shall**
+**May**
+**Might**
+**Could**
