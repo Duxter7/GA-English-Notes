@@ -224,3 +224,6 @@ Ad - advert - advertisement
 ## 11-04-2025
 
 When pigs fly 
+
+After that I went to a store
+Then I went to 
