@@ -366,4 +366,6 @@ Backpack (US) = Rucksack (UK)
 
 He charge**s** his laptop every day
 
-Driver
+Driver's license
+
+Painkiller = 
