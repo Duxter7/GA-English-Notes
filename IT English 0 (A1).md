@@ -357,7 +357,11 @@ Purse = клатч
 Wallet = кошелек
 Makeup (make-up) = косметика
 Cosmetics = шампуни, косметика и все такое
-Screwdriver
+Screwdriver = отвертка
+Thermal paste = термопаста
+
 It's too bright
 
 Backpack (US) = Rucksack (UK)
+
+He charges a 
