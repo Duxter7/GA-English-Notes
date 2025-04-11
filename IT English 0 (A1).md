@@ -369,3 +369,7 @@ He charge**s** his laptop every day
 Driver's license
 
 Painkiller = обезболивающий
+
+Charger = зарядник
+
+That's all = это все 
