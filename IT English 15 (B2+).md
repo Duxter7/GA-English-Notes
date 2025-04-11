@@ -131,6 +131,7 @@ Burn the bridges
 Cost an arm and a leg
 Speak of the Devil
 Comparing apples and oranges
+Food for thought
 
 Coach = тренер
 Couch = диван
