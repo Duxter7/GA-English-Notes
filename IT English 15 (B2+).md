@@ -126,4 +126,6 @@ Chips (US) = Crisps (UK) = чипсы
 Integral part = неотъемлемая часть
 
 ## 11-04-2025
-Br
+
+Burn the bridges
+Cost an arm and a leg
