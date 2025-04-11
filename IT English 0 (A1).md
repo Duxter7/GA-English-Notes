@@ -373,3 +373,8 @@ Painkiller = обезболивающий
 Charger = зарядник
 
 That's all = это все 
+
+Look = смотреть 
+Look for = искать
+
+Write down = записать
