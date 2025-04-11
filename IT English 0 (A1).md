@@ -354,5 +354,7 @@ Ecommerce
 ## 11-04-2025
 
 Purse = клатч 
-
+Wallet = кошелек
+Makeup (make-up)
+Cosmetics = шампуни, косме
 It's too bright
