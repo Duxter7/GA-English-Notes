@@ -188,4 +188,4 @@ It's quite interesting
 Reason = причина
 	Reasonably 
 	Reasonable person
-	B
+	Be reasonable
