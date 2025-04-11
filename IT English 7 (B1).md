@@ -162,3 +162,7 @@ Spyware
 Ransomware
 
 Fan
+
+## 11-04-2025
+
+Passive income = пассивный доход
