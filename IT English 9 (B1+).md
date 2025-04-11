@@ -234,3 +234,8 @@ Stop by
 
 Cost an arm and a leg
 Speak of the Devil
+Comparing apples and oranges
+
+
+Couch potato 
+Coach 
