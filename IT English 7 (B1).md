@@ -185,3 +185,7 @@ It's **quite an** *interesting game*
 
 It's quite interesting
 
+Reason = причина
+	Reasonably 
+	Reasonable person
+	B
