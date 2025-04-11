@@ -200,3 +200,7 @@ Comfortable (камфтбл)
 Vegetable (веджтбл)
 
 This - These
+
+Live = в прямо эфире
+
+Leave - live
