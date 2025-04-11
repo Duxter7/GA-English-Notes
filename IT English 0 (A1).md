@@ -399,3 +399,5 @@ Unlock the computer
 Close the tab = вкладка
 
 an hour
+an apple
+a car
