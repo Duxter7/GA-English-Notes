@@ -242,3 +242,6 @@ Sleep - sleeping
 **Don't mind** (always ing verb) = don't mind doing
 
 I **would like** to eat
+I **would like** ~~eating~~
+I would love
+I would hate
