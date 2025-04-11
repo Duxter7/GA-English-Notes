@@ -138,3 +138,5 @@ Couch = диван
 
 Whip = тачка
 
+Deafening
+
