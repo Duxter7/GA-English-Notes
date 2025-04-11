@@ -355,6 +355,9 @@ Ecommerce
 
 Purse = клатч 
 Wallet = кошелек
-Makeup (make-up)
-Cosmetics = шампуни, косме
+Makeup (make-up) = косметика
+Cosmetics = шампуни, косметика и все такое
+
 It's too bright
+
+Backpack (US) = Rucksack (U)
