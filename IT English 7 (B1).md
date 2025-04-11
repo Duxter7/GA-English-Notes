@@ -172,4 +172,5 @@ Quite = довольно
 	Quite good
 Pretty = довольно
 	Pretty good
-	
+Relatively = относительно
+Fairly = вполне (д)
