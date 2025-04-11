@@ -135,3 +135,5 @@ Food for thought
 
 Coach = тренер
 Couch = диван
+
+Whip = тачка
