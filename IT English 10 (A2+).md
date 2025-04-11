@@ -232,4 +232,7 @@ You mustn't run here
 **Might**
 **Could**
 
-E
+Eat - eating
+Work - working
+Kill - killing
+Sleep - sleeping
