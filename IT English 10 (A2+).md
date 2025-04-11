@@ -231,6 +231,7 @@ You mustn't run here
 **May**
 **Might**
 **Could**
+**Would**
 
 Eat - eating
 Work - working
@@ -239,3 +240,5 @@ Sleep - sleeping
 
 **Enjoy** (always ing verb) = enjoy doing
 **Don't mind** (always ing verb) = don't mind doing
+
+I **would like** to eat
