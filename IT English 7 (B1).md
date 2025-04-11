@@ -166,3 +166,4 @@ Fan
 ## 11-04-2025
 
 Passive income = пассивный доход
+It depends **on** the day of the week
