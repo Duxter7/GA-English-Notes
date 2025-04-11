@@ -357,7 +357,7 @@ Purse = клатч
 Wallet = кошелек
 Makeup (make-up) = косметика
 Cosmetics = шампуни, косметика и все такое
-
+Screwdriver
 It's too bright
 
-Backpack (US) = Rucksack (U)
+Backpack (US) = Rucksack (UK)
