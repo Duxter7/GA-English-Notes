@@ -218,4 +218,5 @@ System requirements
 
 You can't smoke here
 You should work harder
-You must write the report 
+You must (have to; gotta) write the report by Friday
+
