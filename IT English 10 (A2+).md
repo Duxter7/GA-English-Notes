@@ -243,5 +243,7 @@ Sleep - sleeping
 
 I **would like** to eat
 I **would like** ~~eating~~
-I would love
-I would hate
+I **would love**
+I **would hate**
+
+**Would** you **mind** **closing** the door? 
