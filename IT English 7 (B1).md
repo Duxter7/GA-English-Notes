@@ -195,3 +195,6 @@ Square Brackets (UK) = Brackets (US) = **[]**
 Curly brackets = **{}**
 
 Braces = брекеты
+
+Comfortable (камфтбл)
+Vegetable (веджтбл)
