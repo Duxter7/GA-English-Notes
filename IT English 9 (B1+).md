@@ -239,3 +239,5 @@ Comparing apples and oranges
 
 Couch potato 
 Coach 
+
+Whip = car
