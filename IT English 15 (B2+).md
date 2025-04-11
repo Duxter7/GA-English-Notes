@@ -140,3 +140,4 @@ Whip = тачка
 
 Deafening
 
+Wealthy
