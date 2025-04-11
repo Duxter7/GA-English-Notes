@@ -181,4 +181,7 @@ A lot less
 A bit more
 A bit less
 
-It's **quite an** interesting game
+It's **quite an** *interesting game*
+
+It's quite interesting
+
