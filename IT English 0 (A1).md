@@ -364,4 +364,4 @@ It's too bright
 
 Backpack (US) = Rucksack (UK)
 
-He charges a 
+He charge**s** his laptop every day
