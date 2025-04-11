@@ -393,4 +393,5 @@ H2O
 **The**
 Определённый 
 
-Give the marker
+Close the window
+Close the door
