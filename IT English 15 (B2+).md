@@ -129,3 +129,4 @@ Integral part = неотъемлемая часть
 
 Burn the bridges
 Cost an arm and a leg
+Speak of the Devil
