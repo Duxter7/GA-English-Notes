@@ -174,3 +174,9 @@ Pretty = довольно
 	Pretty good
 Relatively = относительно
 Fairly = вполне (довольно)
+
+A lot more
+A lot less
+
+A bit more
+A bit less
