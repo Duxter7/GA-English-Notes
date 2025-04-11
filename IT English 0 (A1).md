@@ -397,3 +397,5 @@ Close the window
 Close the door
 Unlock the computer
 Close the tab = вкладка
+
+an hour
