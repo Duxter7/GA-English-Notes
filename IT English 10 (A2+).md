@@ -219,5 +219,5 @@ System requirements
 You can't smoke here
 You should work harder
 You must (have to; gotta) write the report by Friday
-
-You don't have to work late
+You **don't have to** work late
+You can sit here if you want to
