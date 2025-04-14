@@ -253,6 +253,7 @@ A pen - pen**s**
 A tree - tree**s**
 
 **Uncountable**
-
 Salt
+Gold
+Money
 
