@@ -412,3 +412,7 @@ Thir**teen** - thirty
 **This week** I don't work (I'm not working)
 **Last weekend** I went for a walk
 I will be busy **next week**
+
+Different = разный
+	They're in a different countries
+Another = еще один
