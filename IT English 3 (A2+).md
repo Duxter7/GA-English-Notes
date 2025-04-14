@@ -77,4 +77,6 @@ Tortoise
 Turtle
 
 **Past continuous**
-<u>Subject</u> + *was* / *were* (be) + verb(ing)
+<u>Subject</u> + *was* / *were* (**be**) + verb(ing)
+<u>Subject</u> + *wasn't* / *weren't* (**be**) + verb(ing)
+
