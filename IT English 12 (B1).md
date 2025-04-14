@@ -215,3 +215,5 @@ Commute
 Russian dub
 English dub
 Subtitles 
+
+Jailbroken = взломанный
