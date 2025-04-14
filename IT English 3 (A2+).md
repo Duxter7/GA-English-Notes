@@ -75,3 +75,6 @@ I was coming home when my son called me
 
 Tortoise
 Turtle
+
+**Past continuous**
+<u>Subject</u> + was / were + verb(ing)
