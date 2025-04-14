@@ -259,3 +259,6 @@ Money
 
 Strawberry
 Melon
+Watermelon
+Pear 
+Lettuce = капуста
