@@ -320,4 +320,4 @@ Any = **-** and **?**
 	Do you have any money?
 	I don't know anything
 
-Some = **+**
+Some = **+** 
