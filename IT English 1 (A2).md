@@ -300,5 +300,7 @@ Cereal = хлопья
 Still water = вода без газа
 
 Without = без
-	
+	Can I have a pizza without nuts?
 With = с
+	Can I have this cake with strawberries
+I can't live 
