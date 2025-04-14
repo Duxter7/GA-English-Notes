@@ -149,3 +149,6 @@ Hideous
 Warm - warmer - the warmest
 Want to be caught cheating
 Give a head start 
+
+A con = жулик
+A fraud = мошенник; мошенничество
