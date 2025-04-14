@@ -316,4 +316,8 @@ Convenient = удобный
 **What** do you like?
 I know **that** you're busy
 
-Any - 
+Any = **-** and **?**
+	Do you have any money?
+	I don't know anything
+
+Some = **+**
