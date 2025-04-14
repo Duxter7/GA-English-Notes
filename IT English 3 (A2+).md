@@ -94,3 +94,13 @@ Did + <u>Subject</u> + verb(1st form)
 
 When = когда
 While = в то время как (пока)
+
+Was
+	he
+	she
+	it 
+	I 
+Were
+	they
+	we
+	you
