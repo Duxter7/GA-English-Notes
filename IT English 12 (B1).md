@@ -219,3 +219,4 @@ Subtitles
 Jailbroken = взломанный
 Pickpocket = карманник
 Thief = вор
+Driver's license 
