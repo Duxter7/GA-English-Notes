@@ -303,4 +303,5 @@ Without = без
 	Can I have a pizza without nuts?
 With = с
 	Can I have this cake with strawberries
-I can't live 
+
+I can't live without the internet
