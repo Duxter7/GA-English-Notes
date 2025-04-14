@@ -247,3 +247,12 @@ My dog's name's Yasir
 
 ## 14-04-2025
 
+**Countable**
+An apple - apple**s**
+A pen - pen**s**
+A tree - tree**s**
+
+**Uncountable**
+
+Salt
+
