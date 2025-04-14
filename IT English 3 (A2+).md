@@ -80,8 +80,12 @@ Turtle
 <u>Subject</u> + *was* / *were* (**be**) + verb(ing)
 	I was studying English
 <u>Subject</u> + *wasn't* / *weren't* (**be**) + verb(ing)
+	They weren't talking to each other
 *Was* / *were* + <u>subject</u> + verb(ing)
+	Were you cooking?
 
 **Past Simple**
 <u>Subject</u> + verb(2nd form)
+	
 <u>Subject</u> + *didn't* + verb(1st form)
+Did + <u>Subject</u> + verb(1st form)
