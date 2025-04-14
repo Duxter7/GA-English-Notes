@@ -104,3 +104,6 @@ Were
 	they
 	we
 	you
+
+Want - wanted
+Decide - decided
