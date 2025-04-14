@@ -292,3 +292,4 @@ Air - air
 Melon
 Watermelon
 Pear
+Lettuce = капуста
