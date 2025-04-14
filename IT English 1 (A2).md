@@ -282,3 +282,6 @@ car - cars
 plane - planes
 
 Money - money
+Advice - advice
+Water - water
+Air - air 
