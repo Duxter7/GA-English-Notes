@@ -257,3 +257,5 @@ Salt
 Gold
 Money
 
+Strawberry
+Melon
