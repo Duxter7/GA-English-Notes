@@ -295,3 +295,4 @@ Pear
 Lettuce = капуста
 
 Noodles
+Cereal = хлопья 
