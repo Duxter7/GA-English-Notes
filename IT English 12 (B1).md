@@ -226,5 +226,3 @@ Jealous of his victory
 
 Reckless 
 
-Wary
-Very
