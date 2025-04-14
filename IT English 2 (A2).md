@@ -265,3 +265,7 @@ Lettuce = капуста
 Herbs = травы
 Eggplant = баклажан
 Zucchini
+
+Prawns = большие креветки
+Shrimp = маленькие креветки
+Noodles
