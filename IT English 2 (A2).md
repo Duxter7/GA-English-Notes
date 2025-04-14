@@ -262,3 +262,6 @@ Melon
 Watermelon
 Pear 
 Lettuce = капуста
+Herbs = травы
+Eggplant = баклажан
+Zucchini
