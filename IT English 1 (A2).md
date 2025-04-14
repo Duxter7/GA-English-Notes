@@ -275,3 +275,10 @@ My colleagues' tasks  are very important
 ## 14-04-2025
 
 I woke up at 2 PM and I went to bed at 2 AM
+
+**Count**able and uncountable nouns
+apple - apples
+car - cars
+plane - planes
+
+Money - money
