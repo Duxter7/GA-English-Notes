@@ -268,4 +268,8 @@ Zucchini
 
 Prawns = большие креветки
 Shrimp = маленькие креветки
-Noodles
+Noodles = лапша
+Cereal = хлопья
+
+Sparkling water = газированная вода
+Still water = вода без газа
