@@ -416,3 +416,6 @@ I will be busy **next week**
 Different = разный
 	They're in a different countries
 Another = еще один
+
+I **have** a laptop and a tablet
+He **has** a new job
