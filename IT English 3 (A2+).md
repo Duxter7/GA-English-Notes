@@ -78,8 +78,10 @@ Turtle
 
 **Past continuous**
 <u>Subject</u> + *was* / *were* (**be**) + verb(ing)
+	I was studying English
 <u>Subject</u> + *wasn't* / *weren't* (**be**) + verb(ing)
 *Was* / *were* + <u>subject</u> + verb(ing)
 
 **Past Simple**
-<u>Subject</u>
+<u>Subject</u> + verb(2nd form)
+<u>Subject</u> + *didn't* + verb(1st form)
