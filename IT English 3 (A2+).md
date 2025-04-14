@@ -91,3 +91,6 @@ Turtle
 	He didn't come to my house
 Did + <u>Subject</u> + verb(1st form)
 	Did he come to my house?
+
+When = когда
+While = в то время как (пока)
