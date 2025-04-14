@@ -274,3 +274,5 @@ Cereal = хлопья
 Sparkling water = газированная вода
 Still water = вода без газа
 
+Butter
+Oil
