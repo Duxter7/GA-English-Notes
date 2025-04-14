@@ -296,3 +296,5 @@ Lettuce = капуста
 
 Noodles
 Cereal = хлопья 
+
+Still water = вода без газа
