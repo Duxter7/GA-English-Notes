@@ -53,4 +53,6 @@ Storage device
 GPU
 CPU
 
+## 14-04-2025
 
+A con = жулик
