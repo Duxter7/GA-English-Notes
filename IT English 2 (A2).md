@@ -293,4 +293,4 @@ Money is great
 We **don't** have **any** money
 Our office doesn't have any servers
 We don't have any new requests 
-Let's buy 
+Let's buy some GPUs (video cards)
