@@ -226,3 +226,4 @@ Jealous of his victory
 
 Reckless 
 
+I was never terrified
