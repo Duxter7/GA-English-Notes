@@ -217,3 +217,5 @@ English dub
 Subtitles 
 
 Jailbroken = взломанный
+Pickpocket = карманник
+Thief = вор
