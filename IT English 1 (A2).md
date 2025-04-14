@@ -288,3 +288,7 @@ Air - air
 
 Веджтблз 
 Камфтбл
+
+Melon
+Watermelon
+Pear
