@@ -86,6 +86,8 @@ Turtle
 
 **Past Simple**
 <u>Subject</u> + verb(2nd form)
-	
+	He came to my house
 <u>Subject</u> + *didn't* + verb(1st form)
+	He didn't come to my house
 Did + <u>Subject</u> + verb(1st form)
+	Did he come to my house?
