@@ -283,3 +283,7 @@ Supermarket = grocery store
 
 Crypto market
 Food market
+
+There's no point = нет смысла
+
+Fruit
