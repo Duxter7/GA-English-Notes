@@ -306,5 +306,7 @@ With = с
 
 I can't live without the internet
 
-Cryptomarket
+Crypto market
 Food market
+
+Quality = качество
