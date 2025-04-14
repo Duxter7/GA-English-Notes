@@ -278,3 +278,8 @@ Butter
 Oil
 
 I forgot about the lesson
+
+Supermarket = grocery store
+
+Crypto market
+Food market
