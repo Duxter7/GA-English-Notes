@@ -312,3 +312,6 @@ Food market
 Quality = качество
 
 Convenient = удобный 
+
+**What** do you like?
+I know **that** you're busy
