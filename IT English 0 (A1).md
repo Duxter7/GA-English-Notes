@@ -403,3 +403,9 @@ an apple
 a car
 
 Unversit**y** - universit**ies** 
+
+## 15-04-2025
+
+Teen = подросток
+	Thirteen
+	Fourteen
