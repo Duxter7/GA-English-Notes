@@ -96,3 +96,4 @@ Yapping = talk a lot
 
 A con = жулик
 A fraud = мошенник 
+On purpose
