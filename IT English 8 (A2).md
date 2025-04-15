@@ -298,6 +298,8 @@ Yogurt (US) = Yoghurt (UK)
 Melon = дыня
 Watermelon = арбуз
 Lettuce = капуста
+Pear = груша
+Prawns = 
 
 
 
