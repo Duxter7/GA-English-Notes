@@ -290,8 +290,10 @@ Maxim will go to Nicka's school
 
 Maxim and Nicka's cat's name is Smoki
 
+## 15-04-2025
 
-
+Caviar = икра
+Yogurt (US) = Yoghurt (UK)
 
 
 
