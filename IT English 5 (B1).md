@@ -293,6 +293,10 @@ Ransomware
 
 I got nervous
 
+Same
+I do the same thing
+Me too
+
 
 
 
