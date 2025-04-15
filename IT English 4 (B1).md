@@ -187,3 +187,6 @@ Richard = Dick
 ## 15-04-2025
 
 Ah, oh, blah
+
+Jealous of someone
+Jealous of success
