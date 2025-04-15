@@ -295,6 +295,9 @@ Maxim and Nicka's cat's name is Smoki
 Caviar = икра
 Yogurt (US) = Yoghurt (UK)
 
+Melon
+Watermelon = арбуз
+
 
 
 
