@@ -422,3 +422,4 @@ Mount Everest
 
 My friend has a new iPhone
 His boss doesn't have a MacBook Pro 16 M3
+Does his friend have a new car?
