@@ -300,9 +300,8 @@ Watermelon = арбуз
 Lettuce = капуста
 Pear = груша
 Prawns = большие креветки
-Eggplant = баклажан
-Aubergine 
-
+Eggplant (aubergine) = баклажан
+Zucchini (courgette) = кабачок
 
 
 
