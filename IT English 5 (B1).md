@@ -299,7 +299,10 @@ Me too
 
 Scared - frightened
 
-Jeal
+Jealous of you
+Jealous of him
+
+I envy you
 
 
 
