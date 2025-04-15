@@ -287,7 +287,8 @@ Curly brackets = {}
 
 ## 15-04-2025
 
-
+Malware
+Spyware
 
 
 
