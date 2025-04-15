@@ -325,8 +325,11 @@ Fruit is tasty
 Do you know something about it?
 Do you know anything about him?
 
-Do you have any apples?
+Do you have **any** apples?
+Do you have some apples?
+Do you have some money? = Do you have any money?
 
+Do you have an apple?
 
 
 
