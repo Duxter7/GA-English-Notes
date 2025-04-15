@@ -308,6 +308,8 @@ Still water = вода без газа
 
 Fair enough = справедливо
 
+I like everything **except (for)** butter
+
 
 
 
