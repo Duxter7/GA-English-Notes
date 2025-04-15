@@ -306,6 +306,7 @@ Cereal = хлопья
 Sparkling water = вода с газом
 Still water = вода без газа
 
+Fair enough = справедливо
 
 
 
