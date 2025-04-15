@@ -424,7 +424,7 @@ My friend **has** a new iPhone
 The office **has** 98 *employees* 
 
 His boss **doesn't** **have** a MacBook Pro 16 M3
-
+I **don't have** 19 friends
 
 **Does** his friend **have** a new car?
-Does he have 15 bottles of juice?
+**Does** he have 15 bottles of juice?
