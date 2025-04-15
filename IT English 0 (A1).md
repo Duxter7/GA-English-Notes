@@ -432,3 +432,10 @@ I **don't have** 19 friends
 Difficult 
 
 Favorite
+
+To be = быть; являться
+	am
+	is
+	are
+	**was**
+	**were**
