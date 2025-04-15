@@ -409,3 +409,4 @@ Unversit**y** - universit**ies**
 Teen = подросток
 	Thirteen
 	Fourteen
+	Fifty
