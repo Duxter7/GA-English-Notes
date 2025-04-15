@@ -310,6 +310,12 @@ Fair enough = справедливо
 
 I like everything **except (for)** butter
 
+Fruit
+Water
+Weather
+Money 
+
+
 
 
 
