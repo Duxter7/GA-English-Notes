@@ -101,3 +101,5 @@ On purpose
 Put someone off = shock / cause to make mistakes
 The underdog = a newcomer
 Play for time = delay 
+Bend the rules = bypass 
+Concede = to give up
