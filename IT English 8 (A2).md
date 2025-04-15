@@ -318,6 +318,9 @@ Money
 A car - cars
 An apple - apples
 
+Money is important 
+Love is great
+
 
 
 
