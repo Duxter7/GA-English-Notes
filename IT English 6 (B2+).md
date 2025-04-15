@@ -97,3 +97,7 @@ Yapping = talk a lot
 A con = жулик
 A fraud = мошенник 
 On purpose
+
+Put someone off = shock / cause to make mistakes
+The underdog = a newcomer
+Play for time = delay 
