@@ -332,8 +332,8 @@ Do you have some money? = Do you have any money?
 Do you have an apple?
 
 **A** - **an** = countable singular
-**Some** in questions or affirmatives 
-Any questions 
+**Some** in *questions* or affirmatives 
+**Any** questions and negatives
 
 
 
