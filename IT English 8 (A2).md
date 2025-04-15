@@ -322,6 +322,12 @@ Money is important
 Love is great
 Fruit is tasty
 
+Do you know something about it?
+Do you know anything about him?
+
+Do you have any apples?
+
+
 
 
 
