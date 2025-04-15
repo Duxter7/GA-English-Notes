@@ -302,7 +302,9 @@ Pear = груша
 Prawns = большие креветки
 Eggplant (aubergine) = баклажан
 Zucchini (courgette) = кабачок
-
+Cereal = хлопья
+Sparkling water = вода с газом
+Still water = вода без газа
 
 
 
