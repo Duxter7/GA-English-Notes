@@ -299,7 +299,9 @@ Melon = дыня
 Watermelon = арбуз
 Lettuce = капуста
 Pear = груша
-Prawns = 
+Prawns = большие креветки
+Eggplant = баклажан
+Aubergine 
 
 
 
