@@ -91,3 +91,8 @@ Wretched
 Hideous 
 
 Yapping = talk a lot
+
+## 15-04-2025
+
+A con = жулик
+A fraud = мошенник 
