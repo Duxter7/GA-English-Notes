@@ -410,3 +410,8 @@ Teen = подросток
 	Thirteen
 	Fourteen
 	Fifty
+
+Mountain
+Month
+
+Mount Everest
