@@ -315,6 +315,8 @@ Water
 Weather
 Money 
 
+A car - cars
+An apple - apples
 
 
 
