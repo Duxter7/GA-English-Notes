@@ -420,3 +420,5 @@ Mount Everest
 **This** week I don't work (I'm not working)
 **Next** week I don't work = Next week I won't work 
 
+My friend has a new iPhone
+His boss doesn't have a MacBook Pro 16 M3
