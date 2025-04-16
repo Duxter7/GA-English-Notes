@@ -297,7 +297,7 @@ Let's buy some GPUs (video cards)
 
 ## 16-04-2025
 
-Some, any, a / an
+**Some, any, a / an**
 	**any** is for questions and negatives
 		We don't have any sugar
 	**some** is for affirmatives with uncountable and countable
@@ -307,3 +307,6 @@ Some, any, a / an
 	*some* is for questions when you want something
 		Can I have some pasta?
 		Can I have some water?
+
+I don't know anything 
+I don't have any s
