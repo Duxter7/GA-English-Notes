@@ -176,3 +176,4 @@ Answer (энсер)
 ## 16-04-2025
 
 Short-haired = гладкошёрстный 
+Pomeranian dog = померанский шпиц
