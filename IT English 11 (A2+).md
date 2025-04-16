@@ -180,3 +180,5 @@ Pomeranian dog = померанский шпиц
 
 My favorite animal is a dog
 I like dogs
+
+Acquaintance = знакомый
