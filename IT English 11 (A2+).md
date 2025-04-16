@@ -177,3 +177,6 @@ Answer (энсер)
 
 Short-haired = гладкошёрстный 
 Pomeranian dog = померанский шпиц
+
+My favorite animal is a dog
+I like dogs
