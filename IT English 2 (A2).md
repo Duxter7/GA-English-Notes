@@ -301,4 +301,5 @@ Some, any, a / an
 	**any** is for questions and negatives
 	**some** is for affirmatives with uncountable and countable
 		We need sugar; we need some sugar
-	**a** / **an**
+	**a** / **an** is for countable, singular nouns
+		
