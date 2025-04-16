@@ -363,3 +363,6 @@ Do you know anything?
 Do you want some water?
 
 Fruit = фрукты
+
+Fruit is healthy
+Money is important 
