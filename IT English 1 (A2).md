@@ -357,4 +357,7 @@ We need milk = we need some milk
 We need chocolate = we need some chocolate
 
 We don't have any pasta
-We don't h
+We don't have any milk
+
+Do you know anything?
+Do you want some water?
