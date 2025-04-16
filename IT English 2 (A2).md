@@ -345,3 +345,4 @@ five to five = 4.55
 A quarter to five = 4.45 
 
 On Sunday at midday, we were playing football
+This time last week, we were sitting at a café in Paris
