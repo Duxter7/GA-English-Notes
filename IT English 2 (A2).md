@@ -304,3 +304,6 @@ Some, any, a / an
 		We need sugar; we need some sugar
 	**a** / **an** is for countable, singular nouns
 		Can you buy an apple?
+	*some* is for questions when you want something
+		Can I have some pasta?
+		Can I have some water?
