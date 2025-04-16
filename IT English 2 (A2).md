@@ -330,4 +330,4 @@ An
 I don't believe it
 A belief 
 
-Have a shower (UK) 
+Have a shower (UK) = Take a shower (US)
