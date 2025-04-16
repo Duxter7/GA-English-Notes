@@ -254,3 +254,10 @@ I love not doing anything in the evenings = I love doing nothing in the evenings
 ## 16-04-2025
 
 Duration = продолжительность 
+
+**Past Simple**
+**+**
+Subject + V(2)
+	I played yesterday
+
+**-**
