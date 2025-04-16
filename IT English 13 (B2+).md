@@ -57,3 +57,7 @@ CPU
 
 A con = жулик
 A fraud = мошенник
+
+## 16-04-2025
+
+5 or 6 band score
