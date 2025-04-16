@@ -351,3 +351,7 @@ Pay for my apartment - flat (UK) - condo
 
 A / an
 	Singular, countable
+
+We need pasta = we need some pasta 
+We need milk
+We need chocolate
