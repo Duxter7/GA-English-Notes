@@ -299,7 +299,8 @@ Let's buy some GPUs (video cards)
 
 Some, any, a / an
 	**any** is for questions and negatives
+		We don't have any sugar
 	**some** is for affirmatives with uncountable and countable
 		We need sugar; we need some sugar
 	**a** / **an** is for countable, singular nouns
-		
+		Can you buy an apple?
