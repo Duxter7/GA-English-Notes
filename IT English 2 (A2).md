@@ -294,3 +294,10 @@ We **don't** have **any** money
 Our office doesn't have any servers
 We don't have any new requests 
 Let's buy some GPUs (video cards)
+
+## 16-04-2025
+
+Some, any, a / an
+	**any** is for questions and negatives
+	**some** 
+	a / an
