@@ -172,3 +172,7 @@ Enjoy
 Truck (US) = Lorry (UK)
 
 Answer (энсер)
+
+## 16-04-2025
+
+Short-haired = гладкошёрстный 
