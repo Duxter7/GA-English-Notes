@@ -212,3 +212,6 @@ Decided
 
 I'm bored = мне скучно
 I'm boring = я скучный 
+
+I apologize
+I'm sorry
