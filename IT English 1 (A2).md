@@ -340,4 +340,6 @@ I will go to the gym
 I worry
 I'm worried
 
-I don't if I can 
+I don't if I can buy 
+
+IT mortgage
