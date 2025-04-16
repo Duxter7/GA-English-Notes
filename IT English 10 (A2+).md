@@ -271,4 +271,7 @@ Did + subject + V(1)
 Subject + was / were + V(ing)
 	I was studying English
 **-**
-
+Subject + wasn't / weren't + V(ing)
+	I wasn't studying English
+**?**
+Was / we
