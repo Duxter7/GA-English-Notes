@@ -274,4 +274,5 @@ Subject + was / were + V(ing)
 Subject + wasn't / weren't + V(ing)
 	I wasn't studying English
 **?**
-Was / we
+Was / were + subject + V(ing)
+	Was he playing football? 
