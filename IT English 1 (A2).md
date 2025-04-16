@@ -366,3 +366,9 @@ Fruit = фрукты
 
 Fruit is healthy
 Money is important 
+
+I don't know anything
+
+Do you want some pizza?
+
+O
