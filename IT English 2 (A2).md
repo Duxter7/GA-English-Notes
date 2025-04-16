@@ -313,3 +313,7 @@ I don't have any cars
 He doesn't have any desire to work
 
 Schwa sound 
+
+A 
+	
+An 
