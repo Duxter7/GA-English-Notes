@@ -309,4 +309,5 @@ Let's buy some GPUs (video cards)
 		Can I have some water?
 
 I don't know anything 
-I don't have any s
+I don't have any cars 
+He doesn't have any desire 
