@@ -299,5 +299,6 @@ Let's buy some GPUs (video cards)
 
 Some, any, a / an
 	**any** is for questions and negatives
-	**some** 
-	a / an
+	**some** is for affirmatives with uncountable and countable
+		We need sugar; we need some sugar
+	**a** / **an**
