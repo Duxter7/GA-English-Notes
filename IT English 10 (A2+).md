@@ -277,4 +277,7 @@ Subject + wasn't / weren't + V(ing)
 Was / were + subject + V(ing)
 	Was he playing football? 
 
-I wasn't going to the 
+I wasn't going to the gym because (when) I had a lot of work
+
+
+
