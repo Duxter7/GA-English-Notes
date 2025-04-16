@@ -264,3 +264,11 @@ Subject + didn't + V(1)
 	I didn't play yesterday
 **?**
 Did + subject + V(1)
+	Did you play yesterday?
+
+**Past continuous**
+**+**
+Subject + was / were + V(ing)
+	I was studying English
+**-**
+
