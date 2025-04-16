@@ -330,3 +330,7 @@ Move
 
 I don't know yet
 
+10 percent
+
+For one person or for everyone
+For every person
