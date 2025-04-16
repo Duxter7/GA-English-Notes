@@ -315,5 +315,12 @@ He doesn't have any desire to work
 Schwa sound 
 
 A 
-	
+	A pear
+	A pencil
+	A car
+	A university
 An 
+	An onion
+	An apple
+	An orange
+	An 
