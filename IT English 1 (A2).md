@@ -362,3 +362,4 @@ We don't have any milk
 Do you know anything?
 Do you want some water?
 
+Fruit = фрукты
