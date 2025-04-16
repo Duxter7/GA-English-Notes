@@ -343,3 +343,7 @@ I'm worried
 I don't if I can buy 
 
 IT mortgage
+
+Take - took - taken
+
+Pay for house (дом)
