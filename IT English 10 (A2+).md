@@ -259,5 +259,8 @@ Duration = продолжительность
 **+**
 Subject + V(2)
 	I played yesterday
-
 **-**
+Subject + didn't + V(1)
+	I didn't play yesterday
+**?**
+Did + subject + V(1)
