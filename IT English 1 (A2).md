@@ -347,3 +347,4 @@ IT mortgage
 Take - took - taken
 
 Pay for house (дом)
+Pay for my apartment - flat (UK) - condo
