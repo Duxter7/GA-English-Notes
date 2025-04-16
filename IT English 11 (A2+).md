@@ -184,3 +184,27 @@ I **like dogs**
 I want to get a cat
 
 Acquaintance = знакомый
+
+**Past Simple**
+**+**
+Subject + V(2)
+	I played yesterday
+**-**
+Subject + didn't + V(1)
+	I didn't play yesterday
+**?**
+Did + subject + V(1)
+	Did you play yesterday?
+
+**Past continuous**
+**+**
+Subject + was / were + V(ing)
+	I was studying English
+**-**
+Subject + wasn't / weren't + V(ing)
+	I wasn't studying English
+**?**
+Was / were + subject + V(ing)
+	Was he playing football? 
+
+I wasn't going to the gym because (when) I had a lot of work
