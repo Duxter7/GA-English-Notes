@@ -310,4 +310,4 @@ Let's buy some GPUs (video cards)
 
 I don't know anything 
 I don't have any cars 
-He doesn't have any desire 
+He doesn't have any desire to work
