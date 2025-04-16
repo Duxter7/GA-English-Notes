@@ -227,3 +227,6 @@ Boots
 Trainers
 
 Reckless
+
+Ladder
+Staircase
