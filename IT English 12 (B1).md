@@ -237,3 +237,4 @@ It was 1965, people were walking a lot, it was raining heavily
 Ski run = ski slope
 
 To fast = поститься
+Break the fast = разговляться
