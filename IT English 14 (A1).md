@@ -419,3 +419,7 @@ Another = еще один
 
 I **have** a laptop and a tablet
 He **has** a new job
+
+## 17-04-2025
+
+Go on vacation = идти в отпуск
