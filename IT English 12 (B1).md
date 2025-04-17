@@ -233,3 +233,5 @@ I was never terrified
 Railroad (US) = Railway (UK; Canada)
 
 It was 1965, people were walking a lot, it was raining heavily
+
+Ski run = ski slope
