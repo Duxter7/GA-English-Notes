@@ -441,7 +441,7 @@ Car shop = автосервис
 On the weekend = на выходных
 For the weekend = на выходные
 
-Be = 
+Be = быть; являться
 	am 
 		I
 	is
@@ -451,4 +451,9 @@ Be =
 	are
 		we
 		they 
-		
+		you
+
+Your = твой
+You're = ты являешься
+
+Your 
