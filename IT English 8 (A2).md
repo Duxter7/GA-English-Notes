@@ -354,3 +354,5 @@ Bread (U)
 Money is important
 
 A - an != plural
+
+Schwa sound 
