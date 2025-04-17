@@ -335,10 +335,6 @@ Do you have an apple?
 **Some** in *questions* or affirmatives 
 **Any** questions and negatives
 
+## 17-04-2025
 
-
-
-
-
-
-
+Eggplant = баклажан (aubergine)
