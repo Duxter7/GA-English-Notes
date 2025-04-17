@@ -455,3 +455,9 @@ Be = быть; являться
 
 Your = твой
 You're = ты являешься
+
+**Are** they hungry?
+Yes, they **are**
+
+**Are** you busy?
+No, I **am not**
