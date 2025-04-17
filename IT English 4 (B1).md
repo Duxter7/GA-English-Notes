@@ -194,4 +194,6 @@ Jealous of success
 ## 17-04-2025
 
 Didn't come back
-Didn't return 
+Didn't return
+
+I liked to play football because I had a good trainer 
