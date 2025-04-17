@@ -471,3 +471,6 @@ They're = they are
 
 We (уи) 
 We're (уир)
+
+Begin = начинать
+End = заканчивать
