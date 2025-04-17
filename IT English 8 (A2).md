@@ -345,3 +345,5 @@ Plural (мн. ч.)
 
 Toast (U)
 Honey (U)
+Butter (U)
+Oil (U)
