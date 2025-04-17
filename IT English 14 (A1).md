@@ -431,3 +431,6 @@ I will watch films (movies) with my family
 
 Church = церковь
 	Temple = храм
+
+Paint eggs 
+Bake = печь
