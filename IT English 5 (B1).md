@@ -332,3 +332,7 @@ Railway (UK) = Railroad (US)
 They stopped working in a distribution center because were working 
 
 I was going to the classroom when I met with my boss
+
+Meet with = you know the person
+Meet = you don't know the person
+
