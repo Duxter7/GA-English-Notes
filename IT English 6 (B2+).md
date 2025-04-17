@@ -109,3 +109,5 @@ It's I who did it
 ## 17-04-2025
 
 What a steal
+
+Take / claim the moral high ground
