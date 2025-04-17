@@ -213,3 +213,5 @@ I wasn't going to the gym because (when) I had a lot of work
 
 Listen to music
 Develop a new report
+
+While I was studying English my colleagues wrote me
