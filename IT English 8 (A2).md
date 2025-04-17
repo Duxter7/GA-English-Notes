@@ -338,3 +338,6 @@ Do you have an apple?
 ## 17-04-2025
 
 Eggplant = баклажан (aubergine)
+
+Uncountable (несчисляемое 
+Singular (ед. ч.)
