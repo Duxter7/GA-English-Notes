@@ -434,3 +434,6 @@ Church = церковь
 
 Paint eggs 
 Bake = печь
+Easter cake = кулич
+
+Car shop
