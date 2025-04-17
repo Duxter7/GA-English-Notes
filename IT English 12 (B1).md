@@ -241,5 +241,3 @@ Break the fast = разговляться
 
 Easter cake
 
-
-ñáéð
