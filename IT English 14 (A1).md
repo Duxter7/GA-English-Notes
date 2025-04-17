@@ -436,4 +436,7 @@ Paint eggs
 Bake = печь
 Easter cake = кулич
 
-Car shop
+Car shop = автосервис
+
+On the weekend = на выходных
+For the weekend = на выходные
