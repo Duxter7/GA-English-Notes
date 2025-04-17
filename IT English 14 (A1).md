@@ -423,3 +423,6 @@ He **has** a new job
 ## 17-04-2025
 
 Go on vacation = идти в отпуск
+
+Watch TV series (show)
+See
