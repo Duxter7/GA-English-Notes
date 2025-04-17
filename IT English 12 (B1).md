@@ -240,3 +240,6 @@ To fast = поститься
 Break the fast = разговляться
 
 Easter cake
+
+
+ñáéð
