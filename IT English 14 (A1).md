@@ -464,3 +464,5 @@ No, I **am not**
 
 
 I like movies a lot, but he doesn't.
+
+You = ты; вы (множественное)
