@@ -428,3 +428,6 @@ Watch TV series (show)
 See
 
 I will watch films (movies) with my family
+
+Church = церковь
+	Temple = храм
