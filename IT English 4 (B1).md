@@ -196,4 +196,4 @@ Jealous of success
 Didn't come back
 Didn't return
 
-I liked to play football because I had a good trainer 
+I liked to play football because I had had a good trainer 
