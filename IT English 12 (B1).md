@@ -231,3 +231,5 @@ I was never terrified
 ## 17-04-2025
 
 Railroad (US) = Railway (UK; Canada)
+
+It was 1965, people were walking a lot, it was raining heavily
