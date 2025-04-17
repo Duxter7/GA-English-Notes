@@ -342,3 +342,6 @@ Eggplant = баклажан (aubergine)
 Uncountable (неисчисляемое) 
 Singular (ед. ч.)
 Plural (мн. ч.)
+
+Toast (U)
+Honey (U)
