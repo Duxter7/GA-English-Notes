@@ -313,3 +313,11 @@ Emergency
 I spend my time on other things
 
 Subordinates
+
+Store
+
+Many problems
+A lot of problems
+
+
+
