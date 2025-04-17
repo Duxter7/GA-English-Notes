@@ -207,3 +207,6 @@ I saw him
 I told them
 
 Keys to Monte Magnetto
+
+Cast a spell
+	Because I had cast a spell 
