@@ -197,3 +197,6 @@ Didn't come back
 Didn't return
 
 I liked to play football because I had had a good trainer 
+
+When he returned, we watched TV
+He returned home while we were watching TV
