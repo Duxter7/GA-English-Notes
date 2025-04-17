@@ -330,3 +330,5 @@ In a row = подряд
 Railway (UK) = Railroad (US)
 
 They stopped working in a distribution center because were working 
+
+I was going to the classroom when I met with my boss
