@@ -487,4 +487,6 @@ Fifteen (quarter) **to** four = 3.45
 Five **past** five = 5.05
 Twenty-five **past** eleven = 11.25
 Seven **past** seven = 7.07
-
+Five **to** three
+Twenty-nine **to** one = 12.31
+Half **past** 
