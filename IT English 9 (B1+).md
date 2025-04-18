@@ -261,10 +261,13 @@ I haven't smoked for about 1 hour
 I'm fasting right now
 
 **+**
-Subject + have / has + been + V(ing)
+Subject + have / has + **been** + **V(ing)**
 
 **-**
+Subject + have not / has not + **been** + **V(ing)**
 
+**?**
+Have / has + subject + **been** + **V(ing)**
 
 Smoking is bad
 I am smoking
