@@ -152,3 +152,8 @@ Give a head start
 
 A con = жулик
 A fraud = мошенник; мошенничество
+
+## 18-04-2025
+
+I've never been to
+
