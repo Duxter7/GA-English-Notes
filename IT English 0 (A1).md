@@ -498,3 +498,5 @@ Fell off the train
 Railway (UK) = Railroad (US)
 
 It was 1965 and the streets were busy. **People were walking very fast, it was getting dark and the Moon was shining**
+
+I got to work, I ordered food, I started working, I left work
