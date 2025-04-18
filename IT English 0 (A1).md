@@ -489,4 +489,4 @@ Twenty-five **past** eleven = 11.25
 Seven **past** seven = 7.07
 Five **to** three
 Twenty-nine **to** one = 12.31
-Half **past** 
+Half **past** eight = 8.30
