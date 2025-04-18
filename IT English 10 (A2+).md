@@ -289,9 +289,10 @@ When I **was making** food for my cat, he **bit** me
 
 They **weren't going** to the cinema when one of them **saw** the reviews
 
-I wasn't going to work 
+I wasn't finishing my task when I 
 
-I wasn't repairing my car because 
+I wasn't repairing my car when my son called me to eat because I had to buy a new part
+
 
 **To fast** = поститься
 I'm fasting right now
