@@ -474,3 +474,6 @@ I have one break **for** 1 hour when I want
 
 For the rest of the week
 In other days of the week
+
+What do you like?
+What time does it start?
