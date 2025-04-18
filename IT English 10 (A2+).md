@@ -287,7 +287,7 @@ Today it was raining when I made breakfast
 I **was repairing** my car when my son **called** me to eat
 When I **was making** food for my cat, he **bit** me
 
-
+They weren't going to the cinema when one of them 
 
 **To fast** = поститься
 I'm fasting right now
