@@ -479,3 +479,6 @@ What do you like?
 What time does it start?
 
 ![[Telling time.png]]
+
+Quarter = четверть
+Half = половина
