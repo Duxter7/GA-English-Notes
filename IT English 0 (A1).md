@@ -483,3 +483,6 @@ What time does it start?
 Quarter = четверть
 Half = половина
 
+Fifteen (quarter) to four = 3.45
+Five past five = 50.
+
