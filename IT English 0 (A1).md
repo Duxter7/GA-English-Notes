@@ -439,3 +439,8 @@ To be = быть; являться
 	are
 	**was**
 	**were**
+
+## 18-04-2025
+
+Sauna
+Bathhouse
