@@ -451,3 +451,5 @@ Garden (сад)
 Grandparents' garden
 
 Conversation = разговор
+
+Be = быть; являться; 
