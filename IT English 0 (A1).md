@@ -445,4 +445,7 @@ To be = быть; являться
 Sauna
 Bathhouse
 
-Different things
+Different **things** (вещи)
+Garden (сад)
+
+Grandparents' house
