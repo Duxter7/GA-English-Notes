@@ -281,4 +281,5 @@ I wasn't going to the gym because (when) I had a lot of work
 
 ## 18-04-2025
 
-I was working in KIT when 
+I was working in KIT when Gold Apple sent me an offer
+
