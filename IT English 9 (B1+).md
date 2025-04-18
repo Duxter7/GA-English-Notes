@@ -260,5 +260,11 @@ I haven't smoked for about 1 hour
 
 I'm fasting right now
 
-+
-Subject + have / has + been 
+**+**
+Subject + have / has + been + V(ing)
+
+**-**
+
+
+Smoking is bad
+I am smoking
