@@ -291,8 +291,7 @@ They **weren't going** to the cinema when one of them **saw** the reviews
 
 I wasn't going to work 
 
-
-
+I wasn't repairing my car because 
 
 **To fast** = поститься
 I'm fasting right now
