@@ -286,6 +286,7 @@ I was going home when my mom called me
 Today it was raining when I made breakfast
 
 I was repairing my car when my son called me to eat
+When I 
 
 **To fast** = поститься
 I'm fasting right now
