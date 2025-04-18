@@ -259,3 +259,6 @@ I haven't smoked for about 1 hour
 ## 18-04-2025
 
 I'm fasting right now
+
++
+Subject + have / has + been 
