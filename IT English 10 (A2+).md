@@ -284,9 +284,9 @@ I wasn't going to the gym because (when) I had a lot of work
 I was working in KIT when Gold Apple sent me an offer
 I was going home when my mom called me
 Today it was raining when I made breakfast
-
 I **was repairing** my car when my son **called** me to eat
 When I **was making** food for my cat, he **bit** me
+
 
 
 **To fast** = поститься
