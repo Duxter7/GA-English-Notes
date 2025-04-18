@@ -482,3 +482,4 @@ What time does it start?
 
 Quarter = четверть
 Half = половина
+
