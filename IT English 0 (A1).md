@@ -452,4 +452,14 @@ Grandparents' garden
 
 Conversation = разговор
 
-Be = быть; являться; 
+Be = быть; являться; находиться
+	am
+		I
+	is
+		he
+		she
+		it
+	are
+		we
+		they
+		you
