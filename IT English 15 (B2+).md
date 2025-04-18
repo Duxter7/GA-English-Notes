@@ -162,3 +162,5 @@ In the Autumn (Fall)
 Chocolate
 Vegetable
 Comfortable
+
+Emphasis 
