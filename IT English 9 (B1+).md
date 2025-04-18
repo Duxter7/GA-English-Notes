@@ -271,3 +271,7 @@ Have / has + subject + **been** + **V(ing)**
 
 Smoking is bad
 I am smoking
+
+Would stop
+
+When I was young I **would** always play videogames all day long
