@@ -449,3 +449,5 @@ Different **things** (вещи)
 Garden (сад)
 
 Grandparents' garden
+
+Conversation = разговор
