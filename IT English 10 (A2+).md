@@ -283,6 +283,7 @@ I wasn't going to the gym because (when) I had a lot of work
 
 I was working in KIT when Gold Apple sent me an offer
 I was going home when my mom called me
+Today I made breakfast 
 
 **To fast** = поститься
 I'm fasting right now
