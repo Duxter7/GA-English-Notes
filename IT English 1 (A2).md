@@ -382,3 +382,5 @@ Won't
 
 My husband and I see his friends every Friday
 My friend and I go to the gym
+
+Three or four times **a** week
