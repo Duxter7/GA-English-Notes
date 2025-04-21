@@ -289,7 +289,9 @@ Spouse's mother
 
 Mother-in-law
 
-Freedom fighter = 
+Freedom fighter = борец за свободу
 Rebel = повстанец
 Insurgent = мятежник
 Terrorist = террорист 
+
+Rebellious 
