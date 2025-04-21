@@ -380,4 +380,5 @@ Won't
 
 ## 21-04-2025
 
-My husband and I see his friends every Friday 
+My husband and I see his friends every Friday
+My friend and I go to the gym
