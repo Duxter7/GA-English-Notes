@@ -380,3 +380,4 @@ Won't
 
 ## 21-04-2025
 
+My husband and I see his friends every Friday 
