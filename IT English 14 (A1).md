@@ -505,3 +505,10 @@ I cleaned the windows after the Winter
 
 **Painted**
 We **ate** the food
+
+Washed
+Cooked
+
+Wan**t**ed
+Deci**d**ed
+Pain**t**ed
