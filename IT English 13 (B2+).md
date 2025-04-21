@@ -64,4 +64,5 @@ A fraud = мошенник
 
 ## 21-04-2025
 
-
+What did I like about Kazan was something
+What I like about Kazan was this castle
