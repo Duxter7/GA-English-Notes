@@ -175,3 +175,9 @@ Easter cake
 
 Auditory 
 Audience
+
+Some time ago
+The other day
+
+Sodas
+Soft drinks
