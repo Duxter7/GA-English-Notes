@@ -513,3 +513,5 @@ Wan**t**ed
 Deci**d**ed
 Pain**t**ed
 
+Cousin = двоюродный брат или сестра
+2nd cousin 
