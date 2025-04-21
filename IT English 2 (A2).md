@@ -360,3 +360,5 @@ Memory lapse = провал в памяти
 
 Докинуть audio A2 WB
 
+I *usually* **go** shopping on the weekends
+He *always* **eats** pizza
