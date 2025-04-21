@@ -282,3 +282,5 @@ I had a rest **after** *looking* after the cats
 I'm sore
 
 It was a warm, sunny day
+
+To fast = поститься
