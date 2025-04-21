@@ -294,4 +294,4 @@ Rebel = повстанец
 Insurgent = мятежник
 Terrorist = террорист 
 
-Rebellious 
+Rebellious = непокорный
