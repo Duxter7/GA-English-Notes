@@ -70,4 +70,4 @@ What I liked about Kazan was this castle
 Organizations
 Institutions
 
-Ad - advert - advertiseme
+Ad - advert - advertisement 
