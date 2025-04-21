@@ -523,3 +523,5 @@ My = мой
 Her = ее
 Its = его / ее (для неодушевленных)
 	My office is big. **Its** desks are great
+
+Holiday = 
