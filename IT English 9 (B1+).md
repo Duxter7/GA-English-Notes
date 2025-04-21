@@ -284,3 +284,7 @@ I'm sore
 It was a warm, sunny day
 
 To fast = поститься
+
+Spouse's mother 
+
+Mother-in-law
