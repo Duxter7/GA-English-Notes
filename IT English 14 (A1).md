@@ -485,10 +485,13 @@ Jog = трусцой
 I am an easter cake
 I **ate** an easter cake
 
-Eat - ate - eaten
-Go - went - gone
+Eat - **ate** - eaten
+Go - **went** - gone
 
 It was eaten
 It is eaten
 
 The cake is eaten
+
+Play - played - played
+Kill - killed - killed 
