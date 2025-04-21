@@ -482,3 +482,5 @@ Time zone = часовой пояс
 Run = бегать 
 Jog = трусцой
 
+I am an easter cake
+I **ate** an easter cake
