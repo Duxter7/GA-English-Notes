@@ -517,3 +517,5 @@ Cousin = двоюродный брат или сестра
 2nd cousin 
 
 **Vet** = veterinarian 
+
+Our = наш
