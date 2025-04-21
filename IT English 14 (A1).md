@@ -524,4 +524,4 @@ Her = ее
 Its = его / ее (для неодушевленных)
 	My office is big. **Its** desks are great
 
-Holiday = 
+Holiday (UK) = vacation (US)
