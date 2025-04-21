@@ -519,3 +519,5 @@ Cousin = двоюродный брат или сестра
 **Vet** = veterinarian 
 
 Our = наш
+My = мой
+Her = ее
