@@ -521,4 +521,5 @@ Cousin = двоюродный брат или сестра
 Our = наш
 My = мой
 Her = ее
-Its != it's
+Its = его / ее (для неодушевленных)
+	My office is big. Its 
