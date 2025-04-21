@@ -515,3 +515,5 @@ Pain**t**ed
 
 Cousin = двоюродный брат или сестра
 2nd cousin 
+
+**Vet** = veterinarian 
