@@ -288,3 +288,8 @@ To fast = поститься
 Spouse's mother 
 
 Mother-in-law
+
+Freedom fighter = 
+Rebel = повстанец
+Insurgent = мятежник
+Terrorist = террорист 
