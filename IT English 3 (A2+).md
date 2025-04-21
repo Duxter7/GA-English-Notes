@@ -124,3 +124,5 @@ Arrival
 Departure
 Gate
 
+A window seat
+An aisle seat
