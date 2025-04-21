@@ -107,3 +107,8 @@ Were
 
 Want - wanted
 Decide - decided
+
+## 21-04-2025
+
+Maintain = keep everything working
+Support = help when someone needs help
