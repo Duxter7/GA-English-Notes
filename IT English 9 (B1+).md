@@ -297,3 +297,5 @@ Terrorist = террорист
 Rebellious = непокорный
 
 Shrink = psychiatrist
+
+It depends on people's comments
