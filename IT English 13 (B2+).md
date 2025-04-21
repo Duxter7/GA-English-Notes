@@ -66,3 +66,6 @@ A fraud = мошенник
 
 ~~What did I like about Kazan was something~~
 What I liked about Kazan was this castle
+
+Organizations
+Institutions
