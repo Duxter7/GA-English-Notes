@@ -502,3 +502,6 @@ I invited some people
 Dentist
 
 I cleaned the windows after the Winter
+
+**Painted**
+We **ate** the food
