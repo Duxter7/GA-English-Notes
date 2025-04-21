@@ -500,3 +500,5 @@ Some guests came
 I invited some people
 
 Dentist
+
+I cleaned the windows after the Winter
