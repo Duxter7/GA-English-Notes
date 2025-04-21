@@ -525,3 +525,5 @@ Its = его / ее (для неодушевленных)
 	My office is big. **Its** desks are great
 
 Holiday (UK) = vacation (US)
+
+Last name = surname
