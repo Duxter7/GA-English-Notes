@@ -362,3 +362,6 @@ Memory lapse = провал в памяти
 
 I *usually* **go** shopping on the weekends
 He *always* **eats** pizza
+
+He **is** *always* busy
+I **am** *usually* late
