@@ -356,3 +356,4 @@ buy - bought - bought
 I bought Dr. Pepper for my brother
 
 My wife and I went to her parents
+Memory lapse = провал в памяти
