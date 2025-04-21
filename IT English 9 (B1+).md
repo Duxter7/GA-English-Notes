@@ -295,3 +295,5 @@ Insurgent = мятежник
 Terrorist = террорист 
 
 Rebellious = непокорный
+
+Shrink = psychiatrist
