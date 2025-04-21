@@ -349,4 +349,8 @@ This time last week, we were sitting in a café in Paris
 
 ## 21-04-2025
 
-I didn't buy anyt
+I didn't buy anything 
+
+buy - bought - bought 
+
+I bought soda (fizzy; soft drink)
