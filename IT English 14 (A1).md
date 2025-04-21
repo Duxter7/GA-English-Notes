@@ -495,3 +495,8 @@ The cake is eaten
 
 Play - played - played
 Kill - killed - killed 
+
+Some guests came
+I invited some people
+
+Dentist
