@@ -387,4 +387,5 @@ Three or four times **a** week
 
 For me it's not true that I don't like being alone
 
-Hundred 
+He **is** *always* busy
+He *always* **works**
