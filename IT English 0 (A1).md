@@ -511,3 +511,5 @@ Rained
 ## 22-04-2025
 
 Cousin = двоюродный брат или сестра
+	2nd cousin
+	3rd cousin
