@@ -220,3 +220,5 @@ See a movie
 Watch a movie
 
 Relate to the character
+
+Prefer watching 
