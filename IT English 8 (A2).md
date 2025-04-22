@@ -376,3 +376,6 @@ Easter cake
 To fast = поститься
 
 Buy - bought - bought
+
+Lungs = легкие
+Addiction = зависимость 
