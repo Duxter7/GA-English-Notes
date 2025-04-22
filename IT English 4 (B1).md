@@ -215,3 +215,6 @@ Cast a spell
 
 Choose - chose - chosen
 Drink - drank - drunk
+
+See a movie
+Watch a movie
