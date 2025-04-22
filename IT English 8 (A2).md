@@ -378,4 +378,6 @@ To fast = поститься
 Buy - bought - bought
 
 Lungs = легкие
-Addiction = зависимость 
+Addiction = зависимость
+	Addict = наркоман; зависимый
+	Addicted to = зависим от
