@@ -513,3 +513,5 @@ Rained
 Cousin = двоюродный брат или сестра
 	2nd cousin
 	3rd cousin
+
+Holiday (UK) = Vacation (US)
