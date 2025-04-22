@@ -369,3 +369,6 @@ I worked overtime
 
 Hardly = едва
 Hard = усердно
+
+Easter
+Easter cake
