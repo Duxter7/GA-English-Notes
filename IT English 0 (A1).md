@@ -517,3 +517,5 @@ Cousin = двоюродный брат или сестра
 Holiday (UK) = Vacation (US)
 
 Its architecture is good
+
+its **!=** it's 
