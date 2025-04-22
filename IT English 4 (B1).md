@@ -221,4 +221,4 @@ Watch a movie
 
 Relate to the character
 
-Prefer watching 
+**Prefer** watching movies **to** reading books
