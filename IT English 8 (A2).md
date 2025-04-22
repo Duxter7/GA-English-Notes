@@ -374,3 +374,5 @@ Easter
 Easter cake
 
 To fast = поститься
+
+Buy - bought - bought
