@@ -356,3 +356,4 @@ Cheaper
 
 I went to the garage and I remembered that I had forgotten the keys for my car 
 
+Tear - tore - torn = порвать
