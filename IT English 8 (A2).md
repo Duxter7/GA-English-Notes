@@ -383,3 +383,7 @@ Addiction = зависимость
 	Addicted to = зависим от
 
 Get my son dressed for school and start work
+
+
+I **always** sleep at night
+He usually plays video games on the weekends
