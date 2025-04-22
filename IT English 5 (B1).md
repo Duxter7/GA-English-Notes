@@ -339,3 +339,6 @@ Meet = you don't know the person
 ## 22-04-2025
 
 Floating procedure
+
+25 cm deep
+Salt with magnesium 
