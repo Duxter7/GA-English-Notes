@@ -515,3 +515,5 @@ Cousin = двоюродный брат или сестра
 	3rd cousin
 
 Holiday (UK) = Vacation (US)
+
+Its architecture is good
