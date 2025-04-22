@@ -372,3 +372,5 @@ Hard = усердно
 
 Easter
 Easter cake
+
+To fast = поститься
