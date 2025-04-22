@@ -385,5 +385,8 @@ Addiction = зависимость
 Get my son dressed for school and start work
 
 
-I **always** sleep at night
-He usually plays video games on the weekends
+I **always** *sleep* at night
+He **usually** *plays* video games on the weekends
+
+I *am* **hardly ever** late
+They *are* **never** busy 
