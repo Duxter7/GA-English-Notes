@@ -381,3 +381,5 @@ Lungs = легкие
 Addiction = зависимость
 	Addict = наркоман; зависимый
 	Addicted to = зависим от
+
+Get my son dressed for school and start work
