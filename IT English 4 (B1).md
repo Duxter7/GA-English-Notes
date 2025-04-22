@@ -210,3 +210,8 @@ Keys to Monte Magnetto
 
 Cast a spell
 	Because I had cast a spell 
+
+## 22-04-2025
+
+Choose - chose - chosen
+Drink - drank - drunk
