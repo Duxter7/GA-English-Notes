@@ -364,3 +364,8 @@ Curd
 
 We brought some different food 
 
+Extra hours
+I worked overtime
+
+Hardly = едва
+Hard = усердно
