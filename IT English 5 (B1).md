@@ -350,3 +350,4 @@ Ceiling = потолок
 
 In complete darkness
 
+One hour of this procedure is like an 8 hour sleep
