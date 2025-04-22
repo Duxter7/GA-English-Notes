@@ -359,3 +359,7 @@ Schwa sound
 
 Cottage cheese
 Curd
+
+## 22-04-2025
+
+We brought some sweets 
