@@ -346,4 +346,6 @@ Salt with magnesium
 Sink = тонуть
 Ear plugs
 
-Cei
+Ceiling = потолок
+
+In complete darkness
