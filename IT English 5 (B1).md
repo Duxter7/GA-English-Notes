@@ -342,3 +342,8 @@ Floating procedure
 
 25 cm deep
 Salt with magnesium 
+
+Sink = тонуть
+Ear plugs
+
+Cei
