@@ -240,3 +240,8 @@ Change = пересаживаться
 Land = приземляться
 Due to = должен
 	You were due to arrive yesterday
+Arrival time = время прибытия
+Departure time = время вылета
+
+Arrivals
+Departures
