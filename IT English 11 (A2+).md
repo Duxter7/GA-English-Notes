@@ -238,3 +238,5 @@ Fly out = вылетать
 Got in / arrive = прибывать
 Change = пересаживаться
 Land = приземляться
+Due to = должен
+	You were due to arrive yesterday
