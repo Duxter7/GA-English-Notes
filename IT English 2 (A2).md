@@ -384,3 +384,8 @@ What were you doing last night?
 
 *What* **do you like**?
 *How often* **do you speak** <u>in English</u>
+
+Boat = лодка
+Ship = корабль
+Raft = плот
+
