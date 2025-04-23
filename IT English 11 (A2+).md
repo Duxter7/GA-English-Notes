@@ -228,4 +228,5 @@ Aisle seat = место в проходе
 Exit row seat = место у аварийного выхода
 
 Iceland
-Island 
+Island = остров
+Isle 
