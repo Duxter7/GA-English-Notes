@@ -370,3 +370,6 @@ I **am** *usually* late
 
 I work hard != I **hardly** work
 
+Rarely = seldom
+
+I always work in the morning
