@@ -328,3 +328,7 @@ Arrivals
 Delay
 Boarding pass
 
+Window seat
+Middle seat
+Aisle seat
+
