@@ -236,4 +236,5 @@ Take off = взлетать
 Delay = задержка
 Fly out = вылетать
 Got in / arrive = прибывать
-Change = пересадка
+Change = пересаживаться
+Land = приземляться
