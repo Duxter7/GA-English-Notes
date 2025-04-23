@@ -316,3 +316,7 @@ Delay = задержка
 Fly out = вылетать
 Got in = прилететь
 Change = пересадка
+Land = приземлиться
+Due to arrive = должен прибыть
+Arrival time = время прибытия
+Dep
