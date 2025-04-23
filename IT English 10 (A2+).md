@@ -1,4 +1,5 @@
 
+
 Something in common = что-то общее
 
 What do you do?
@@ -303,4 +304,8 @@ I wasn't repairing my car when my son called me to eat because I had to buy a ne
 I'm fasting right now
 
 **Easter** = пасха
+
+## 23-04-2025
+
+GOAT = greatest of all times
 
