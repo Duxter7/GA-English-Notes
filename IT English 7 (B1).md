@@ -231,3 +231,7 @@ Reckless
 Ladder
 Staircase
 
+## 23-04-2025
+
+I couldn't teach yesterday because my car had stopped working
+
