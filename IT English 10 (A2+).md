@@ -311,4 +311,6 @@ GOAT = greatest of all times
 **It depends on** the distance
 
 A flight = полет
-Take off = вылетать
+Take off = трогается с земли (отправляется)
+Delay = задержка
+Fly out = вылетать
