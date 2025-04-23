@@ -247,3 +247,5 @@ Arrivals
 Departures
 
 Check-in counter / table
+
+Hand luggage / carry-on
