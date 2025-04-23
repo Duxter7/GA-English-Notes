@@ -236,3 +236,6 @@ Staircase
 I couldn't teach yesterday because my car had stopped working
 
 I woke up at 7, I opened the fridge, I had breakfast
+
+
+When he arrived home, I was cooking dinner
