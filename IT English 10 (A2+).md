@@ -332,3 +332,5 @@ Window seat
 Middle seat
 Aisle seat
 
+Look after = присматривать 
+Pay attention 
