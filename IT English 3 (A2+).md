@@ -141,3 +141,6 @@ Backpack (US) = rucksack (UK)
 Purse = клатч
 
 Expire = истекать
+
+Kingdoms
+repulcis 
