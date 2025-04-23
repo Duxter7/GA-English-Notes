@@ -245,3 +245,5 @@ Departure time = время вылета
 
 Arrivals
 Departures
+
+Check-in counter / table
