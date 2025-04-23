@@ -248,4 +248,4 @@ Departures
 
 Check-in counter / table
 
-Hand luggage / carry-on
+a hand luggage / a carry-on
