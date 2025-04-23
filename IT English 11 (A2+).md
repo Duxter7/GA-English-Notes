@@ -230,3 +230,7 @@ Exit row seat = место у аварийного выхода
 Iceland
 Island = остров
 Isle 
+
+Flight = перелет
+Take off = взлетать
+Delay = задержка
