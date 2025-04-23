@@ -365,3 +365,8 @@ He *always* **eats** pizza
 
 He **is** *always* busy
 I **am** *usually* late
+
+## 23-04-2025
+
+I work hard != I **hardly** work
+
