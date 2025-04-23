@@ -225,4 +225,7 @@ I get tired
 Window seat
 Middle seat
 Aisle seat = место в проходе
-Ext 
+Exit row seat = место у аварийного выхода
+
+Iceland
+Island 
