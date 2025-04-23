@@ -140,4 +140,4 @@ People spent a lot of time (waste) on finding the parking place
 Backpack (US) = rucksack (UK)
 Purse = клатч
 
-
+Expire = истекать
