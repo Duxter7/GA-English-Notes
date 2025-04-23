@@ -257,4 +257,6 @@ I see no point in wasting my time on watching these movies
 
 If it's an anime by some particular producer
 
-There must be = there has to be 
+There must be = there has to be
+
+Lore = лор
