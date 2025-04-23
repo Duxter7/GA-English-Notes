@@ -221,3 +221,8 @@ While I was studying English my colleagues wrote me a letter
 I got angry
 I got hungry
 I get tired
+
+Window seat
+Middle seat
+Aisle seat = место в проходе
+Ext 
