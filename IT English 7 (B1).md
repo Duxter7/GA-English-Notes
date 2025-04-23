@@ -241,3 +241,5 @@ I woke up at 7, I opened the fridge, I had breakfast
 When he arrived home, I was cooking dinner because I had forgotten to do it earlier and the reason it happened was that I had been watching TV all day
 
 I had been embarrassed  
+
+When I was sleeping, my alarm rang because I had set it to 7 A
