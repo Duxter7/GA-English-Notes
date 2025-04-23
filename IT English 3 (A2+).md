@@ -143,4 +143,7 @@ Purse = клатч
 Expire = истекать
 
 Kingdoms
-repulcis 
+Republics 
+States
+Emirates
+Federation
