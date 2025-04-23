@@ -381,3 +381,6 @@ I don't have money = I have no money
 I don't know anyone = I know no one = I know nobody 
 
 What were you doing last night?
+
+*What* **do you like**?
+*How often* **do you speak** <u>in English</u>
