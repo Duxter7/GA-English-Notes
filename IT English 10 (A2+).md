@@ -310,3 +310,5 @@ I'm fasting right now
 GOAT = greatest of all times
 **It depends on** the distance
 
+A flight = полет
+Take off = вылетать
