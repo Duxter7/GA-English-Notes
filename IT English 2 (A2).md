@@ -398,4 +398,5 @@ My Indian colleague *always* **talks** to me
 My boss **is** *often* busy
 
 He **never** works
-
+I don't have money = I have no money
+He doesn't know 
