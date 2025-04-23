@@ -393,3 +393,5 @@ Mold = плесень
 
 I hardly work 
 I work hard
+
+My Indian colleague *always* **talks** to me
