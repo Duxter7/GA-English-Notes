@@ -320,3 +320,5 @@ Land = приземлиться
 Due to arrive = должен прибыть
 Arrival time = время прибытия
 Departure = отправление
+
+Customs
