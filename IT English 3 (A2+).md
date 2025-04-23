@@ -136,3 +136,5 @@ Can = мочь / уметь
 Might = 50 на 50
 
 People spent a lot of time (waste) on finding the parking place
+
+Backpack (US) = rucksack (UK)
