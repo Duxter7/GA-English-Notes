@@ -322,3 +322,9 @@ Arrival time = время прибытия
 Departure = отправление
 
 Customs
+Security 
+Departure lounge 
+Arrivals 
+Delay
+Boarding pass
+
