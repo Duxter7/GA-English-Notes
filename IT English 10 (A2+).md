@@ -308,4 +308,5 @@ I'm fasting right now
 ## 23-04-2025
 
 GOAT = greatest of all times
+**It depends on** the distance
 
