@@ -254,3 +254,5 @@ Con = жулик
 Value = ценность
 
 I see no point in wasting my time on watching these movies
+
+If it's an anime of some produc
