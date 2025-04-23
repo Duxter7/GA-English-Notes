@@ -400,3 +400,6 @@ My boss **is** *often* busy
 He **never** works
 I don't have money = I have no money
 He doesn't know anybody = He knows no one / nobody
+
+I have no friends
+
