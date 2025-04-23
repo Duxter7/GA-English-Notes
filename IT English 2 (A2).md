@@ -390,3 +390,6 @@ Ship = корабль
 Raft = плот
 
 Mold = плесень
+
+I hardly work 
+I work hard
