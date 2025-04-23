@@ -129,6 +129,8 @@ An aisle seat
 
 ## 23-04-2025
 
-Near g
 
-ann
+Announcement = объявление
+
+Can = мочь / уметь
+Might = 50 на 50
