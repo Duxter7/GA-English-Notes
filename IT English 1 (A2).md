@@ -389,3 +389,26 @@ For me it's not true that I don't like being alone
 
 He **is** *always* busy
 He *always* **works**
+
+23-04-2025
+
+I work hard != I **hardly** work
+
+Rarely = seldom
+
+I always work in the morning
+My Indian colleague **never** listen**s** to me because he **is** *often* busy
+
+He is never busy = ~~he's not never busy~~
+My boss doesn't know anything = My boss knows nothing
+I don't have money = I have no money
+I don't know anyone = I know no one = I know nobody 
+
+What were you doing last night?
+
+*What* **do you like**?
+*How often* **do you speak** <u>in English</u>
+
+Boat = лодка
+Ship = корабль
+Raft = плот
