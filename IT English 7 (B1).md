@@ -251,4 +251,6 @@ Thief
 Pickpocket
 Con = жулик
 
-М
+Value = ценность
+
+I see no point in wasting my time on watching these movies
