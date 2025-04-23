@@ -378,3 +378,4 @@ My Indian colleague **never** listen**s** to me because he **is** *often* busy
 He is never busy = ~~he's not never busy~~
 My boss doesn't know anything = My boss knows nothing
 I don't have money = I have no money
+I don't know anyone = I know no one = I know nobody 
