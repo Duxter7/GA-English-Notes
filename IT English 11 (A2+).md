@@ -234,3 +234,6 @@ Isle
 Flight = перелет
 Take off = взлетать
 Delay = задержка
+Fly out = вылетать
+Got in / arrive = прибывать
+Change = пересадка
