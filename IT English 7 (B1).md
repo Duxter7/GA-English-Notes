@@ -250,3 +250,5 @@ Robber
 Thief
 Pickpocket
 Con = жулик
+
+М
