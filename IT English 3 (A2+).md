@@ -151,3 +151,7 @@ Federation
 The students are late. I can't teach
 
 Students don't often sleep enough
+
+Chocolate
+Vegetable
+Comfortable 
