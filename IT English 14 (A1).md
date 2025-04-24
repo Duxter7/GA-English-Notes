@@ -547,3 +547,5 @@ Quarter = четверть
 
 Five **past** nine
 Quarter **to** twelve
+Ten **past** nine
+Two **to** two 
