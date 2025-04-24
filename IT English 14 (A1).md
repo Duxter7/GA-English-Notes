@@ -554,4 +554,7 @@ Twenty **past** two
 
 One in the morning
 
-Midda
+Midday = Noon
+Midnight
+
+12
