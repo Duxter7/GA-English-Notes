@@ -259,4 +259,6 @@ Suggest / ask
 
 If it's a good way of storytelling or not / whether it's a good way of storytelling or not
 
-We've just become f
+We've just become friends
+
+Become - became - become
