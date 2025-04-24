@@ -359,3 +359,7 @@ I went to the garage and I remembered that I had forgotten the keys for my car
 Tear - tore - torn = порвать
 
 I forgot my laptop at home before and that's why I couldn't teach anyone
+
+## 24-04-2025
+
+When I was learning 
