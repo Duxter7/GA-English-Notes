@@ -238,4 +238,5 @@ We had to meet with the supplier because we hadn't ordered anything
 
 I checked WiFi connection because the worker hadn't set one access point
 
-I 
+When I came to work I decided to make coffee because I hadn't made it at home
+
