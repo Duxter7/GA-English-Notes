@@ -265,3 +265,5 @@ Become - became - become
 
 Laws = закон
 Time zone = часовой пояс
+
+Pacifier = dummy 
