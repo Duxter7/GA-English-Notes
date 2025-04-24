@@ -527,3 +527,10 @@ Its = его / ее (для неодушевленных)
 Holiday (UK) = vacation (US)
 
 Last name = surname
+
+## 24-04-2025
+
+Quit the company 
+Left the company 
+
+Leave - left - left
