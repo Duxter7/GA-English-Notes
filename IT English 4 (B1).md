@@ -241,3 +241,7 @@ I checked WiFi connection because the worker hadn't set one access point
 When I came to work I decided to make coffee because I hadn't made it at home
 
 I realized that I hadn't done my work and that's why I had to do it in the evening
+
+When I woke this morning my phone was discharged because I hadn't plugged in the charger
+
+Today I was late had beenn
