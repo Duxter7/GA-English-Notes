@@ -570,5 +570,5 @@ I have lunch **at** quarter past one
 
 Go to sleep
 Go to bed
-
-Wake up - woke up
+Fall asleep = засыпать
+Wake up - woke up - woken up = просыпаться
