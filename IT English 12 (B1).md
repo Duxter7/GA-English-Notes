@@ -262,3 +262,6 @@ If it's a good way of storytelling or not / whether it's a good way of storytell
 We've just become friends
 
 Become - became - become
+
+Laws = закон
+Time zone = часовой пояс
