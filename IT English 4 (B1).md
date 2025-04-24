@@ -252,3 +252,4 @@ Today I was walking to my work because my tram had broken
 
 I bought my dinner because yesterday I had forgotten to cook my dinner
 
+Make someone = заставлять кого-то
