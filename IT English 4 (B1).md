@@ -234,4 +234,6 @@ Black mirror
 
 I've just seen him
 
-We had to meet with the supplier because we hadn't 
+We had to meet with the supplier because we hadn't ordered anything
+
+I checked WiFi connection be
