@@ -558,3 +558,6 @@ Midday = Noon
 Midnight
 
 12 = 12.00
+
+12 AM 
+12 PM
