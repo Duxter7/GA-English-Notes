@@ -233,3 +233,5 @@ Black mirror
 ## 24-04-2025
 
 I've just seen him
+
+We had to meet with the supplier because we hadn't 
