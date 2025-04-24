@@ -247,3 +247,7 @@ When I woke this morning my phone was discharged because I hadn't plugged in the
 Today I was late had been waiting for my taxi to work for a long time
 
 I was hungry in the morning because I had forgotten to eat at home
+
+Today I was walking to my work because my tram had broken
+
+I bought my dinner 
