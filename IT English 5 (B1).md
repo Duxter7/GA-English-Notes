@@ -369,3 +369,4 @@ When I went fishing I had gotten up early = I got up early and then I went fishi
 When I started work with foreign employees I hadn't known many nuances
 
 On Tuesday our virtual machines did an unexcepted shutdown because our ACs hadn't been working
+
