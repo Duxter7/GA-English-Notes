@@ -396,4 +396,5 @@ I know nothing = I don't know anything
 
 ## 24-04-2025
 
-C
+Car maintenance = ТО
+Tires = шины
