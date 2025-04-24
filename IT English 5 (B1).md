@@ -364,4 +364,6 @@ I forgot my laptop at home before and that's why I couldn't teach anyone
 
 When I was learning English before I made a lot of mistakes because I hadn't studied the grammar
 
-When I went fishing I had gotten up early = 
+When I went fishing I had gotten up early = I got up early and then I went fishing
+
+When I started work with foreign employees 
