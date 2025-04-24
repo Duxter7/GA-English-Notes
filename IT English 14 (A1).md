@@ -536,3 +536,6 @@ Left the company
 Leave - left - left
 
 ![[Telling time.png]]
+
+Oh = 0 = zero
+
