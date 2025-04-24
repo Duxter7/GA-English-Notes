@@ -372,3 +372,4 @@ On Tuesday our virtual machines did an unexcepted shutdown because our ACs hadn'
 
 ---
 
+She decided to pass the German test even though she hadn't been speaking 
