@@ -362,4 +362,5 @@ I forgot my laptop at home before and that's why I couldn't teach anyone
 
 ## 24-04-2025
 
-When I was learning 
+When I was learning English before I made a lot of mistakes because I hadn't studied the grammar
+
