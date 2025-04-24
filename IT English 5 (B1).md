@@ -376,3 +376,5 @@ She decided to pass the German test even though she hadn't been speaking German 
 
 I haven't finished my tasks 
 I didn't finish my tasks
+
+This - these
