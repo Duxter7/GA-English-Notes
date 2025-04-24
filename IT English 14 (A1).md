@@ -534,3 +534,5 @@ Quit the company
 Left the company 
 
 Leave - left - left
+
+![[Telling time.png]]
