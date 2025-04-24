@@ -267,3 +267,4 @@ Laws = закон
 Time zone = часовой пояс
 
 Pacifier = dummy 
+Bimbo
