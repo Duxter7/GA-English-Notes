@@ -542,4 +542,8 @@ Oh = 0 = zero
 Past = "спустя"
 To = "без"
 
+Half = половина
+Quarter = четверть
+
 Five **past** nine
+Quarter **to** twelve
