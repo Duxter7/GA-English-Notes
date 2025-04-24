@@ -370,3 +370,5 @@ When I started work with foreign employees I hadn't known many nuances
 
 On Tuesday our virtual machines did an unexcepted shutdown because our ACs hadn't been working
 
+---
+
