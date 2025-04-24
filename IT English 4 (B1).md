@@ -257,3 +257,5 @@ Make someone = заставлять кого-то
 I haven't seen him today
 I didn't see him today
 
+He's just left
+
