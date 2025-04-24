@@ -567,3 +567,8 @@ Have lunch
 Have dinner
 
 I have lunch **at** quarter past one
+
+Go to sleep
+Go to bed
+
+Wake up - woke up
