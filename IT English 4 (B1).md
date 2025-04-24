@@ -244,4 +244,6 @@ I realized that I hadn't done my work and that's why I had to do it in the eveni
 
 When I woke this morning my phone was discharged because I hadn't plugged in the charger
 
-Today I was late had beenn
+Today I was late had been waiting for my taxi to work for a long time
+
+I was hungry in the morning because I had forgotten to eat at home
