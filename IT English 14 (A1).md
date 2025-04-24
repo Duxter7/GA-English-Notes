@@ -561,3 +561,9 @@ Midnight
 
 12 AM 
 12 PM
+
+Have breakfast
+Have lunch
+Have dinner
+
+I have lunch at quarter past 
