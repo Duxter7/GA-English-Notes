@@ -557,4 +557,4 @@ One in the morning
 Midday = Noon
 Midnight
 
-12
+12 = 12.00
