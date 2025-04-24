@@ -540,4 +540,6 @@ Leave - left - left
 Oh = 0 = zero
 
 Past = "спустя"
-To = б
+To = "без"
+
+Five **past** nine
