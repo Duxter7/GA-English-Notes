@@ -256,3 +256,5 @@ What to call it
 The bottom of the page
 Online media
 Suggest / ask
+
+If it's a good way of storytelling or not / whether it's a good way of storytelling or not
