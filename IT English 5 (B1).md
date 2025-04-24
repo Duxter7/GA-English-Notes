@@ -366,4 +366,6 @@ When I was learning English before I made a lot of mistakes because I hadn't stu
 
 When I went fishing I had gotten up early = I got up early and then I went fishing
 
-When I started work with foreign employees 
+When I started work with foreign employees I hadn't known many nuances
+
+On Tuesday Virtual Machine 
