@@ -519,3 +519,8 @@ Holiday (UK) = Vacation (US)
 Its architecture is good
 
 its **!=** it's 
+
+## 25-04-2025
+
+Let's go to the movies
+Let's go to the cinema
