@@ -559,6 +559,8 @@ HTTPS - Hyper Text Transfer Protocol Secure
 DNS - Domain Name System
 RTP - Real-time Transport Protocol
 P2P - Peer To Peer
+WWW - World Wide Web
 
 CPU - Central Processing Unit
 PSU - Power Supply Unit
+UPS - Uninterruptable Power Supply
