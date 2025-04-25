@@ -554,4 +554,5 @@ Child - children
 Description
 Describe 
 
-SSL - 
+SSL - Secure Sockets Layer
+HTTPS - hyper transfer 
