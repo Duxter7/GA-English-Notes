@@ -282,4 +282,8 @@ Emperor = император
 
 Screen time
 
-Sometimes I find interesting films (movies) after watching it I look for (search) a book the movies was based on
+Sometimes I find interesting films (movies) after watching it I look for (search) a book the movie was based on
+
+At the same time
+
+Where there is a lot 
