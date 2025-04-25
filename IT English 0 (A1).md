@@ -556,4 +556,5 @@ Describe
 
 SSL - Secure Sockets Layer
 HTTPS - Hyper Text Transfer Protocol Secure
-DNS - 
+DNS - Domain Name System
+RTP - Remote 
