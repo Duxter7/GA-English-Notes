@@ -273,3 +273,9 @@ Teller
 Stretch ceiling / stretched ceiling
 
 Over time = спустя время
+
+Baron = барон
+Count = граф
+Duke = герцог
+King = король
+Emperor = император
