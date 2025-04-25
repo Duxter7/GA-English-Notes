@@ -555,4 +555,5 @@ Description
 Describe 
 
 SSL - Secure Sockets Layer
-HTTPS - hyper transfer 
+HTTPS - Hyper Text Transfer Protocol Secure
+DNS - 
