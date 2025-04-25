@@ -338,5 +338,7 @@ Pay attention
 ## 25-04-2025
 
 I haven't planned anything yet
+I don't have plans for the weekend because I don't have money
 
-I don't have plans for the weekend because
+I have many plans
+I 
