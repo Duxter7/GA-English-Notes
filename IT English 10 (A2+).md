@@ -342,3 +342,5 @@ I don't have plans for the weekend because I don't have money
 
 I have many plans
 Pack clothes
+
+I go the gym every day
