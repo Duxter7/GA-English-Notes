@@ -279,3 +279,7 @@ Count = граф
 Duke = герцог
 King = король
 Emperor = император
+
+Screen time
+
+I can find
