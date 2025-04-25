@@ -307,4 +307,4 @@ It takes
 Took a loan
 Interest rate
 
-I see a person 
+I see a person sitting on the table
