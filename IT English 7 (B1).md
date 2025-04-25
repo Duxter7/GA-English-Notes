@@ -271,3 +271,5 @@ Teller
 ## 25-04-2025
 
 Stretch ceiling / stretched ceiling
+
+Over time = спустя время
