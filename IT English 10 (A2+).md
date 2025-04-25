@@ -334,3 +334,9 @@ Aisle seat
 
 Look after = присматривать 
 Pay attention 
+
+## 25-04-2025
+
+I haven't planned anything yet
+
+I don't have plans for the weekend because
