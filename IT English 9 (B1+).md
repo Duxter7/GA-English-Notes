@@ -306,3 +306,5 @@ It takes
 
 Took a loan
 Interest rate
+
+I see a person 
