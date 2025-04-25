@@ -304,4 +304,5 @@ It depends on people's comments
 
 It takes
 
-Took a loan in
+Took a loan
+Interest rate
