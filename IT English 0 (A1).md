@@ -548,3 +548,5 @@ At 6
 Our room is 603
 
 Man - men
+Woman - women
+Child-
