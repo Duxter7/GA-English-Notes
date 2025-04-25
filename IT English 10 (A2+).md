@@ -363,4 +363,4 @@ Where are the students?
 
 Chocolate [чаклэт]
 Vegetable [веджтбл]
-Comfortable [камфт]
+Comfortable [камфтбл]
