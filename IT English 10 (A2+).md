@@ -360,3 +360,7 @@ One in the morning
 12 PM
 
 Where are the students?
+
+Chocolate [чаклэт]
+Vegetable [веджтбл]
+Comfortable [камфт]
