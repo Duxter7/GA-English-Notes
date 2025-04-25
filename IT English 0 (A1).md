@@ -536,3 +536,5 @@ Five **past** three
 *Half* **past** eight
 Twenty-nine **to** twelve
 Two **to** two
+Ten **past** nine
+Twenty-five 
