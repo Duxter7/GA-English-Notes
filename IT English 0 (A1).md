@@ -531,4 +531,6 @@ I begin my work **at** 9
 My work ends **at** 17
 I finish my work **at** 18
 
-five past three
+Five **past** three
+*Quarter* **to** nine 
+*Half* **past** eight
