@@ -344,3 +344,9 @@ I have many plans
 Pack clothes
 
 I go the gym every day
+
+State
+Kingdom
+Federation
+Republic
+Emirate
