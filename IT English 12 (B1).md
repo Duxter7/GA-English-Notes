@@ -292,4 +292,4 @@ Subject + haven't / hasn't + V3
 	I haven't had a PC before
 **?**
 Have / has + subject + V3
-	
+	Has she just come home?
