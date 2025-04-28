@@ -593,3 +593,4 @@ Our
 
 Man - men
 Woman - women
+Child - children
