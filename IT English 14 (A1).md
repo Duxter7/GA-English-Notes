@@ -584,4 +584,7 @@ His
 Her
 	Her car is very expensive
 Its
-	Its pillows (cushions) are lost; architecture
+	Its pillows (cushions) are lost; its architecture is really beautiful 
+His
+My
+Your
