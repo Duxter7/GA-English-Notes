@@ -583,3 +583,5 @@ His
 	His boss is very angry because he came to work at twenty to eight
 Her
 	Her car is very expensive
+Its
+	Pillow (cushion)
