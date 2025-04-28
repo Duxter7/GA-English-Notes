@@ -580,4 +580,6 @@ How is it going?
 How are you? 
 
 His
-	His boss is very angry because he
+	His boss is very angry because he came to work at twenty to eight
+Her
+	Her car is very expensive
