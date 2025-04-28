@@ -293,3 +293,7 @@ Subject + haven't / hasn't + V3
 **?**
 Have / has + subject + V3
 	Has she just come home?
+
+
+I did all my tasks today
+I have done all my tasks today
