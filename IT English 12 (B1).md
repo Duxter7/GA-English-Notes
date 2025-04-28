@@ -278,4 +278,5 @@ Comfortable
 I'd heard these sentences before I knew the grammar
 
 I didn't know what to do because I had promised to help my dad
-I went to the park yesterday 
+I went to the park yesterday because I had read a book
+I went to the gym 
