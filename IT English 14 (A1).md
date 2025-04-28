@@ -573,3 +573,8 @@ Go to bed
 Fall asleep = засыпать
 Wake up - woke up - woken up = просыпаться
 
+## 28-04-2025
+
+How are you doing?
+How is it going?
+How are you? 
