@@ -597,3 +597,5 @@ Child - children
 Person - people
 
 No Man's sky
+
+We have two people in the group
