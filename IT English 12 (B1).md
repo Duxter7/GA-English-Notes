@@ -275,4 +275,6 @@ Comfortable
 
 ## 28-04-2025
 
-I 
+I'd heard these sentences before I knew the grammar
+
+I didn't know what to do because I had promised to help my dad
