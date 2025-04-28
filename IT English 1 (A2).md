@@ -416,3 +416,6 @@ Raft = плот
 ## 28-04-2025
 
 I don't forget anything = I forget nothing
+
+Why do you like it?
+Why don't you like it?
