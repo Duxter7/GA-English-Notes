@@ -280,3 +280,6 @@ I'd heard these sentences before I knew the grammar
 I didn't know what to do because I had promised to help my dad
 I went to the park yesterday because I had read a book
 I had gone to the gym before I had breakfast
+
+I worked at Gold Apple for 2 years
+I have worked at Gold Apple for 2 years
