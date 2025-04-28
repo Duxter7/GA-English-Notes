@@ -297,3 +297,5 @@ Have / has + subject + V3
 
 I did all my tasks today
 I have done all my tasks today
+
+<u>The last time I went </u> **was** in 2019
