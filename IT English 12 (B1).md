@@ -284,3 +284,8 @@ I had gone to the gym before I had breakfast
 I worked at Gold Apple for 2 years
 I have worked at Gold Apple for 2 years
 
+**+**
+Subject + have / has + V3
+	I have just eaten
+**-**
+Subject + haven't / hasn't + V3
