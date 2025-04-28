@@ -594,3 +594,6 @@ Our
 Man - men
 Woman - women
 Child - children
+Person - people
+
+No Man's sky
