@@ -289,3 +289,4 @@ Subject + have / has + V3
 	I have just eaten
 **-**
 Subject + haven't / hasn't + V3
+	I haven't had
