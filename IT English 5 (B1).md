@@ -396,3 +396,5 @@ I lived in Moscow for 5 years but I had never traveled to a foreign country
 
 I haven't been to Moscow in 5 years
 I didn't have
+
+I was happy when I was young. I was fixing PCs every day. But then I remembered that I had forgotten to do something important
