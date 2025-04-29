@@ -422,3 +422,6 @@ I don't **often** study
 I'**m not** usually sad
 
 Utility bill
+
+Gas - gasoline (US)
+Pet
