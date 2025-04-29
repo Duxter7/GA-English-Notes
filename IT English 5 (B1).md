@@ -387,3 +387,5 @@ I'm thinking = я раздумываю
 Depth 
 
 Dive - dove / dived - dived
+
+Drone
