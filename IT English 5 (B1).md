@@ -381,5 +381,5 @@ This - these
 
 ## 29-04-2025
 
-I think
-I'm thinking 
+I think = я считаю
+I'm thinking = я раздумываю
