@@ -274,3 +274,9 @@ It has been done
 I had done my homework when they came
 
 Fancy = 
+
+Chips = картошка фри (UK)
+Fries = картошка фри (US)
+
+Chips = чипсы (US)
+Crisps = чипсы (UK)
