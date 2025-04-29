@@ -394,3 +394,5 @@ I got delayed because I had forgotten the keys
 
 I lived in Moscow for 5 years but I had never traveled to a foreign country
 
+I haven't been to Moscow in 5 years
+I didn't have
