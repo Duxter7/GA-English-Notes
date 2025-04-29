@@ -597,3 +597,5 @@ K8S
 RAID
 RDP
 GNU
+
+**Fancy** something / someone = to like someone / something
