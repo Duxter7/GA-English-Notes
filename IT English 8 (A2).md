@@ -416,7 +416,7 @@ Never - hardly ever - rarely / seldom - sometimes - often - usually - always
 I **am** *usually* busy at work
 I *always* **work** in the morning
 
-
 Usually I drink coffee in the morning
 
 I don't **often** study
+I'**m not** usually sad
