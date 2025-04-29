@@ -386,4 +386,4 @@ I'm thinking = я раздумываю
 
 Depth 
 
-Dive - dove / dived - diven
+Dive - dove / dived - dived
