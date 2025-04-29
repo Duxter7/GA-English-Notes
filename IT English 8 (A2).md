@@ -433,6 +433,7 @@ Why don't you work on the weekends?
 
 Downstairs
 Upstairs
-
-Stairs
-St
+ 
+Stairs = ступеньки (лестница)
+Staircase = лестница
+Ladder = стремянка
