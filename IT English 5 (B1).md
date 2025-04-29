@@ -411,3 +411,6 @@ Fancy someone / something
 Idle 
 
 Parcel 
+
+Handsome
+Beautiful
