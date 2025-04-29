@@ -389,3 +389,5 @@ Depth
 Dive - dove / dived - dived
 
 My drone crashed because I hadn't checked it before the flight
+
+I got delayed 
