@@ -399,4 +399,5 @@ I didn't have
 
 I was happy when I was young. I was fixing PCs every day. But then I remembered that I had forgotten to do something important
 
-Before traveling to Malta, 
+Before traveling to Malta, I had decided to study English
+
