@@ -411,5 +411,6 @@ Miscellaneous = разного рода вещи (мелкие)
 
 ## 29-04-2025
 
-Never - hardly ever - rarely / seldom - sometimes
+Never - hardly ever - rarely / seldom - sometimes - often - usually - always
 
+I am usually busy at work
