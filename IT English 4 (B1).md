@@ -268,3 +268,7 @@ I had never been to Dubai before I moved to Moscow
 Do - did - done 
 
 It's done
+It's finished
+
+It has been done
+I had done my homework when they came
