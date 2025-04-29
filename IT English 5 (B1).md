@@ -390,4 +390,7 @@ Dive - dove / dived - dived
 
 My drone crashed because I hadn't checked it before the flight
 
-I got delayed 
+I got delayed because I had forgotten the keys
+
+I lived in Moscow for 5 years but I had never traveled to a foreign country
+
