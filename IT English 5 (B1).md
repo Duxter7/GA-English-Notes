@@ -383,3 +383,7 @@ This - these
 
 I think = я считаю
 I'm thinking = я раздумываю
+
+Depth 
+
+Dive - dove / dived - diven
