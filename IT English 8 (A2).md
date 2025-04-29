@@ -409,3 +409,7 @@ One in the morning
 
 Miscellaneous = разного рода вещи (мелкие) 
 
+## 29-04-2025
+
+Never - hardly ever - rarely / seldom - sometimes
+
