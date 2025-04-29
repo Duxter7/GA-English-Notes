@@ -402,4 +402,6 @@ I was happy when I was young. I was fixing PCs every day. But then I remembered 
 Before traveling to Malta, I had decided to study English
 
 He has just gone out 
-He has just 
+He has just left 
+
+Congratulations
