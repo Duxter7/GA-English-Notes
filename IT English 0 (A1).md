@@ -564,3 +564,7 @@ WWW - World Wide Web
 CPU - Central Processing Unit
 PSU - Power Supply Unit
 UPS - Uninterruptable Power Supply
+
+## 29-04-2025
+
+I did almost everything 
