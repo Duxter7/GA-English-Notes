@@ -186,4 +186,4 @@ Here
 Tough guy
 Tough cookie
 
-Gay 
+Why don't you like burgers? 
