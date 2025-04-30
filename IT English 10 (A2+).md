@@ -369,3 +369,6 @@ Comfortable [камфтбл]
 
 Borrow 
 Lend
+
+Tough guy 
+
