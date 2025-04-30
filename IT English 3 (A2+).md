@@ -167,3 +167,6 @@ Why don't you like it?
 
 Don't call me, Gigi
 Don't call me Gigi
+
+Borrow
+Lend
