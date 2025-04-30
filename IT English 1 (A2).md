@@ -429,3 +429,5 @@ This - these (это - эти)
 That - those (тот - те)
 
 Neighbor 
+
+Those clothes 

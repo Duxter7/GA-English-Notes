@@ -404,3 +404,8 @@ He doesn't know anybody = He knows no one / nobody
 I have no friends
 
 Time zone 
+
+## 30-04-2025
+
+This - these (это - эти)
+That - those (тот - те)
