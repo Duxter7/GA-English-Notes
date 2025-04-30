@@ -121,4 +121,5 @@ It is I who did
 
 Syllabus
 
-My
+My friends and I 
+
