@@ -184,4 +184,6 @@ Crisps
 Here
 
 Tough guy
-Tough 
+Tough cookie
+
+Gay 
