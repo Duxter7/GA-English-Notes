@@ -378,3 +378,4 @@ Why don't you work?
 Clear? Is that clear?
 
 Nobody uses my bike
+I forget nothing = I don't forget anything
