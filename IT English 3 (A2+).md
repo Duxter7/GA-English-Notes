@@ -165,4 +165,5 @@ Why don't you like it?
 
 ## 30-04-2025
 
-Don't call me, G
+Don't call me, Gigi
+Don't call me Gigi
