@@ -421,3 +421,7 @@ Why do you like it?
 Why don't you like it?
 
 No way = ни за что
+
+Tough guy
+Tough cookie
+
