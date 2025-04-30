@@ -364,3 +364,8 @@ Where are the students?
 Chocolate [чаклэт]
 Vegetable [веджтбл]
 Comfortable [камфтбл]
+
+## 30-04-2025
+
+Borrow 
+Lend
