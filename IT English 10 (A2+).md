@@ -372,3 +372,5 @@ Lend
 
 Tough guy 
 
+Why do you like it?
+Why don't you work?
