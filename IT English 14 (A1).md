@@ -629,4 +629,3 @@ IT = Information technology
 API = application programming interface
 QA = quality assurance
 MRP = material resource planning
-GPT 
