@@ -198,3 +198,7 @@ Owe
 
 Term = термин
 Practice makes perfect
+
+CIO
+CTO
+CEO
