@@ -627,4 +627,6 @@ WWW = world wide web
 BPMN = Business Process Model and Notation
 IT = Information technology
 API = application programming interface
-QA = 
+QA = quality assurance
+MRP = material resource planning
+GPT 
