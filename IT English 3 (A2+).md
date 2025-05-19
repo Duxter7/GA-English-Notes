@@ -202,3 +202,6 @@ Practice makes perfect
 CIO
 CTO
 CEO
+
+Characters
+Symbols
