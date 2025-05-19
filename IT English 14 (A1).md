@@ -603,5 +603,7 @@ We have two people in the group
 ## 19-05-2025
 
 Guest = гость
-Uncle = 
+Uncle = дядя
 Aunt = тетя
+
+A lot of **relatives**
