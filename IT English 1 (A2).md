@@ -450,3 +450,5 @@ End = заканчивать
 But sometimes it finishes / ends at 6 PM 
 
 **I** start at 9 and **my work** finishes at 6
+
+I start and finish like Nastya 
