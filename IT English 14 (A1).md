@@ -599,3 +599,9 @@ Person - people
 No Man's sky
 
 We have two people in the group
+
+## 19-05-2025
+
+Guest = гость
+Uncle = 
+Aunt = тетя
