@@ -457,5 +457,7 @@ I start and finish like Nastya
 8.55 = five *to* nine
 8.30 = **half** *past* eight
 
-Two to two
-Five past seven
+Two **to** two
+Five **past** seven
+Twenty-five **to** twelve
+Quarter **past** nine 
