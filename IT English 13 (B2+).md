@@ -74,3 +74,5 @@ Ad - advert - advertisement
 
 ## 19-05-2025
 
+Not necessary
+Not necessarily 
