@@ -209,3 +209,8 @@ Symbols
 It's not worth a lot
 
 It works well
+
+
+Aspect Ratio
+4:3
+16:9
