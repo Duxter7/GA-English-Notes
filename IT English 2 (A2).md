@@ -413,3 +413,6 @@ That - those (тот - те)
 ## 19-05-2025
 
 Kilometers
+
+Shit happens
+Life got in the way 
