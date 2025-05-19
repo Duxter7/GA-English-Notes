@@ -461,5 +461,5 @@ Two **to** two
 Five **past** seven
 Twenty-five **to** twelve
 Quarter **past** nine 
-Twenty-nine to six
-Two past 
+Twenty-nine **to** six
+Two **past** one 
