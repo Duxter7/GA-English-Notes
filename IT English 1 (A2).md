@@ -456,3 +456,5 @@ I start and finish like Nastya
 8.15 = fifteen *past* eight / eight fifteen / **quarter** *past* eight
 8.55 = five *to* nine
 8.30 = **half** *past* eight
+
+Two to two, too
