@@ -410,3 +410,6 @@ Time zone
 This - these (это - эти)
 That - those (тот - те)
 
+## 19-05-2025
+
+Kilometers
