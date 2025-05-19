@@ -418,3 +418,5 @@ Shit happens
 Life got in the way 
 
 Practice makes perfect
+
+Make sure = убеждаться; проверять
