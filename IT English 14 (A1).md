@@ -620,5 +620,8 @@ Drink - **drank** - drunk
 
 Running in the mountains
 
-SQL = structured query 
+SQL = structured query language
 HTTP = hypertext transfer protocol
+ERP = Enterprise resource planning
+WWW = world wide web
+
