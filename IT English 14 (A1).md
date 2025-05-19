@@ -617,3 +617,5 @@ I planned to rest but I was **forced** to work
 With pleasure (my pleasure)
 
 Drink - **drank** - drunk
+
+Hiking in the mountains
