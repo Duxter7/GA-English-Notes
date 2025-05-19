@@ -619,3 +619,6 @@ With pleasure (my pleasure)
 Drink - **drank** - drunk
 
 Running in the mountains
+
+SQL = structured query 
+HTTP = hypertext transfer protocol
