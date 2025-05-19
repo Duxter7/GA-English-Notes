@@ -197,4 +197,4 @@ Owe
 ## 19-05-2025
 
 Term = термин
-
+Practice makes perfect
