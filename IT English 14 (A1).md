@@ -634,3 +634,5 @@ What does it stand for? = what does it mean?
 
 Better = лучше
 Cheaper = дешевле
+Lighter = легче
+Heavy - heavier = тяжелее
