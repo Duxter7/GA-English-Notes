@@ -443,3 +443,4 @@ They didn't come to me for some help with English
 Something like that
 
 Schedule = расписание
+Attend = посещать
