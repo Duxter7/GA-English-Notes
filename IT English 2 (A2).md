@@ -423,3 +423,5 @@ Make sure = убеждаться; проверять
 
 What do you do?
 
+Passive income = пассивный 
+
