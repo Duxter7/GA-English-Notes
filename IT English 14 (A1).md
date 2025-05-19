@@ -629,3 +629,5 @@ IT = Information technology
 API = application programming interface
 QA = quality assurance
 MRP = material resource planning
+
+What does it stand for? = what does it mean?
