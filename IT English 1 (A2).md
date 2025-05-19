@@ -436,5 +436,3 @@ Those clothes
 
 How did you spend time on your vacation?
 How was your vacation?
-
-Diving 
