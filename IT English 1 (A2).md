@@ -435,4 +435,6 @@ Those clothes
 ## 19-05-2025
 
 How did you spend time on your vacation?
+
 How was your vacation?
+
