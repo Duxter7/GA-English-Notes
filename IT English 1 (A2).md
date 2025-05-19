@@ -446,3 +446,5 @@ Schedule = расписание
 Attend = посещать
 Begin = начинать
 End = заканчивать
+
+But sometimes it finishes / ends at 6 PM 
