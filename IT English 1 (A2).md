@@ -444,3 +444,7 @@ Something like that
 
 Schedule = расписание
 Attend = посещать
+Begin = начинать
+End = заканчивать
+
+Ants 
