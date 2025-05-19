@@ -631,3 +631,6 @@ QA = quality assurance
 MRP = material resource planning
 
 What does it stand for? = what does it mean?
+
+Better = лучше
+Cheaper = дешевле
