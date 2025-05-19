@@ -192,3 +192,5 @@ AR headset
 Aspect ratio = соотношение
 4:3
 16:9
+
+Home appliances = бытовые приборы
