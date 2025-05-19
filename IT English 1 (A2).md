@@ -453,4 +453,4 @@ But sometimes it finishes / ends at 6 PM
 
 I start and finish like Nastya 
 
-8.15 = 
+8.15 = fifteen past eight / eight fifteen / quarter past 
