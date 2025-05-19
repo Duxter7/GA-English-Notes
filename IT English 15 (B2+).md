@@ -186,3 +186,5 @@ Fizzy drinks
 ## 19-05-2025
 
 Color accuracy
+VR headset
+AR headset
