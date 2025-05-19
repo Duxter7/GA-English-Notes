@@ -624,4 +624,6 @@ SQL = structured query language
 HTTP = hypertext transfer protocol
 ERP = Enterprise resource planning
 WWW = world wide web
+BPMN = Business Process Model and Notation
+IT = Information technology
 
