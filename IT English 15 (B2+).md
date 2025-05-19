@@ -188,3 +188,7 @@ Fizzy drinks
 Color accuracy
 VR headset
 AR headset
+
+Aspect ratio = соотношение
+4:3
+16:9
