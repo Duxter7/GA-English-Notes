@@ -420,3 +420,5 @@ Life got in the way
 Practice makes perfect
 
 Make sure = убеждаться; проверять
+
+What do you do? = 
