@@ -127,3 +127,8 @@ My friends and I
 
 VR headset
 Augmented reality; Virtual reality
+
+Resolution
+
+
+4:3
