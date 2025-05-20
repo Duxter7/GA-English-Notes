@@ -609,3 +609,6 @@ Access denied
 
 Memory = оперативка
 Storage = хранилище
+
+Bad - worse = хуже
+Good - better = лучше
