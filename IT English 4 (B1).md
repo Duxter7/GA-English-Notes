@@ -291,3 +291,7 @@ There is / are
 
 Run a program
 Run an OS
+
+Thanks for nothing
+
+Atta girl 
