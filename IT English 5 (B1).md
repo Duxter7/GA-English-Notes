@@ -452,3 +452,4 @@ That's a pity = That's a shame
 	I got sick - That's a pity / that's a shame
 
 Memory = RAM 
+Storage = хранилище
