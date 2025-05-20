@@ -296,4 +296,3 @@ Thanks for nothing
 
 Atta girl 
 
-After 
