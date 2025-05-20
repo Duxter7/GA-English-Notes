@@ -444,3 +444,5 @@ Chaotic
 Too busy
 
 That's all
+
+Shish kebab = шашлык
