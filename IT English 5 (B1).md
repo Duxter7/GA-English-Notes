@@ -422,3 +422,4 @@ The fifth of November = November the fifth
 Power source 
 Solar panel
 Wind generator
+Water desalination
