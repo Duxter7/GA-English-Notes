@@ -449,4 +449,5 @@ Shish kebab = шашлык
 
 Schedule [скедьжюл] = расписание
 
-Beg
+Begin / Start
+Finish / End
