@@ -440,3 +440,5 @@ Ladder = стремянка
 
 ## 20-05-2025
 
+Chaotic
+Too busy
