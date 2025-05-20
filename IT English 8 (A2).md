@@ -457,8 +457,10 @@ Two **to** two
 Ten **past** ten
 Twenty-nine **to** nine
 One **past** twelve
-
+Quarter **to** three
 
 
 Half 
 Quarter
+
+7.05 
