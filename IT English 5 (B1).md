@@ -447,3 +447,6 @@ Eat the elephant one bite at a time
 Cut costs
 
 There is / are
+
+That's a pity = That's a shame
+	I got sick - That's a pity / that's a shame
