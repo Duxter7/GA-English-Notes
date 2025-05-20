@@ -436,3 +436,5 @@ Tone off
 Memo - memorandum 
 Agenda
 MOM 
+
+What are you offering?
