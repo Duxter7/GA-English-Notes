@@ -280,3 +280,9 @@ Fries = картошка фри (US)
 
 Chips = чипсы (US)
 Crisps = чипсы (UK)
+
+## 20-05-2025
+
+Windowsill = подоконник
+
+Before that I told my children
