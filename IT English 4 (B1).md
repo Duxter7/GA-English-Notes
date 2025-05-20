@@ -286,3 +286,5 @@ Crisps = чипсы (UK)
 Windowsill = подоконник
 
 Before that I told my children
+
+There is / are
