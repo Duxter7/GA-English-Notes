@@ -452,3 +452,5 @@ Schedule [скедьжюл] = расписание
 Begin / Start
 Finish / End
 
+Five **past** two
+Two to two 
