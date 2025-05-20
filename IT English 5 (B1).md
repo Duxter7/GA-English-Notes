@@ -438,3 +438,6 @@ Agenda
 MOM 
 
 What are you offering?
+
+Run a system
+Run an app
