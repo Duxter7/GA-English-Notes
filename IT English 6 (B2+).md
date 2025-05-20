@@ -129,6 +129,6 @@ VR headset
 Augmented reality; Virtual reality
 
 Resolution
-
-
+Aspect ratio
 4:3
+16:9
