@@ -453,4 +453,8 @@ Begin / Start
 Finish / End
 
 Five **past** two
-Two to two 
+Two **to** two
+
+
+Half 
+Quarter
