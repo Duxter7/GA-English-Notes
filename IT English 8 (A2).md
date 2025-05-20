@@ -454,6 +454,9 @@ Finish / End
 
 Five **past** two
 Two **to** two
+Ten **past** ten
+Twenty-nine **to** nine
+One **past** twelve
 
 
 Half 
