@@ -599,3 +599,8 @@ RDP
 GNU
 
 **Fancy** something / someone = to like someone / something
+
+## 20-05-2025
+
+Aspect Ratio = соотношение сторон
+Resolution = разрешение
