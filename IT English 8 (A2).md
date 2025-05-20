@@ -468,4 +468,4 @@ Quarter
 12 AM
 12 PM
 
-I work at Gold Apple / I work for 
+I work **at** Gold Apple / I work **for** Gold Apple
