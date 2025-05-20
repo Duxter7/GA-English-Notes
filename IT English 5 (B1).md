@@ -423,3 +423,5 @@ Power source
 Solar panel
 Wind generator
 Water desalination
+
+Business matters
