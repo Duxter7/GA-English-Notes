@@ -605,3 +605,7 @@ GNU
 Aspect Ratio = соотношение сторон
 Resolution = разрешение
 Access denied 
+
+
+Memory = оперативка
+Storage = хранилище
