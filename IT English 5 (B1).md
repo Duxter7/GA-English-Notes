@@ -453,3 +453,5 @@ That's a pity = That's a shame
 
 Memory = RAM 
 Storage = хранилище
+
+VR headset

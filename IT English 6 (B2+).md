@@ -123,3 +123,7 @@ Syllabus
 
 My friends and I 
 
+## 20-05-2025
+
+VR headset
+Augm
