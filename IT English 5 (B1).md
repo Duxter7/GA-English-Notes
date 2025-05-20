@@ -420,3 +420,5 @@ The fifth of November = November the fifth
 ## 20-05-2025
 
 Power source 
+Solar panel
+Wind generator
