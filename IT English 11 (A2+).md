@@ -277,3 +277,5 @@ Gerund
 	1. After swimming hard, I usually go to a bar
 3. Certain verbs
 	1. I like doing it; I hate sleeping every day
+
+That's a pity = that's a shame = как жаль
