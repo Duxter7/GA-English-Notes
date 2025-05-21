@@ -271,3 +271,5 @@ Staff
 Stuff = вещи
 
 Suggestion vs offer
+
+What are you offering? 
