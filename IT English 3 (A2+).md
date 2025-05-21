@@ -247,4 +247,6 @@ Network
 ---
 
 You *can* talk with Indians if you want to
-You don't have to work late
+You *don't have to* work late
+You *have to* / *must study* Chinese =
+
