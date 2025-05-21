@@ -483,3 +483,6 @@ What does it stand for?
 
 CCTV 
 CLI = command line interface
+USB = universal serial bus
+IP = internet protocol
+SIP = sou
