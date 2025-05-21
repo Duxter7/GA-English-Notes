@@ -410,5 +410,9 @@ Doing
 
 Gerund
 1. Subject 
+	1. Smoking is bad
 2. Preposition
-3. Certain 
+	1. After swimming, we went to bed
+3. Certain verbs
+	1. I like doing it
+	2. He suggested playing videogames
