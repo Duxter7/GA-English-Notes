@@ -468,4 +468,5 @@ Two **past** one
 
 Five **past** four
 Ten **to** ten
-One past 
+One **past** five
+Twenty-seven **to** eight
