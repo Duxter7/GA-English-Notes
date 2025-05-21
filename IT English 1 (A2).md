@@ -480,3 +480,6 @@ Quarter
 
 What does it mean?
 What does it stand for?
+
+CCTV 
+CLI = command line interface
