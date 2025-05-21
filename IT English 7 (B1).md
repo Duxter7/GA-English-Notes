@@ -310,3 +310,5 @@ Storage = хранилище
 	1. What about going to the cinema?
 3. Certain verbs
 	1. I like doing this
+
+That's a pity = that's a shame = как ж
