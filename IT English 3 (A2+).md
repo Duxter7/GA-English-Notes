@@ -230,3 +230,6 @@ Security
 Network
 
 ---
+*Запрет*
+**Can't** or **mustn't**
+
