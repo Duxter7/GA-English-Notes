@@ -308,4 +308,5 @@ Storage = хранилище
 	1. Smoking is good
 2. Preposition
 	1. What about going to the cinema?
-3. Certain verb
+3. Certain verbs
+	1. I like doing this
