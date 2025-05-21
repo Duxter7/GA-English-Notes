@@ -262,4 +262,4 @@ Don't have to
 
 Customize - customized
 
-Distrib
+Distribute 
