@@ -477,3 +477,6 @@ Quarter **past** two
 
 Fifteen
 Quarter
+
+What does it mean?
+What does it stand for?
