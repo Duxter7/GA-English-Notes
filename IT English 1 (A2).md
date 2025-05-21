@@ -485,4 +485,5 @@ CCTV
 CLI = command line interface
 USB = universal serial bus
 IP = internet protocol
-SIP = sou
+SIP = session initiation protocol
+Wi-Fi = wireless fid
