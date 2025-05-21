@@ -418,3 +418,5 @@ Gerund
 	2. He suggested playing videogames
 
 That's a pity = that's a shame = как жаль
+
+Wholegrain
