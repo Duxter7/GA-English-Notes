@@ -409,4 +409,6 @@ Playing
 Doing 
 
 Gerund
-1
+1. Subject 
+2. Preposition
+3. Certain 
