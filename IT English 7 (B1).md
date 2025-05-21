@@ -314,3 +314,5 @@ Storage = хранилище
 That's a pity = that's a shame = как жаль
 
 Practice makes perfect
+
+We must eat glucose
