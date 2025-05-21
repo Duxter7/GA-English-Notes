@@ -474,3 +474,6 @@ Twenty-seven **to** eight
 Quarter **to** six
 Half **past** twelve
 Quarter **past** two
+
+Fifteen
+Quarter
