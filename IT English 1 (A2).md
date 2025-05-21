@@ -495,3 +495,5 @@ FOCL = fiber optic communication lines
 ITIL = information technology infrastructure library
 SQL = structured query language 
 
+PSU = power supply unit
+UPS = uninterruptable power supply
