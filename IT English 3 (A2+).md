@@ -273,3 +273,5 @@ Stuff = вещи
 Suggestion vs offer
 
 What are you offering? 
+
+They won't run the new OS
