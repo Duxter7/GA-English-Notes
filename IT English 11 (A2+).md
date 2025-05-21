@@ -262,12 +262,6 @@ Offer = предложение (когда кто-то или что-то пре
 	What are you offering? 
 	Job offer
 
-L 128
-V 512
-S 64
-R 128
-D 256
-V 256
-A 256
-
 Storage = хранилище
+
+RAM = Memory = оперативная память
