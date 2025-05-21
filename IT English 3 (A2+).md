@@ -269,3 +269,5 @@ Discuss
 
 Staff 
 Stuff = вещи
+
+Suggestion vs offer
