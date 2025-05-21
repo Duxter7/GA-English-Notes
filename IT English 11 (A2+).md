@@ -270,3 +270,6 @@ RAM = ОЗУ
 ROM = ПЗУ 
 
 Capacity = емкость
+
+Gerund
+1. 
