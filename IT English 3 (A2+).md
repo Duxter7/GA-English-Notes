@@ -250,7 +250,5 @@ You *can* talk with Indians if you want to
 You *don't have to* work late
 You *have to* / *must study* Chinese
 
-May; might
-
-I can 
+**Open** the laptop now
 
