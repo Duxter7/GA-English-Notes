@@ -293,3 +293,8 @@ I've finished many tasks today
 I finished many tasks today
 
 Send - sent - sent
+
+## 21-05-2025
+
+Suggestion = idea 
+Offer = 
