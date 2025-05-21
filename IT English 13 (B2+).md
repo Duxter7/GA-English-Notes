@@ -79,8 +79,8 @@ Not necessarily
 
 ## 21-05-2025
 
-Aspect ratio
-Resolution
+Aspect ratio = соотношение сторон
+Resolution = разрешение
 
 16:9
 4:3
