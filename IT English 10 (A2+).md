@@ -402,3 +402,11 @@ RAM = ОЗУ = оперативная память
 ROM = ПЗУ 
 
 Storage = хранилище
+
+Learning
+Swimming 
+Playing 
+Doing 
+
+Gerund
+1
