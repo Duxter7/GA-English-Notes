@@ -272,4 +272,6 @@ ROM = ПЗУ
 Capacity = емкость
 
 Gerund
-1. 
+1. Smoking is bad (**subject**)
+2. After prepositions
+	1. After working hard,
