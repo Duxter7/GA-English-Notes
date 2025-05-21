@@ -499,3 +499,6 @@ PSU = power supply unit
 UPS = uninterruptable power supply
 CPU = central processing unit
 RAM = random access memory
+
+Memory = память
+Storage = 256 GB
