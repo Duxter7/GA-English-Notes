@@ -434,5 +434,6 @@ Plant
 Start / begin
 Finish / end
 
-Five past two
-Two to two 
+Five **past** two
+Two **to** two 
+Twenty-five **past** seven
