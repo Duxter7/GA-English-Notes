@@ -76,3 +76,11 @@ Ad - advert - advertisement
 
 Not necessary
 Not necessarily 
+
+## 21-05-2025
+
+Aspect ratio
+Resolution
+
+16:9
+4:3
