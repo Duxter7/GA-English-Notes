@@ -276,4 +276,4 @@ Gerund
 2. After prepositions
 	1. After swimming hard, I usually go to a bar
 3. Certain verbs
-	1. I like doing; I hate sleeping every day
+	1. I like doing it; I hate sleeping every day
