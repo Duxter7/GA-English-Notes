@@ -239,3 +239,4 @@ Network
 ---
 
 *Обязательно*
+**Must** or **have to**
