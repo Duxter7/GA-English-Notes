@@ -470,3 +470,6 @@ Five **past** four
 Ten **to** ten
 One **past** five
 Twenty-seven **to** eight
+
+Quarter to six
+Half past 
