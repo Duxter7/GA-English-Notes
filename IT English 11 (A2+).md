@@ -259,3 +259,5 @@ Here's your money
 
 Suggestion = предложения (idea)
 Offer = предложение (когда кто-то или что-то предлагает кого-то или что-то кому-то)
+	What are you offering? 
+	Job offer
