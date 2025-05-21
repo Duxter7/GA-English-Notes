@@ -497,3 +497,5 @@ SQL = structured query language
 
 PSU = power supply unit
 UPS = uninterruptable power supply
+CPU = central processing unit
+RAM = random access memory
