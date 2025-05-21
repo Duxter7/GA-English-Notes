@@ -395,3 +395,5 @@ Discuss
 Solve 
 Solution
 
+Suggestion = предложение
+Offer = 
