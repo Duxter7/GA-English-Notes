@@ -445,4 +445,3 @@ Quarter **past** eight
 Half **past** nine
 Quarter **to** five
 
-5.21у5 
