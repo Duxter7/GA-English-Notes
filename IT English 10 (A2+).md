@@ -395,5 +395,5 @@ Discuss
 Solve 
 Solution
 
-Suggestion = предложение
-Offer = 
+Suggestion = предложение (идея)
+Offer = предложение (когда-то)
