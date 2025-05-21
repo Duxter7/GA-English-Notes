@@ -491,3 +491,5 @@ SSD = solid state drive
 HDD = hard disk drive
 VM = virtual machine
 SW = switch
+FOCL = fiber optic communication lines
+ITIL = 
