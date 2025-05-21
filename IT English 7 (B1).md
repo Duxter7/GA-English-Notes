@@ -315,4 +315,8 @@ That's a pity = that's a shame = как жаль
 
 Practice makes perfect
 
-We must eat glucose
+We must consume glucose 
+
+Vending machine 
+
+Reason
