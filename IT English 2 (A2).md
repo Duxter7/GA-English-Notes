@@ -437,3 +437,6 @@ Finish / end
 Five **past** two
 Two **to** two 
 Twenty-five **past** seven
+Fourteen **to** twelve
+One **to** four
+One **to** three 
