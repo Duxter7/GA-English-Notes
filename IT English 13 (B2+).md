@@ -84,3 +84,5 @@ Resolution = разрешение
 
 16:9
 4:3
+
+Swipe typing
