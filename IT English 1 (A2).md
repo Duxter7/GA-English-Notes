@@ -492,4 +492,6 @@ HDD = hard disk drive
 VM = virtual machine
 SW = switch
 FOCL = fiber optic communication lines
-ITIL = 
+ITIL = information technology infrastructure library
+SQL = structured query language 
+
