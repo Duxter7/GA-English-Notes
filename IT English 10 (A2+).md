@@ -416,3 +416,5 @@ Gerund
 3. Certain verbs
 	1. I like doing it
 	2. He suggested playing videogames
+
+That's a pity = that's a shame = как жаль
