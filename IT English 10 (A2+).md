@@ -384,3 +384,7 @@ Here's your money
 
 Log in Linux
 Sign in to Windows
+
+## 21-05-2025
+
+Have something left = когда что-то остается
