@@ -442,4 +442,5 @@ One **to** four
 One **to** three 
 
 Quarter **past** eight
-Half p
+Half **past** nine
+Quarter **to** five
