@@ -298,3 +298,5 @@ Send - sent - sent
 
 Suggestion = idea 
 Offer = предложение (когда кто-то или что-то может дать кого-то или что-то кому-то)
+
+They won't run the new OS
