@@ -254,3 +254,8 @@ a hand luggage / a carry-on
 
 Here's your milk
 Here's your money
+
+## 21-05-2025
+
+Suggestion = предложения (idea)
+Offer
