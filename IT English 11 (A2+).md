@@ -274,4 +274,6 @@ Capacity = емкость
 Gerund
 1. Smoking is bad (**subject**)
 2. After prepositions
-	1. After working hard,
+	1. After swimming hard, I usually go to a bar
+3. Certain verbs
+	1. I like doing; I hate sleeping every day
