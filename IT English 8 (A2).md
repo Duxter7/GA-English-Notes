@@ -486,3 +486,5 @@ IP - it stands for internet protocol
 SQL - it stands for structured query language
 ASAP - it stands for as soon as possible
 XML - it stands for extensible markup language
+RAM - it stands for random access memory
+JSON - it stands for java script object notation
