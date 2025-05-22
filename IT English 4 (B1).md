@@ -307,3 +307,5 @@ Sell - sold - sold
 Strong suit
 
 A lot of information (data)
+
+Carrot and stick method
