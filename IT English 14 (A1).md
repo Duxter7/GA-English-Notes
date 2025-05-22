@@ -664,3 +664,5 @@ Healthy = здоровый
 Fast = быстрый
 Dark = темный
 	Dark knight
+Soft = мягкий
+	Soft drinks - газировка
