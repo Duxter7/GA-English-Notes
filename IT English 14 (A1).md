@@ -662,3 +662,5 @@ Easy = легкий (сложность)
 Heavy = тяжелый
 Healthy = здоровый
 Fast = быстрый
+Dark = темный
+	Dark knight
