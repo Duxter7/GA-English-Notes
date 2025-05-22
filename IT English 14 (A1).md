@@ -653,3 +653,5 @@ B**i**g - bigger
 
 Bigg**er** 
 **More** interesting
+
+Efficient = эффективный
