@@ -480,4 +480,6 @@ What does it stand for?
 HTTP - it stands for hypertext transfer protocol 
 PHP - it stands for personal home page
 WWW - it stands for world wide web
-API - 
+API - it stands for "application program interface"
+IT - it stands for "information technology"
+IP - it stands for interne
