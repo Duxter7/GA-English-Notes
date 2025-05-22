@@ -298,4 +298,4 @@ Atta girl
 
 ## 22-05-2025
 
-Веджтбл
+That's a pity = that's a shame
