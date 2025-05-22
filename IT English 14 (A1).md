@@ -686,4 +686,5 @@ Liquid cooling
 
 AIO = all in one = СЖО
 
-PSU =
+PSU = Power Supply Unit = Блок питания
+GPU = Graphic Processing Unit = Видеокарта
