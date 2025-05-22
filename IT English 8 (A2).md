@@ -488,3 +488,6 @@ ASAP - it stands for as soon as possible
 XML - it stands for extensible markup language
 RAM - it stands for random access memory
 JSON - it stands for java script object notation
+
+PSU - Power Supply Unit
+CPU - Central Processing Unit
