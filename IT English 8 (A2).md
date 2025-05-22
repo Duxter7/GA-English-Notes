@@ -491,3 +491,4 @@ JSON - it stands for java script object notation
 
 PSU - Power Supply Unit
 CPU - Central Processing Unit
+UPS - Uninterruptable Power Supply
