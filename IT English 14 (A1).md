@@ -680,4 +680,4 @@ This task
 
 Tablet = планшет
 
-Cheap 
+Cheap - cheaper
