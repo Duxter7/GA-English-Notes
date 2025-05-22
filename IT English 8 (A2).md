@@ -473,3 +473,6 @@ I work **at** Gold Apple / I work **for** Gold Apple
 ## 22-05-2025
 
 Spelling
+
+What does it mean?
+What does it stand for?
