@@ -483,3 +483,5 @@ I'm grateful
 Make everyone equal 
 
 Vending machines
+
+Deduct 
