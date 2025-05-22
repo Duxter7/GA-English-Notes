@@ -669,3 +669,5 @@ Soft = мягкий
 Hard = тяжелый (сложность); жесткий
 Durable = прочный
 	Durability = прочность
+
+The Corsair is bigger than Imation
