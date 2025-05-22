@@ -677,3 +677,7 @@ Security
 secure
 
 This task
+
+Tablet = планшет
+
+Cheap 
