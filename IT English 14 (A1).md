@@ -655,4 +655,7 @@ Bigg**er**
 **More** interesting
 
 Efficient = эффективный
-Wide = 
+Wide = широкий
+Long = длинный
+Light = легкий 
+Heavy = 
