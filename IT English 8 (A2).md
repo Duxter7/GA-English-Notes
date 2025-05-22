@@ -494,3 +494,5 @@ CPU - Central Processing Unit
 UPS - Uninterruptable Power Supply
 
 Motherboard
+CPU
+PSU
