@@ -482,4 +482,7 @@ PHP - it stands for personal home page
 WWW - it stands for world wide web
 API - it stands for "application program interface"
 IT - it stands for "information technology"
-IP - it stands for interne
+IP - it stands for internet protocol
+SQL - it stands for structured query language
+ASAP - it stands for as soon as possible
+C#
