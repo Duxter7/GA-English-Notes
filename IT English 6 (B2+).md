@@ -132,3 +132,5 @@ Resolution
 Aspect ratio
 4:3
 16:9
+
+Ready player 1
