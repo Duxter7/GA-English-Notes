@@ -301,3 +301,5 @@ Atta girl
 That's a pity = that's a shame
 
 Six words are left
+
+Sell - sold - sold
