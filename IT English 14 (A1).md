@@ -666,3 +666,4 @@ Dark = темный
 	Dark knight
 Soft = мягкий
 	Soft drinks - газировка
+Hard = тяжелый (сложность); жесткий
