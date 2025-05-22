@@ -658,4 +658,6 @@ Efficient = эффективный
 Wide = широкий
 Long = длинный
 Light = легкий 
-Heavy = 
+Heavy = тяжелый
+Healthy = здоровый
+Fast = быстрый
