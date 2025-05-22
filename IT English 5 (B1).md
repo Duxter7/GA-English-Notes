@@ -477,3 +477,5 @@ Vote = голосовать; голос
 
 Decision
 Suggestion
+
+I'm grateful
