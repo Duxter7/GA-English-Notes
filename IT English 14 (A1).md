@@ -671,3 +671,6 @@ Durable = прочный
 	Durability = прочность
 
 The Corsair is bigger than Imation
+
+Security
+secure
