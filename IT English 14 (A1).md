@@ -688,3 +688,5 @@ AIO = all in one = СЖО
 
 PSU = Power Supply Unit = Блок питания
 GPU = Graphic Processing Unit = Видеокарта
+
+M.2 
