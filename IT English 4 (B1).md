@@ -313,3 +313,6 @@ Carrot and stick method
 Bus tickets, too
 Also bus tickets
 
+Nice talking to you
+Thanks for your time 
+It was a pleasure talking to you
