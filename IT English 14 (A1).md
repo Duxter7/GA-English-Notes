@@ -668,3 +668,4 @@ Soft = мягкий
 	Soft drinks - газировка
 Hard = тяжелый (сложность); жесткий
 Durable = прочный
+	Durability = прочность
