@@ -316,3 +316,6 @@ Also bus tickets
 Nice talking to you
 Thanks for your time 
 It was a pleasure talking to you
+
+HDD = жесткий диск
+SSD = твердотельный накопитель
