@@ -464,3 +464,7 @@ Unified State Exam
 Unfortunately; I'm afraid
 
 I think; Perhaps; Maybe
+
+Could
+
+That's pity = That's a shame
