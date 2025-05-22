@@ -481,3 +481,5 @@ Suggestion
 I'm grateful
 
 Make everyone equal 
+
+Vending machines
