@@ -654,6 +654,7 @@ B**i**g - bigger
 Bigg**er** 
 **More** interesting
 
+Reliable = надежный
 Efficient = эффективный
 Wide = широкий
 Long = длинный
