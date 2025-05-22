@@ -284,4 +284,4 @@ That's a pity = that's a shame = как жаль
 
 How about + v(ing)
 Maybe / perhaps
-I'm afraid / 
+I'm afraid / unfortunately [анфорчнатли]
