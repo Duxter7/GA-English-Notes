@@ -479,3 +479,5 @@ Decision
 Suggestion
 
 I'm grateful
+
+Make everyone equal 
