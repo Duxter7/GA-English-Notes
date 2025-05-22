@@ -682,4 +682,6 @@ Tablet = планшет
 
 Cheap - cheaper
 
-Liquid 
+Liquid cooling
+
+AIO = all in one = СЖО 
