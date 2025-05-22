@@ -319,3 +319,5 @@ It was a pleasure talking to you
 
 HDD = жесткий диск
 SSD = твердотельный накопитель
+PSU = блок питания
+CPU = процессор
