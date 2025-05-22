@@ -469,3 +469,7 @@ Quarter
 12 PM
 
 I work **at** Gold Apple / I work **for** Gold Apple
+
+## 22-05-2025
+
+Spelling
