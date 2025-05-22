@@ -684,4 +684,6 @@ Cheap - cheaper
 
 Liquid cooling
 
-AIO = all in one = СЖО 
+AIO = all in one = СЖО
+
+PSU =
