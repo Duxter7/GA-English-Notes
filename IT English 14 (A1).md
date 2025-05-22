@@ -657,7 +657,8 @@ Bigg**er**
 Efficient = эффективный
 Wide = широкий
 Long = длинный
-Light = легкий 
+Light = легкий (вес); свет
+Easy = легкий (сложность)
 Heavy = тяжелый
 Healthy = здоровый
 Fast = быстрый
