@@ -647,4 +647,6 @@ Eas**y** - easier
 Happ**y** - happier
 Funn**y** - funnier
 
-Cut
+C**u**t
+P**u**t
+B**i**g - bigger
