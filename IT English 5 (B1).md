@@ -474,3 +474,6 @@ cut - cut - cut
 I will cancel some plans for buying 
 
 Vote = голосовать; голос
+
+Decision
+Suggestion
