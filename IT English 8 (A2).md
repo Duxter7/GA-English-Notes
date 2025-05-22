@@ -496,3 +496,8 @@ UPS - Uninterruptable Power Supply
 Motherboard
 CPU
 PSU
+
+Bigger
+Colder
+Hotter
+Smarter
