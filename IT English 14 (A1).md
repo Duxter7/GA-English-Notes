@@ -636,3 +636,13 @@ Better = лучше
 Cheaper = дешевле
 Lighter = легче
 Heavy - heavier = тяжелее
+
+## 22-05-2025
+
+Cold - colder
+
+Interesting - more interesting
+
+Eas**y** - easier
+Happ**y** - happier
+Funny - funnier
