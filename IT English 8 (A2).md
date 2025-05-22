@@ -501,3 +501,6 @@ Bigger
 Colder
 Hotter
 Smarter
+Happier
+Funnier
+Easier
