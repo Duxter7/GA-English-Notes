@@ -478,3 +478,5 @@ What does it mean?
 What does it stand for?
 
 HTTP - it stands for hypertext transfer protocol 
+PHP - it stands for personal home page
+
