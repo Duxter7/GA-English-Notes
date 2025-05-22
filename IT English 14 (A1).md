@@ -655,3 +655,4 @@ Bigg**er**
 **More** interesting
 
 Efficient = эффективный
+Wide = 
