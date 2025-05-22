@@ -134,3 +134,5 @@ Aspect ratio
 16:9
 
 Ready player 1
+
+Transcribe
