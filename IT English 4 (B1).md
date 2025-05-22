@@ -323,3 +323,5 @@ PSU = блок питания
 CPU = процессор
 GPU = видеокарта
 Memory = RAM = память
+
+Unified State Exam
