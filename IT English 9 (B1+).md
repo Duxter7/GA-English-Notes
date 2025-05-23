@@ -318,3 +318,9 @@ Screen resolution
 
 Accept something
 Get used to something
+
+Wet blanket 
+Know-it-all
+Buzzkill
+
+Отбиваться ссаными тряпк
