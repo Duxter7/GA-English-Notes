@@ -628,3 +628,4 @@ Mold = плесень
 Applied Informatics 
 
 Power-Efficient
+	This server isMore power-efficient **than** last one
