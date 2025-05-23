@@ -648,3 +648,4 @@ I've ever bought
 Hot - hotter - the hottest
 	It's the hottest day this Summer
 Durable - more durable - the most durable
+	This laptop is more durable than your MacBook
