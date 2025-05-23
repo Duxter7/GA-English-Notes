@@ -336,4 +336,5 @@ GPU = Graphic Processing Unit = ГПУ (видеокарта)
 Memory = RAM = оперативная память 
 Storage = хранилище
 
-HDD = Hard Disk Drive = 
+HDD = Hard Disk Drive = жесткий
+SSD = Solid State Drive = Твердотельный накопитель
