@@ -650,4 +650,4 @@ Hot - hotter - the hottest
 Durable - more durable - the most durable
 	This laptop **is** more durable than your MacBook
 Cheap - cheaper - the cheapest
-	Your server is cheaper than mine
+	Your server is cheaper than my server
