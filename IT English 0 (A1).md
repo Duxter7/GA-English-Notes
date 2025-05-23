@@ -623,3 +623,4 @@ Radiator hoses = патрубки
 Hose = шланг
 Pipe = трубка
 Straw = соломинка 
+Mold = плесень
