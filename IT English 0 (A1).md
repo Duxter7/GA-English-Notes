@@ -624,3 +624,5 @@ Hose = шланг
 Pipe = трубка
 Straw = соломинка 
 Mold = плесень
+
+Applied Informatics 
