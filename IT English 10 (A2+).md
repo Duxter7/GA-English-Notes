@@ -434,3 +434,9 @@ Maybe / perhaps + could
 How about / what about + v(ing)
 
 PSU = БП
+CPU = процессор
+GPU = видеокарта
+
+HDD = жесткий диск
+SSD = твердотельный накопитель
+
