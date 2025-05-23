@@ -200,3 +200,7 @@ Home appliances = бытовые приборы
 Drinking helmet
 
 Cross out 
+
+Screen resolution
+
+Widescreen display
