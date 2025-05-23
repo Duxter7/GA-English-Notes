@@ -310,3 +310,8 @@ Interest rate
 I see a person sitting on the table
 
 Board games
+
+## 23-05-2025
+
+Aspect ratio
+Screen resolution
