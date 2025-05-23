@@ -206,3 +206,4 @@ Screen resolution
 Widescreen display
 
 Easier = легче
+
