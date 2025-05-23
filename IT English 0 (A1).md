@@ -644,3 +644,6 @@ Least = наименее / наименьший
 Most = самый / наиболее
 
 I've ever bought
+
+Hot - hotter - the hottest
+	
