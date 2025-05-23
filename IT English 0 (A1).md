@@ -634,3 +634,5 @@ Eas**y**
 Funn**y**
 
 I like Yandex browser because it has a **better** design **than** other browsers
+
+Agree - disagree 
