@@ -328,3 +328,6 @@ Maybe/Perhaps + could
 Shall
 
 I'm afraid; Unfortunately
+
+PSU = Power Supply Unit = блок питания
+CPU = 
