@@ -626,3 +626,5 @@ Straw = соломинка
 Mold = плесень
 
 Applied Informatics 
+
+Power-Efficient
