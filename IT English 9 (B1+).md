@@ -315,3 +315,6 @@ Board games
 
 Aspect ratio
 Screen resolution
+
+Accept something
+Get used to something
