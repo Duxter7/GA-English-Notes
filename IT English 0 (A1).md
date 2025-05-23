@@ -629,3 +629,6 @@ Applied Informatics
 
 Power-Efficient
 	This server is more power-efficient **than** the last one
+
+Eas**y**
+Funn**y**
