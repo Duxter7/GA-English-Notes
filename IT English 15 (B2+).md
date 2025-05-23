@@ -208,3 +208,5 @@ Widescreen display
 Easier = легче
 
 It will be typed for you
+
+Acquaintance 
