@@ -642,3 +642,5 @@ at nuxt cloud
 Less expensive
 Least = наименее / наименьший
 Most = самый / наиболее
+
+I
