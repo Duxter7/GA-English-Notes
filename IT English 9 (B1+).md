@@ -325,4 +325,4 @@ Buzzkill
 
 Отбиваться ссаными тряпками
 
-Old chestnut 
+Old chestnut (UK)
