@@ -320,3 +320,8 @@ We must consume glucose
 Vending machine 
 
 Reason
+
+## 23-05-2025
+
+How/What about + v(ing)
+Maybe/Perhaps + coul
