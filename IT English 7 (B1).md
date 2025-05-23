@@ -333,3 +333,7 @@ PSU = Power Supply Unit = блок питания
 CPU = Central Processing Unit = ЦПУ (процессор)
 GPU = Graphic Processing Unit = ГПУ (видеокарта)
 
+Memory = RAM = оперативная память 
+Storage = хранилище
+
+HDD = Hard Disk Drive = 
