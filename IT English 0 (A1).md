@@ -615,4 +615,6 @@ Good - better = лучше
 
 ## 23-05-2025
 
-I need to change the front dampers in my car
+I need to change the front **dampers** in my car
+
+**Radiator** = радиатор
