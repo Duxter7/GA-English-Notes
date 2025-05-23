@@ -433,3 +433,4 @@ I'm afraid; Unfortunately
 Maybe / perhaps + could
 How about / what about + v(ing)
 
+PSU = БП
