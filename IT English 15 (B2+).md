@@ -198,3 +198,5 @@ Home appliances = бытовые приборы
 ## 23-05-2025
 
 Drinking helmet
+
+Cross out 
