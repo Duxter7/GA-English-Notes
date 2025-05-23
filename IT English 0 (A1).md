@@ -640,3 +640,5 @@ Agree - disagree
 at nuxt cloud 
 
 Less expensive
+Least = наименее / наименьший
+Most = самый / наиболее
