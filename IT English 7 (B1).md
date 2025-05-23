@@ -330,4 +330,6 @@ Shall
 I'm afraid; Unfortunately
 
 PSU = Power Supply Unit = блок питания
-CPU = 
+CPU = Central Processing Unit = ЦПУ (процессор)
+GPU = Graphic Processing Unit = ГПУ (видеокарта)
+
