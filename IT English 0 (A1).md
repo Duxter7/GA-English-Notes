@@ -618,3 +618,7 @@ Good - better = лучше
 I need to change the front **dampers** in my car
 
 **Radiator** = радиатор
+Radiator hoses = патрубки
+
+Hose = шланг
+Pipe = тр
