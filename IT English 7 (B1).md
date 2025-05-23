@@ -324,4 +324,7 @@ Reason
 ## 23-05-2025
 
 How/What about + v(ing)
-Maybe/Perhaps + coul
+Maybe/Perhaps + could 
+Shall
+
+I'm afraid; Unfortunately
