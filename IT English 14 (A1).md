@@ -745,3 +745,6 @@ Tab
 
 Pros and cons
 Advantages and disadvantages
+
+College 
+Colleague 
