@@ -449,3 +449,6 @@ Quarter **to** five
 
 **Have you ever** ridden a horse?
 Poor = бедный 
+
+Weekend = выходной один (два дня)
+Weekends = выходные все (до бесконечности)
