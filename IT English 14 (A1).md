@@ -694,3 +694,6 @@ M.2
 ## 26-05-2025
 
 As usual = как обычно
+
+He is leaving the company
+Fire = 
