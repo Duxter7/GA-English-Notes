@@ -516,3 +516,10 @@ I don't like playing Dota 2
 I enjoy watching anime
 I love studying languages
 I hate washing the dishes (doing the dishes)
+
+Meet - met - met
+
+Sit - sitting
+Run - running
+Put - putting
+Cut
