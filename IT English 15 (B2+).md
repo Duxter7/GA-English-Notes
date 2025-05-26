@@ -221,3 +221,5 @@ Vegetable [веджтбл]
 Prepare for
 
 km
+
+ATV - all-terrain-vehicle
