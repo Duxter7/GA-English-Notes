@@ -502,3 +502,8 @@ RAM = random access memory
 
 Memory = память
 Storage = 256 GB
+
+## 26-05-2025
+
+Get better 
+Get well 
