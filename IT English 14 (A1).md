@@ -734,3 +734,5 @@ the happiest
 At least = по крайней мере
 
 Have you ever ... = ты когда-либо ...
+
+I installed
