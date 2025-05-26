@@ -709,3 +709,5 @@ To be late = опаздывать
 go - went - gone
 
 Something went wrong
+
+My laptop is more reliable than yours
