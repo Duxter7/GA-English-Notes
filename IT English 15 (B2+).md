@@ -210,3 +210,8 @@ Easier = легче
 It will be typed for you
 
 Acquaintance 
+
+## 26-05-2025
+
+Build
+Assemble
