@@ -733,4 +733,4 @@ the happiest
 
 At least = по крайней мере
 
-Have you ever = ты когда-либо 
+Have you ever ... = ты когда-либо ...
