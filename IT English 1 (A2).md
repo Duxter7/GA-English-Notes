@@ -507,3 +507,6 @@ Storage = 256 GB
 
 Get better 
 Get well 
+
+I haven't thought about it
+I'm neutral 
