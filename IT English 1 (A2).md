@@ -529,3 +529,5 @@ Cut - cutting
 <u>Playing videogames on the weekends</u> **is** good
 <u>Working late every day in Summer</u> **is** terrible
 <u>Looking after my friend's dog when she's away</u> **is** difficult 
+
+To be or not to be = Being or not being
