@@ -703,3 +703,5 @@ I made them stop
 
 It's forbidden
 It's a secret
+
+To be late = опаздывать
