@@ -510,3 +510,6 @@ Get well
 
 I haven't thought about it
 I'm neutral 
+
+I hate working late
+I don't like playing Dota 2
