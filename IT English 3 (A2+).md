@@ -279,3 +279,5 @@ They won't run the new OS
 ## 26-05-2025
 
 Her = ее
+Have a fight = ссориться
+Argue = спорить
