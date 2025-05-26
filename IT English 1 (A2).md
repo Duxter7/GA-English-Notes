@@ -526,4 +526,5 @@ Cut - cutting
 
 <u>Smoking</u> **is** bad
 <u>Killing people</u> **is** a crime
-Playing videogames on the weekends is good
+<u>Playing videogames on the weekends</u> **is** good
+<u>Working late every day in Summer</u> **is** terrible
