@@ -711,4 +711,8 @@ go - went - gone
 Something went wrong
 
 My laptop is *more reliable* than your**s**
-My PC 
+
+Bad - worse 
+
+It's **worse** than yesterday
+Going 
