@@ -522,4 +522,4 @@ Meet - met - met
 Sit - sitting
 Run - running
 Put - putting
-Cut
+Cut - cutting
