@@ -219,3 +219,5 @@ Assemble
 Vegetable [веджтбл]
 
 Prepare for
+
+km
