@@ -736,3 +736,5 @@ At least = по крайней мере
 Have you ever ... = ты когда-либо ...
 
 I installed
+
+I don't want to **offend** 1C users 
