@@ -528,3 +528,4 @@ Cut - cutting
 <u>Killing people</u> **is** a crime
 <u>Playing videogames on the weekends</u> **is** good
 <u>Working late every day in Summer</u> **is** terrible
+Looking after my friend's dog 
