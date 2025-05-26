@@ -341,3 +341,5 @@ It's boring
 
 Poisonous
 Venomous
+
+Sting
