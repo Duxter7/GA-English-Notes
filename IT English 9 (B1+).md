@@ -335,3 +335,6 @@ The meerkat or suricate
 Tribe = племя
 
 Struggle for power
+
+It's bored
+It's boring
