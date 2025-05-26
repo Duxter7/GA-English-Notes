@@ -216,3 +216,4 @@ Acquaintance
 Build
 Assemble
 
+Vegtable [веджтбл]
