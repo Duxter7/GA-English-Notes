@@ -524,4 +524,6 @@ Run - running
 Put - putting
 Cut - cutting
 
-Smoking is bad
+<u>Smoking</u> **is** bad
+<u>Killing people</u> **is** a crime
+Playing videogames on the weekends is good
