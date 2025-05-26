@@ -276,3 +276,6 @@ What are you offering?
 
 They won't run the new OS
 
+## 26-05-2025
+
+Her = ее
