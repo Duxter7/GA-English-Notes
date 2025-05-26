@@ -523,3 +523,5 @@ Sit - sitting
 Run - running
 Put - putting
 Cut - cutting
+
+Smoking is bad
