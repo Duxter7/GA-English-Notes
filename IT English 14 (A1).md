@@ -727,6 +727,10 @@ Big - bigg**er** - the bigg**est**
 
 the most beautiful 
 the least interesting
-
+the funniest
+the easiest
+the happiest
 
 At least = по крайней мере
+
+Have you ever = ты когда-либо 
