@@ -741,6 +741,7 @@ I don't want to **offend** 1C users
 
 1 con / flaw
 
-tab
+Tab
 
 Pros and cons
+Advantages and disadvantages
