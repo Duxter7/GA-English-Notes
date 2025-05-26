@@ -700,3 +700,6 @@ Fire = уволить
 
 I have an eventful day
 I made them stop
+
+It's forbidden
+It's a secret
