@@ -696,4 +696,6 @@ M.2
 As usual = как обычно
 
 He is leaving the company
-Fire = 
+Fire = уволить
+
+I have an eventful day
