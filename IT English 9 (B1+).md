@@ -338,3 +338,6 @@ Struggle for power
 
 It's bored
 It's boring
+
+Poisonous
+Venomous
