@@ -710,4 +710,5 @@ go - went - gone
 
 Something went wrong
 
-My laptop is more reliable than yours
+My laptop is *more reliable* than your**s**
+My PC 
