@@ -715,4 +715,6 @@ My laptop is *more reliable* than your**s**
 Bad - worse 
 
 It's **worse** than yesterday
-Going 
+
+Going to work on foot
+Walking to work is **better** than driving to work
