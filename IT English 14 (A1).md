@@ -699,3 +699,4 @@ He is leaving the company
 Fire = уволить
 
 I have an eventful day
+I made them stop
