@@ -448,3 +448,4 @@ Quarter **to** five
 ## 26-05-2025
 
 **Have you ever** ridden a horse?
+Poor = бедный 
