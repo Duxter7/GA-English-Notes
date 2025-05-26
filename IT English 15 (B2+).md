@@ -223,3 +223,5 @@ Prepare for
 km
 
 ATV - all-terrain-vehicle
+
+After not having a car for 10 years
