@@ -333,3 +333,5 @@ A lot of people live
 The meerkat or suricate
 
 Tribe = племя
+
+Struggle for power
