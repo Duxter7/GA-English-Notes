@@ -705,3 +705,7 @@ It's forbidden
 It's a secret
 
 To be late = опаздывать
+
+go - went - gone
+
+Something went wrong
