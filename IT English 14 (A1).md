@@ -718,3 +718,5 @@ It's **worse** than yesterday
 
 Going to work on foot
 Walking to work is **better** than driving to work
+It's **harder** to work than one year ago
+These 
