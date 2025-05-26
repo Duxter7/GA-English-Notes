@@ -216,4 +216,5 @@ Acquaintance
 Build
 Assemble
 
-Vegtable [веджтбл]
+Vegetable [веджтбл]
+
