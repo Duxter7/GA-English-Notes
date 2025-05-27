@@ -657,4 +657,6 @@ Cheap - cheaper - the cheapest
 1C **is** more difficult *than* Axapta
 MacBooks **are** more expensive *than* laptops
 Indians **are** better *than* Arabs
-It's colder in Yekaterinburg than in Sochi
+It'**s** colder in Yekaterinburg *than* in Sochi
+
+
