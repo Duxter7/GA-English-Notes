@@ -523,3 +523,5 @@ Today she is more beautiful than yesterday
 It's worse than yesterday
 
 **Accompany** = сопроводить
+
+The Corsair is better in everything than the Imation
