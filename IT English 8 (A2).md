@@ -508,3 +508,7 @@ Easier
 This car is worse than that car
 She is more beautiful than that girl 
 It's colder here than in Africa
+
+## 27-05-2025
+
+Take someojne 
