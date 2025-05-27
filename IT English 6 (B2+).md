@@ -140,4 +140,7 @@ Transcribe
 ## 26-05-2025
 
 Manual transmission
+Hood = капот
+Trunk = багажник
+Headlights
 
