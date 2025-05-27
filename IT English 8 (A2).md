@@ -518,3 +518,5 @@ Take someone somewhere
 
 
 Lighthouse = маяк
+
+Today she is more beautiful than yesterday
