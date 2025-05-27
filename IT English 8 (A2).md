@@ -511,6 +511,7 @@ It's colder here than in Africa
 
 ## 27-05-2025
 
-What else?
-W
+What else? = что еще?
+That's it? = это все?
+
 Take someone somewhere
