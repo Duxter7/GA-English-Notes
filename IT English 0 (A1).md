@@ -654,4 +654,6 @@ Cheap - cheaper - the cheapest
 
 ## 27-05-2025
 
-1C is more difficult than Axapta
+1C **is** more difficult *than* Axapta
+MacBooks **are** more expensive *than* laptops
+Indians are 
