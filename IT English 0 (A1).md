@@ -660,4 +660,7 @@ Indians **are** better *than* Arabs
 It'**s** colder in Yekaterinburg *than* in Sochi
 
 AMD **is** more reliable *than* Intel
-This CPU (processor) is 
+This CPU (processor) is hotter than the previous CPU (one)
+
+This is a CPU
+This CPU is ...
