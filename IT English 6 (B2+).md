@@ -145,3 +145,5 @@ Trunk = багажник
 Headlights
 Glove box / compartment
 Handbrake
+
+Accelerator
