@@ -659,4 +659,5 @@ MacBooks **are** more expensive *than* laptops
 Indians **are** better *than* Arabs
 It'**s** colder in Yekaterinburg *than* in Sochi
 
-
+AMD **is** more reliable *than* Intel
+This CPU (processor) is 
