@@ -143,4 +143,5 @@ Manual transmission
 Hood = капот
 Trunk = багажник
 Headlights
-
+Glove box / compartment
+Handbrake
