@@ -669,4 +669,5 @@ It's **the most** expensive car in the world
 It's **the most** interesting thing
 My boss is **the best**
 
-Your software version faste
+Your software version is the fastest
+The English language is the easiest
