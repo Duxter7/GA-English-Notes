@@ -515,3 +515,6 @@ What else? = что еще?
 That's it? = это все?
 
 Take someone somewhere
+
+
+Lighthouse = маяк
