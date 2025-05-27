@@ -678,3 +678,9 @@ He has a new MacBook
 You have a new MacBook
 
 I don't have a new MacBook
+He doesn't have a new MacBook
+You don't have a new MacBook
+
+Do I have a new MacBook?
+Does he have a new MacBook?
+
