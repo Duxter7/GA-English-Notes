@@ -651,3 +651,7 @@ Durable - more durable - the most durable
 	This laptop **is** more durable than your MacBook
 Cheap - cheaper - the cheapest
 	Your server is cheaper than my server
+
+## 27-05-2025
+
+1C is more difficult than Axapta
