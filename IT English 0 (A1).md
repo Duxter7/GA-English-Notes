@@ -672,3 +672,9 @@ My boss is **the best**
 Your software version is the fastest
 The English language is the easiest
 His PC is the biggest in the office
+
+I have a new MacBook
+He has a new MacBook
+You have a new MacBook
+
+I don't have a new MacBook
