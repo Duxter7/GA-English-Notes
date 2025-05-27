@@ -525,3 +525,5 @@ It's worse than yesterday
 **Accompany** = сопроводить
 
 The Corsair is better in everything than the Imation
+
+Subscription model
