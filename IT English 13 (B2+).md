@@ -86,3 +86,8 @@ Resolution = разрешение
 4:3
 
 Swipe typing
+
+## 26-05-2025
+
+Nightmare
+ATV 
