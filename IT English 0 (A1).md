@@ -673,9 +673,11 @@ Your software version is the fastest
 The English language is the easiest
 His PC is the biggest in the office
 
-I have a new MacBook
-He has a new MacBook
-You have a new MacBook
+---
+
+I have a new MacBook = I've got (I have got) ...
+He has a new MacBook = He's got (He has got) ...
+You have a new MacBook = You've got (You have got) ...
 
 I don't have a new MacBook
 He doesn't have a new MacBook
@@ -683,4 +685,4 @@ You don't have a new MacBook
 
 Do I have a new MacBook?
 Does he have a new MacBook?
-
+Do you have a new MacBook? 
