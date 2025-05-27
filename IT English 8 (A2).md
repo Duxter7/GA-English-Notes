@@ -511,4 +511,6 @@ It's colder here than in Africa
 
 ## 27-05-2025
 
-Take someojne 
+What else?
+W
+Take someone somewhere
