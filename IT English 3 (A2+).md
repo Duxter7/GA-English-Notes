@@ -294,4 +294,8 @@ Most of them = ~~Most them~~
 
 To be **angry with** (**at**)
 
-Вуы
+Despair 
+Hopelessness
+
+Embarrassed 
+It's embarrassing 
