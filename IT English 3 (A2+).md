@@ -281,3 +281,9 @@ They won't run the new OS
 Her = ее
 Have a fight = ссориться
 Argue = спорить
+
+## 28-05-2025
+
+None of them 
+Some of his friends
+
