@@ -92,4 +92,5 @@ Swipe typing
 Nightmare
 ATV 
 
-Told
+Told us
+Said to us
