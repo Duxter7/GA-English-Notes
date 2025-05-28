@@ -539,3 +539,5 @@ More
 
 Secure 
 Unsecured network 
+
+Pay for
