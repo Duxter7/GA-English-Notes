@@ -531,3 +531,11 @@ Cut - cutting
 <u>Looking after my friend's dog when she's away</u> **is** difficult 
 
 To be or not to be = Being or not being
+
+## 28-05-2025
+
+Less 
+More
+
+Secure 
+Unsecured network 
