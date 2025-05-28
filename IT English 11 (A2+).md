@@ -293,4 +293,5 @@ Fire
 ## 28-05-2025
 
 PSU = Power Supply Unit = блок питания
-С
+СPU = Central Processing Unit = процессор
+GPU =
