@@ -346,3 +346,6 @@ the 1950s
 
 Fancy hotels
 Public housing
+
+I worked here before 2005
+I worked here until 2005
