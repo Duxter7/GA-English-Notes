@@ -294,4 +294,4 @@ Fire
 
 PSU = Power Supply Unit = блок питания
 СPU = Central Processing Unit = процессор
-GPU =
+GPU = Graphic Processing Unit = видеокарта 
