@@ -456,3 +456,10 @@ Weekends = выходные все (до бесконечности)
 ## 28-05-2025
 
 I like to work / I like working
+
+Like 
+Love
+Hate
+~~Enjoy to do~~ 
+
+Don't like to d
