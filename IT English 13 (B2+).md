@@ -98,4 +98,4 @@ Said to us
 It helps us ... how we improve
 
 Can you tell me where the stations is?
-Can you tell me where the stations is
+Can you tell me where is the station?
