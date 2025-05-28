@@ -291,3 +291,5 @@ Most of my bosses are good
 
 Most students = Most of the students
 Most of them = ~~Most them~~
+
+To be **angry with** (**at**)
