@@ -289,3 +289,8 @@ Could
 
 Lay off 
 Fire
+
+## 28-05-2025
+
+PSU = Power Supply Unit = блок питания
+С
