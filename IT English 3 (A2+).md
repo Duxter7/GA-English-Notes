@@ -299,3 +299,7 @@ Hopelessness
 
 Embarrassed 
 It's embarrassing 
+Embarrassment 
+
+Shame
+Disgrace
