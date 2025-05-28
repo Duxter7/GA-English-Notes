@@ -296,5 +296,5 @@ PSU = Power Supply Unit = блок питания
 СPU = Central Processing Unit = процессор
 GPU = Graphic Processing Unit = видеокарта 
 
-Want (уонт)
-Won't (уоунт)
+Want (вонт) to = wanna
+Won't (воунт)
