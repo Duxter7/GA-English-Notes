@@ -515,8 +515,8 @@ On
 On holiday / On vacation
 
 
-BCE (Before Common Era) - CE (Common Era)
-BC (Before Christ) - AD (Anno Domini)
+BCE (Before Common Era) До Н.Э. - CE (Common Era) Н.Э.
+BC (Before Christ) До Н.Э.- AD (Anno Domini) Н.Э.
 
 From 2005 to 2025 = с 2005 до 2025
 Since 2005
