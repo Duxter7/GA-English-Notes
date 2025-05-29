@@ -302,3 +302,5 @@ Won't (воунт)
 ## 29-05-2025
 
 18-year-old 
+27 inch monitor
+
