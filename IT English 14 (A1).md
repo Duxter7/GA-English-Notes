@@ -771,3 +771,6 @@ I've got
 
 He has
 He's got
+
+**Is** he *hungry*
+Do you li
