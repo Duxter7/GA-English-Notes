@@ -502,12 +502,12 @@ In
 	In = через
 At
 	Clock
-	At the weekend (UK)
+	At the weekend (**UK**)
 	At night
 	At noon
 	At Christmas 
 On
-	On the weekend (US)
+	On the weekend (**US**)
 	Days, dates (where you have days)
 		Birthday 
 		On 30th July
