@@ -520,3 +520,11 @@ BC (Before Christ) До Н.Э.- AD (Anno Domini) Н.Э.
 
 From 2005 to 2025 = с 2005 до 2025
 Since 2005
+
+At breakfast
+At dinner
+At lunch 
+
+For breakfast
+For dinner
+For lunch
