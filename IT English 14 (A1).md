@@ -762,3 +762,6 @@ You **don't have** a new MacBook = You **haven't got** ...
 **Do** I **have** a new MacBook? = **Have** I **got** ... ?
 **Does** he **have** a new MacBook? = **Has** he **got** ... ?
 **Do** you **have** a new MacBook? = **Have** you **got** ... ?
+
+Can I have a new laptop?
+
