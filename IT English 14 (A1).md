@@ -765,3 +765,9 @@ You **don't have** a new MacBook = You **haven't got** ...
 
 Can I have a new laptop?
 
+We have
+I have 
+I've got
+
+He has
+He's got
