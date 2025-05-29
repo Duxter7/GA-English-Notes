@@ -512,6 +512,8 @@ On
 		Birthday 
 		On 30th July
 
+On holiday / On vacation
+
 
 
 
