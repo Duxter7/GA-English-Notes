@@ -325,3 +325,8 @@ GPU = видеокарта
 Memory = RAM = память
 
 Unified State Exam
+
+## 29-05-2025
+
+I worked here before 2005
+I worked here until 2005
