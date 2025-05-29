@@ -298,3 +298,7 @@ GPU = Graphic Processing Unit = видеокарта
 
 Want (вонт) to = wanna
 Won't (воунт)
+
+## 29-05-2025
+
+18-year-old 
