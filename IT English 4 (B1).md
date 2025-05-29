@@ -340,8 +340,9 @@ In
 	In the afternoon
 At
 	Clock
-	At the weekend
+	At the weekend (UK)
 	At night
 	At noon
 On
-	On the weekend
+	On the weekend (US)
+	Days, dates
