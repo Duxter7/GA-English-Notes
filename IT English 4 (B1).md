@@ -338,7 +338,7 @@ In
 	In the morning
 	In the evening
 	In the afternoon
-	
+	In = через
 At
 	Clock
 	At the weekend (UK)
