@@ -332,4 +332,11 @@ I worked here before 2005
 I worked here until 2005
 
 In
+	Seasons
+	Years
+	Months
+	In the morning
+	In the evening
+	
 At
+On
