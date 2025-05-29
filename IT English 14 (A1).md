@@ -773,4 +773,10 @@ He has
 He's got
 
 **Is** he *hungry*
-Do you li
+**Do** you *like*
+
+**Does** it *have*?
+**Does** it *work*?
+
+Have you got?
+
