@@ -509,6 +509,8 @@ At
 On
 	On the weekend (US)
 	Days, dates (where you have days)
+		Birthday 
+		On 30th July
 
 
 
