@@ -337,6 +337,11 @@ In
 	Months
 	In the morning
 	In the evening
-	
+	In the afternoon
 At
+	Clock
+	At the weekend
+	At night
+	At noon
 On
+	On the weekend
