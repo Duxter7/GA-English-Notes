@@ -527,3 +527,7 @@ It's worse than yesterday
 The Corsair is better in everything than the Imation
 
 Subscription model
+
+## 29-05-2025
+
+GPP - General Physical Preparedness 
