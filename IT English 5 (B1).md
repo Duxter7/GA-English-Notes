@@ -515,15 +515,7 @@ On
 On holiday / On vacation
 
 
-
-
-
-
-
-
-
-
-BCE (before common era) - CE (Common Era)
+BCE (Before Common Era) - CE (Common Era)
 BC (Before Christ) - AD (Anno Domini)
 
 From 2005 to 2025 = с 2005 до 2025
