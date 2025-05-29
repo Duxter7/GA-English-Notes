@@ -351,4 +351,6 @@ On
 BCE (before common era) - CE (Common Era)
 BC (Before Christ) - AD (Anno Domini)
 
-From 2005 to 2025 
+From 2005 to 2025 = с 2005 до 2025
+Since 2005
+
