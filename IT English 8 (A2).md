@@ -516,7 +516,6 @@ That's it? = это все?
 
 Take someone somewhere
 
-
 Lighthouse = маяк
 
 Today she is more beautiful than yesterday
@@ -531,3 +530,4 @@ Subscription model
 ## 29-05-2025
 
 GPP - General Physical Preparedness 
+
