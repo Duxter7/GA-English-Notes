@@ -489,6 +489,7 @@ Deduct
 ## 29-05-2025
 
 I worked here before 2005
+	2003 or 1990
 I worked here until 2005
 
 In
