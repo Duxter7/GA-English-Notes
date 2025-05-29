@@ -778,5 +778,6 @@ He's got
 **Does** it *have*?
 **Does** it *work*?
 
-Have you got?
+**Have** you *got*?
+**Has** it *got*?
 
