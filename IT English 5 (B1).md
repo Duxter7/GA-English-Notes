@@ -505,6 +505,7 @@ At
 	At the weekend (UK)
 	At night
 	At noon
+	At Christmas 
 On
 	On the weekend (US)
 	Days, dates (where you have days)
