@@ -486,3 +486,30 @@ Vending machines
 
 Deduct 
 
+## 29-05-2025
+
+I worked here before 2005
+I worked here until 2005
+
+In
+	Seasons
+	Years
+	Months
+	In the morning
+	In the evening
+	In the afternoon
+	In = через
+At
+	Clock
+	At the weekend (UK)
+	At night
+	At noon
+On
+	On the weekend (US)
+	Days, dates (where you have days)
+
+BCE (before common era) - CE (Common Era)
+BC (Before Christ) - AD (Anno Domini)
+
+From 2005 to 2025 = с 2005 до 2025
+Since 2005
