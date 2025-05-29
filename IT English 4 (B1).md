@@ -345,4 +345,7 @@ At
 	At noon
 On
 	On the weekend (US)
-	Days, dates
+	Days, dates (where you have days)
+
+BCE (before common era) 
+BC (Before Christ) - AD (Anno Domini)
