@@ -354,9 +354,11 @@ At 5 / 6
 At the weekend
 At night / at noon
 
-In the morning
-In th
 
 ## 30-05-2025
 
 Occupied = занято 
+
+
+On Friday morning
+In the morning
