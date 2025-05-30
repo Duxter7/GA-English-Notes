@@ -362,3 +362,6 @@ Occupied = занято
 
 On Friday morning
 In the morning
+
+BCE (Before Common Era) - CE (Common Era)
+BC (Before Chris)
