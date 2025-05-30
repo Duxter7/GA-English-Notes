@@ -365,3 +365,6 @@ In the morning
 
 **BCE** (Before Common Era) - **CE** (Common Era)
 **BC** (Before Christ) - **AD** (Anno Domini)
+
+In these times
+During these times 
