@@ -312,3 +312,5 @@ Tail = хвост
 Shell = ракушка
 Skin = кожа
 Trunk = хобот (багажник)
+Web = сеть
+Wings = 
