@@ -793,3 +793,5 @@ Hang = повесить
 
 Cable = кабель
 	The cable was too high
+
+Asked 15000 rubles for one AC
