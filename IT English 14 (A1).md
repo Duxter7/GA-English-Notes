@@ -807,3 +807,4 @@ Urgent = срочный
 He is busy
 Is he busy?
 
+You're = you are
