@@ -303,3 +303,11 @@ Embarrassment
 
 Shame
 Disgrace
+
+## 02-06-2025
+
+Fur = мех
+Feather = перо
+Tail = хвост
+Shell = ракушка
+S
