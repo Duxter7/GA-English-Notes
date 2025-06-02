@@ -802,3 +802,8 @@ Relax
 Alone = один
 
 Urgent = срочный
+
+
+He is busy
+Is he busy?
+
