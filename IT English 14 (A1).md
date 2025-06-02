@@ -799,4 +799,4 @@ They asked 15000 rubles for one AC
 Rest
 Relax
 
-Alone? = 1 pers
+Alone = один
