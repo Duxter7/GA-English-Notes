@@ -314,3 +314,5 @@ Skin = кожа
 Trunk = хобот (багажник)
 Web = сеть
 Wings = крылья
+
+Brought
