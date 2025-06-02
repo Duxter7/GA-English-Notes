@@ -790,3 +790,6 @@ Fraud = мошенник
 
 Install = установить
 Hang = повесить
+
+Cable = кабель
+	The cable was too high
