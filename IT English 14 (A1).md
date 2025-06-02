@@ -800,3 +800,5 @@ Rest
 Relax
 
 Alone = один
+
+Urgent = срочный
