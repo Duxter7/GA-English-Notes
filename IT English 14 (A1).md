@@ -784,3 +784,6 @@ He's got
 **Have** you *got*?
 **Has** it *got*?
 
+## 02-06-2025
+
+Fraud = мошенник
