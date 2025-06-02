@@ -310,4 +310,5 @@ Fur = мех
 Feather = перо
 Tail = хвост
 Shell = ракушка
-S
+Skin = кожа
+Trunk = хобот (багажник)
