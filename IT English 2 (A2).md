@@ -464,3 +464,23 @@ Hate
 
 Don't like to d
 
+## 02-06-2025
+
+What does it mean?
+What does it stand for?
+	It stands for File Transfer Protocol
+
+SFTP = Secure File Transfer Protocol
+SSL = Secure Socket Layer
+CSS = Cascading Style Sheets
+AI = artificial intelligence 
+JS = JavaScript
+
+WWW = World Wide Web
+DB = Database
+HTTP = Hyper Text Transfer Protocol
+TCP = Transmission Control Protocol
+COM = Component Object Model
+
+Hang - **hanged** - **hanged** = повешенный (человек)
+Hang - **hung** - **hung** = повесить (одежду)

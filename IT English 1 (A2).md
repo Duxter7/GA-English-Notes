@@ -541,3 +541,30 @@ Secure
 Unsecured network 
 
 Pay for
+
+## 02-06-2025
+
+I **have** a new MacBook = I'**ve got** (I have got) ...
+He **has** a new MacBook = He'**s got** (He has got) ...
+You **have** a new MacBook = You'**ve got** (You have got) ...
+
+I **don't have** a new MacBook = I **haven't got** ...
+He **doesn't have** a new MacBook = He **hasn't got**...
+You **don't have** a new MacBook = You **haven't got** ...
+
+**Do** I **have** a new MacBook? = **Have** I **got** ... ?
+**Does** he **have** a new MacBook? = **Has** he **got** ... ?
+**Do** you **have** a new MacBook? = **Have** you **got** ... ?
+
+Scream 
+Screen
+
+Your phone is cheap**er** *than* mine
+My computer is more expensive *than* yours
+Lada is more reliable than Mercedes 
+
+Like + ing
+Enjoy + ing
+Don't like + ing 
+Dislike + ing
+Love + ing
