@@ -550,5 +550,7 @@ Just a bad mood
 I would like **to** do
 I would love **to** do
 
-I like do**ing** (like to )
-I love do**ing** 
+I like do**ing** (like to do)
+I love do**ing** (love to do)
+I enjoy do**ing**
+
