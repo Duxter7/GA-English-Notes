@@ -370,6 +370,8 @@ We were studying English when the boss came in
 We 
 
 Heard
-Hurt 
 
+Hurt 
 Injure
+
+I know you're hurting
