@@ -363,3 +363,7 @@ Before going out
 Have/has + v3
 
 See - saw - seen
+
+
+We were studying English when the boss came in
+
