@@ -528,3 +528,32 @@ At lunch
 For breakfast
 For dinner
 For lunch
+
+## 03-06-2025
+
+Today
+
+Before going out
+
+Have/has + v3
+
+See - saw - seen
+
+
+We were studying English when the boss came in
+
+We 
+
+Heard
+
+Hurt 
+Injure
+
+I know you're hurting
+
+
+He had fixed the issue when the manager came in = сначала починил
+
+He was fixing the issue when the manager came in = в процессе починки
+
+	He fixed the issue when the manager came in = починил после того как пришел менеджер
