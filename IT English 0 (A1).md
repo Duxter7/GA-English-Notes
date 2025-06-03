@@ -690,3 +690,13 @@ You **don't have** a new MacBook = You **haven't got** ...
 We've got
 You've got
 They've got
+
+## 03-06-2025
+
+Do I have
+Does he have
+Does she have
+Does it have
+Do we have
+Do they have
+Do you have
