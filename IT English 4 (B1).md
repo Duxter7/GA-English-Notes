@@ -358,4 +358,4 @@ Since 2005
 
 Today
 
-Before going t
+Before going out
