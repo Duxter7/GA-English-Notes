@@ -227,3 +227,9 @@ ATV - all-terrain-vehicle
 After not having a car for 10 years
 
 Обогнать кого-то
+
+## 02-06-2025
+
+From the scratch = From the ground up = From the get go
+
+Sign in to

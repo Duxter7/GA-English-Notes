@@ -343,3 +343,17 @@ Poisonous
 Venomous
 
 Sting
+
+## 02-06-2025
+
+I woke up, I went to the kitchen, I looked into my fridge 
+
+Start to work
+Start working
+
+Would 
+
+He said he **would** do this
+He said he **will** do this 
+
+Have to = must = gotta (slang) 've gotta
