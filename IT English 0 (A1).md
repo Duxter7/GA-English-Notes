@@ -694,9 +694,9 @@ They've got
 ## 03-06-2025
 
 Do I have
-Do**es** he have - he has - he doesn't have
-Do**es** she have - she has - she doesn't have
-Do**es** it have - it has - it doesn't have
+Do**es** he have - he ha**s** - he doesn't have
+Do**es** she have - she ha**s** - she doesn't have
+Do**es** it have - it ha**s** - it doesn't have
 Do we have 
 Do they have
 Do you have
