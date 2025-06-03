@@ -368,3 +368,8 @@ See - saw - seen
 We were studying English when the boss came in
 
 We 
+
+Heard
+Hurt 
+
+Injure
