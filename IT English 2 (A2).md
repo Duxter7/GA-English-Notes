@@ -491,4 +491,7 @@ Reliable
 Cheap
 
 Your phone is **the** most expensive in this office
-Your laptop 
+Your laptop is **the** smallest
+This day is **the** coldest this Summer
+
+It is the worst day in my life
