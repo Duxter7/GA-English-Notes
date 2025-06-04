@@ -490,3 +490,5 @@ Hang - **hung** - **hung** = повесить (одежду)
 Reliable
 Cheap
 
+Your phone is **the** most expensive in this office
+Your laptop 
