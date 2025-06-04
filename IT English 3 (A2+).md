@@ -320,3 +320,8 @@ Brought
 
 Carry = носить с собой
 Care = заботиться
+
+## 04-06-2025
+
+Lights went out
+Power went out
