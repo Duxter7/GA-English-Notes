@@ -488,3 +488,4 @@ Hang - **hung** - **hung** = повесить (одежду)
 ## 04-06-2025
 
 Reliable
+Cheap
