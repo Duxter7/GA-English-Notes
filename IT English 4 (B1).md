@@ -396,3 +396,14 @@ I **was checking** the server status when the client **was called**
 
 The technician **fixed** the issue when the manager **came in**.
 The technician **had fixed** the issue when the manager **came in**.
+
+To be + v(ing)
+	was
+	were
+	is
+	are
+	am
+	will be
+	have been
+	had been
+	will have been
