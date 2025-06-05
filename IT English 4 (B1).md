@@ -392,3 +392,7 @@ I **had checked** the server status when the client **called**
 I **checked** the server status when the client **called**
 
 I **was checking** the server status when the client **was called**
+
+
+The technician **fixed** the issue when the manager **came in**.
+The technician **had fixed** the issue when the manager **came in**.
