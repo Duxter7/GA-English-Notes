@@ -407,3 +407,5 @@ To be + v(ing)
 	have been
 	had been
 	will have been
+
+I woke up today at 7, I went to the kitchen and opened the fridge. I got some milk 
