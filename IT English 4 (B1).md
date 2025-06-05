@@ -410,3 +410,6 @@ To be + v(ing)
 
 I woke up today at 7, I went to the kitchen and opened the fridge. I got some milk and bread, and suddenly I remembered that I had forgotten to lock my car
 
+I was working
+I will be working
+I am working
