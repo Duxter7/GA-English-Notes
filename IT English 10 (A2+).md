@@ -450,3 +450,16 @@ Hold something
 
 
 I enjoy watching 
+
+## 04-06-2025
+
+What **did** you **do** when the internet **went** down?
+	I rebooted my router
+What **were** you **doing** when the internet **went** down?
+	I was messaging with my friends
+
+I **checked** the server status when the client **called**
+
+I **was checking** the server status when the client **called**
+
+I **was checking** the server status when the client **was calling**
