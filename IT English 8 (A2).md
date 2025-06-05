@@ -557,3 +557,6 @@ I enjoy do**ing**
 ## 05-06-2025
 
 I **got used to** this
+
+Close to = близко
+	It's closer to the exit
