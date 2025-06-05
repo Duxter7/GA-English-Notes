@@ -556,4 +556,10 @@ He had fixed the issue when the manager came in = сначала починил
 
 He was fixing the issue when the manager came in = в процессе починки
 
-	He fixed the issue when the manager came in = починил после того как пришел менеджер
+He fixed the issue when the manager came in = починил после того как пришел менеджер
+
+## 05-06-2025
+
+She **was reading** user feedback while the team **was fixing** the bugs.
+
+She **read** user feedback while the team **was fixing** the bugs. the bugs.
