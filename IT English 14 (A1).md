@@ -808,3 +808,15 @@ He is busy
 Is he busy?
 
 You're = you are
+
+## 05-06-2025
+
+Driv**e** 
+
+## 09-06-2025
+
+**Comfortable** = удобный (физически (мягкий))
+	A comfortable chair 
+**Convenient** = удобный (абстрактно)
+	It's convenient for my work
+	Apple Watch is convenient for trainings

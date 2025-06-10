@@ -368,3 +368,52 @@ In the morning
 
 In these times
 During these times 
+
+## 06-06-2025
+
+I **checked** the server status when the client **called**
+
+I **had checked** the server status when the client **called**
+
+I **was checking** the server status when the client **called**
+
+I **was checking** the server status when the client **was calling**
+
+
+I **didn't realize** she had already left the office
+
+
+They **had finished** the presentation *before* the client arrived
+
+
+While I **was looking** for my phone, it suddenly rang.
+
+
+He **had forgotten** to save the file *before* closing it.
+
+
+She **was writing** an email when the system **crashed**
+She **wrote** an email when the system **crashed**
+She **had written** an email when the system **crashed**
+
+We **had** never **heard** of that app *before* they **mentioned** it.
+
+The technician **had** already **fixed** the issue when the manager **came in**.
+The technician **fixed** the issue when the manager **came in**
+The technician **was fixing** the issue when the manager **came in**
+
+I **shut** down the computer after I **had sent** the report
+
+They **hadn't read** the instructions *before* installing the software
+
+I **was trying** to log in while the team **was discussing** the results
+I **tried** to log in while the team **was discussing** the results
+
+Bor**ed**
+Tir**ed**
+Fix**ed**
+
+Wan**t**
+Deci**d**e
+
+

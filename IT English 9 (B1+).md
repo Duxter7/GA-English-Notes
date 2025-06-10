@@ -357,3 +357,9 @@ He said he **would** do this
 He said he **will** do this 
 
 Have to = must = gotta (slang) 've gotta
+
+## 06-06-2025
+
+1. The technician **had** **fixed** the issue when the manager **came in**.
+2. The technician **fixed** the issue when the manager **came in**
+3. The technician **was fixing** the issue when the manager **came in**

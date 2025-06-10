@@ -304,3 +304,18 @@ Won't (воунт)
 18-year-old 
 27 inch monitor
 
+## 05-06-2025
+
+**I enjoy** helping people
+
+**Wanting** help is ok
+
+I stopped to smoke
+I stopped smoking
+
+I forgot to lock the door
+I forgot locking the door
+
+**After** playing videogames I usually eat pizza
+
+I promise to do (~~done, did~~)

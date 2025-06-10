@@ -573,3 +573,11 @@ Love + ing
 
 When is your next meeting?
 
+## 09-06-2025
+
+Attaboy = молодец (для мальчиков)
+Attagirl = молодец (для девочек)
+
+Living room = гостиная
+Kitchen 
+Bedroom
