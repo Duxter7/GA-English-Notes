@@ -566,3 +566,9 @@ She **read** user feedback while the team **was fixing** the bugs. the bugs.
 
 Read - read - read
 
+## 10-06-2025
+
+Behave = вести
+	Behave yourself when we have guests
+Behavior = поведение
+	Your behavior is bad
