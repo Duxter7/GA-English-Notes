@@ -328,3 +328,8 @@ Power went out
 
 To be + participle
 
+## 11-06-2025
+
+Your colleagues have to work
+He doesn't have to study English
+Do you have to work now?
