@@ -507,3 +507,10 @@ Stairs = лестница
 
 Wardrobe
 Closet
+
+Sheep
+This
+This
+Shit
+Seat
+
