@@ -590,4 +590,5 @@ Garage
 Dining room
 
 Chair 
-Cupboard; Wardrobe (отдельный); Closet (встроенный)
+Cupboard (для посуды); Wardrobe (отдельный); Closet (встроенный)
+
