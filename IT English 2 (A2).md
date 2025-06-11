@@ -504,3 +504,6 @@ Couch = диван
 
 Ladder = стремянка
 Stairs = лестница
+
+Wardrobe
+Closet
