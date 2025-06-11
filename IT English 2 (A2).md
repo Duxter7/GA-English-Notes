@@ -499,3 +499,5 @@ Windows is **the** best OS
 
 ## 11-06-2025
 
+Coach = тренер
+Couch = диван
