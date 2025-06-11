@@ -501,3 +501,6 @@ Windows is **the** best OS
 
 Coach = тренер
 Couch = диван
+
+Ladder = стремянка
+Stairs = лестница
