@@ -581,3 +581,8 @@ Attagirl = молодец (для девочек)
 Living room = гостиная
 Kitchen 
 Bedroom
+
+## 11-06-2025
+
+Guest room
+Bathroom; Restroom 
