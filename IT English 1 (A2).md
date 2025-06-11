@@ -594,3 +594,5 @@ Cupboard (для посуды); Wardrobe (отдельный); Closet (встр�
 
 Sofa 
 Couch
+
+5 minutes away
