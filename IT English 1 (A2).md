@@ -592,3 +592,5 @@ Dining room
 Chair 
 Cupboard (для посуды); Wardrobe (отдельный); Closet (встроенный)
 
+Sofa 
+Couch
