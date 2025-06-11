@@ -585,4 +585,9 @@ Bedroom
 ## 11-06-2025
 
 Guest room
-Bathroom; Restroom 
+Bathroom; Restroom (public spaces)
+Garage
+Dining room
+
+Chair 
+Cupboard; Wardrobe (отдельный); Closet (встроенный)
