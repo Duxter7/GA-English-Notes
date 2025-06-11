@@ -333,3 +333,4 @@ To be + participle
 Your colleagues have to work
 He doesn't have to study English
 Do you have to work now?
+Does he have to work if he wants to buy car?
