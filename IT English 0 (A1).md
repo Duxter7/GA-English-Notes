@@ -706,3 +706,5 @@ Do you have
 Soldering station
 Soldering iron
 Solder = паять
+
+Screwdriver
