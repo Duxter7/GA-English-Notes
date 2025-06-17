@@ -565,4 +565,8 @@ Close to = близко
 
 Fridge = refrigerator
 
-Knives
+Knife - knives
+Wife - wives
+Wolf - wolves
+Shelf - shelves
+Elf - Elves 
