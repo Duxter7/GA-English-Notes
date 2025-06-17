@@ -584,3 +584,7 @@ What happened?
 
 Who **did** Jenny marry?
 Who married Jenny?
+
+What happened in the office?
+What did he say?
+Which ladoes he speak? 
