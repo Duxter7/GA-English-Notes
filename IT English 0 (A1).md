@@ -708,3 +708,5 @@ Soldering iron
 Solder = паять
 
 Screwdriver
+
+Scissors 
