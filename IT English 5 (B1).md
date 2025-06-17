@@ -579,3 +579,5 @@ Alotta
 
 Who **did** he hire?
 Who hired him?
+
+What happened?
