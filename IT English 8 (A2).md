@@ -564,3 +564,5 @@ Close to = близко
 ## 17-06-2025
 
 Fridge = refrigerator
+
+Knives
