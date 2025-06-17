@@ -413,3 +413,7 @@ I woke up today at 7, I went to the kitchen and opened the fridge. I got some mi
 I was working
 I will be working
 I am working
+
+## 17-06-2025
+
+Memorize / memorise
