@@ -574,3 +574,8 @@ Behavior = поведение
 	Your behavior is bad
 
 Alotta 
+
+## 17-06-2025
+
+Who **did** he hire?
+Who hired him?
