@@ -417,3 +417,8 @@ I am working
 ## 17-06-2025
 
 Memorize / memorise
+
+Who did Jane marry?
+Who married Jane?
+
+W
