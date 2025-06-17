@@ -700,3 +700,9 @@ Do**es** it have - it ha**s** - it doesn't have
 Do we have 
 Do they have
 Do you have
+
+## 17-06-2025
+
+Soldering station
+Soldering iron
+Solder = паять
