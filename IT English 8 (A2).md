@@ -577,3 +577,10 @@ Couch
 Ladder = стремянка
 
 I like to eat soap
+
+## 17-06-2025
+
+Ship - sheep
+Shit - sheet
+Bitch - beach
+This - these
