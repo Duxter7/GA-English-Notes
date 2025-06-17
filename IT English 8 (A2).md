@@ -573,4 +573,5 @@ Elf - Elves
 
 Sofa 
 Couch 
-	
+
+Ladder = стремянка
