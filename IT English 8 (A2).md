@@ -570,3 +570,7 @@ Wife - wives
 Wolf - wolves
 Shelf - shelves
 Elf - Elves 
+
+Sofa 
+Couch 
+	
