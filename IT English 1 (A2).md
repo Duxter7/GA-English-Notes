@@ -608,3 +608,20 @@ These
 Sheep
 B**i**tch
 Beach
+
+## 16-06-2025
+
+This = этот
+That = тот
+These = эти
+Those = те
+
+Here = здесь
+There = там
+
+This car is expensive
+Those employees are busy
+That chair is comfortable
+People there are very angry
+
+I don't *like* turn**ing** my phone off 

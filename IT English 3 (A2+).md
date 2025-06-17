@@ -335,3 +335,22 @@ He doesn't have to study English
 Do you have to work now?
 Does he have to work if he wants to buy car?
 
+## 16-06-2025
+
+Untangle = распутывать
+
+Have to = должен
+Don't have to = не обязан (как хочешь)
+Can't = запрет
+Can = можешь (как хочешь)
+
+Belly dance
+Ballet 
+
+Solder = паять
+	Soldering iron 
+Soldier = солдат
+
+Dead = мертвый
+Death = смерть
+Deaf = глухой

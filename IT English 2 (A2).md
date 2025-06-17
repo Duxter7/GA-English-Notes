@@ -520,3 +520,16 @@ Sh**i**p
 
 Steel
 Still 
+
+## 16-06-2025
+
+**This** laptop is very expensive
+**Those** employees are very busy
+**That** MacBook doesn't work
+**These** PCs (computers) are very fast
+
+**That** car *over there* doesn't start
+Our employees are very happy *here*
+
+Stuff = вещи
+Staff = персонал

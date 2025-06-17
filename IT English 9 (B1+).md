@@ -363,3 +363,11 @@ Have to = must = gotta (slang) 've gotta
 1. The technician **had** **fixed** the issue when the manager **came in**.
 2. The technician **fixed** the issue when the manager **came in**
 3. The technician **was fixing** the issue when the manager **came in**
+
+## 16-06-2025
+
+Postpone = откладывать (put off)
+
+If you ~~will~~ do this, I will get angry
+
+I will not help you unless you **tell** me what's wrong

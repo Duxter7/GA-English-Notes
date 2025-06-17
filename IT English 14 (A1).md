@@ -820,3 +820,34 @@ Driv**e**
 **Convenient** = удобный (абстрактно)
 	It's convenient for my work
 	Apple Watch is convenient for trainings
+
+## 16-06-2025
+
+My husband's laptop
+My son's schoolbooks
+
+My husband's an IT specialist
+My son's busy
+
+All-in-one PC
+
+-**Do** you have a MacBook?
+-Yes, I do
+or
+-Yes, I have a MacBook
+
+-**Is** he busy?
+-Yes, he **is**
+
+-**Are** you hungry?
+-Yes, I **am**
+
+-**Have** you got?
+-Yes, I **have**
+
+
+I've got
+I have
+I got
+
+Ballet
