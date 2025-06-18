@@ -635,3 +635,6 @@ I don't have = I haven't got
 He doesn't have = He hasn't got
 
 Do I have = Have I got
+Does he have = Has he got
+
+Do you have 
