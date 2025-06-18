@@ -432,6 +432,8 @@ What are you looking **at**?
 **For** who are you looking?
 **At** what are you looking?
 
-Who killed Kennedy?
+Who **killed** Kennedy?
 Who did Kennedy kill?
 
+Who did Jane marry?
+Who **married** Jane?
