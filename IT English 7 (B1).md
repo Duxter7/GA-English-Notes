@@ -431,3 +431,7 @@ What are you looking **at**?
 
 **For** who are you looking?
 **At** what are you looking?
+
+Who killed Kennedy?
+Who did Kennedy kill?
+
