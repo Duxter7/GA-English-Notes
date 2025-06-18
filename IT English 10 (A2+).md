@@ -476,4 +476,5 @@ although
 
 ## 18-06-2025
 
-You have to work every day
+You **have to** work every day
+You **don't have** to speak with Indians if you don't want to
