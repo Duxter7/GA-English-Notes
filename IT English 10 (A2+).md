@@ -480,4 +480,5 @@ You **have to** work every day
 You **don't have** to speak with Indians if you don't want to
 You **can't** speak with Indians even if you want to
 
-I have to = I've got to = I've gotta (slang) = I gotta (slang)= I must 
+I have to = I've got to = I've gotta (slang) = I gotta (slang)= I must (more formal)
+
