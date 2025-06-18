@@ -367,5 +367,8 @@ Clever
 What happened?
 What did happen?
 
-Who killed Kennedy?
+Who **killed** Kennedy?
 Who did *Kennedy* kill?
+
+Who **married** Jane?
+Who did *Jane* marry?
