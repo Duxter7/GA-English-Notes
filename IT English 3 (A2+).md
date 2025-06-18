@@ -354,3 +354,11 @@ Soldier = солдат
 Dead = мертвый
 Death = смерть
 Deaf = глухой
+
+## 18-06-2025
+
+Equal
+Brilliant
+Exciting 
+Clever
+
