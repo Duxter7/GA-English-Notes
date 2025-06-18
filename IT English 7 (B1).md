@@ -439,5 +439,4 @@ Who did Jane marry?
 Who **married** Jane?
 
 Consequences = последствия
-
 Make up your mind = определиться 
