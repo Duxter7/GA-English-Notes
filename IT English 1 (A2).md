@@ -631,4 +631,7 @@ I don't *like* turn**ing** my phone off
 I have = I have got = I've got
 He has - He has got = He's got
 
-I
+I don't have = I haven't got
+He doesn't have = He hasn't got
+
+Do I have = Have I got
