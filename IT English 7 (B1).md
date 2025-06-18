@@ -426,5 +426,8 @@ Who killed him?
 
 ## 18-06-2025
 
-Who are you looking for?
-What are you looking at?
+Who are you looking **for**?
+What are you looking **at**?
+
+**For** who are you looking?
+**At** what are you looking?
