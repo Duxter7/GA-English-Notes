@@ -362,4 +362,9 @@ Brilliant
 Exciting 
 Clever
 
-whore 
+ **Whore**
+
+What happened?
+What did happen?
+
+Who killed him
