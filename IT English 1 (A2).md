@@ -637,4 +637,8 @@ He doesn't have = He hasn't got
 Do I have = Have I got
 Does he have = Has he got
 
-Do you have 
+**Do** you have?
+Yes, I **do**
+
+**Have** you got?
+Yes, I **have**
