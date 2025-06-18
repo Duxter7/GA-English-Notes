@@ -437,3 +437,5 @@ Who did Kennedy kill?
 
 Who did Jane marry?
 Who **married** Jane?
+
+Consequences = последствия 
