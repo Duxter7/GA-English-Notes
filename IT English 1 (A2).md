@@ -625,3 +625,10 @@ That chair is comfortable
 People there are very angry
 
 I don't *like* turn**ing** my phone off 
+
+## 18-06-2025
+
+I have = I have got = I've got
+He has - He has got = He's got
+
+I
