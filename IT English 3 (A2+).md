@@ -367,4 +367,5 @@ Clever
 What happened?
 What did happen?
 
-Who killed him
+Who killed Kennedy?
+Who did *Kennedy* kill?
