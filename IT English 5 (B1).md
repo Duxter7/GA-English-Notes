@@ -597,3 +597,5 @@ Knowledge = знания
 Spouse = супруг; супруга
 
 It depends on ... 
+
+Make up your mind = определиться
