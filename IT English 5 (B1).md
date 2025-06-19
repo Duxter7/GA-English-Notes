@@ -609,5 +609,6 @@ Whole heartedly agree
 
 Makes sense = имеет смысл
 
-Wardrobe
-Closet
+Wardrobe = шкаф
+Closet = встроенный шкаф
+Shelf = полка 
