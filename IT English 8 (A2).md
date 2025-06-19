@@ -601,3 +601,8 @@ Stuff = вещи
 Staff = персонал 
 
 I've got = I have got = I have
+
+~~I haven't a phone~~ = I haven't got a phone
+
+I haven't got = I don't have
+He hasn't got = 
