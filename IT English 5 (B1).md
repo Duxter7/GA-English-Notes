@@ -594,3 +594,5 @@ Who broke the server?
 
 Doubts = сомнения
 Knowledge = знания
+Spouse = супруг; супруга
+
