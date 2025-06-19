@@ -599,3 +599,5 @@ It's very hot here (in here)
 
 Stuff = вещи
 Staff = персонал 
+
+I've got = I have got = I have
