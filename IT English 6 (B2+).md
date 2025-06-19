@@ -172,3 +172,5 @@ Buy **off of** Ebay (informal / slang)
 
 Eavesdrop 
 Listen in on
+
+Tear
