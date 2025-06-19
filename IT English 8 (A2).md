@@ -593,4 +593,6 @@ Wage = ставка
 That employee is very angry
 These children are very noisy
 Food over there is very expensive
-This person is very hungr
+This person is very hungry
+Those PCs are old
+It's very hot here (in here)
