@@ -589,3 +589,4 @@ This - these
 
 Salary = зарплата (оклад)
 Wage = ставка 
+
