@@ -589,3 +589,9 @@ What happened in the office?
 What did he say?
 Which language does he speak? 
 Who broke the server?
+
+## 19-06-2025
+
+Doubts = сомнения
+
+Knoweledge = 
