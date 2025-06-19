@@ -590,3 +590,5 @@ This - these
 Salary = зарплата (оклад)
 Wage = ставка 
 
+That employee is very angry
+These children are very noisy
