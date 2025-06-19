@@ -584,3 +584,8 @@ Ship - sheep
 Shit - sheet
 Bitch - beach
 This - these
+
+## 19-06-2025
+
+Salary = зарплата (оклад)
+Wage = ставка 
