@@ -596,3 +596,4 @@ Doubts = сомнения
 Knowledge = знания
 Spouse = супруг; супруга
 
+It depends on ... 
