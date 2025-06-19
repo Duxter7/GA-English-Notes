@@ -430,3 +430,5 @@ Make up someone's mind = определиться
 Wear - wore - worn = носить
 Put on = надевать; одевать
 Get dressed = одеваться
+
+Ordinary 
