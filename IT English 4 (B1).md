@@ -432,3 +432,6 @@ Put on = надевать; одевать
 Get dressed = одеваться
 
 Ordinary person
+
+I'm going to go = I'm going
+I'm going to come = I'm coming
