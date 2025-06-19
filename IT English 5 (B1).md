@@ -608,3 +608,6 @@ Completely agree
 Whole heartedly agree
 
 Makes sense = имеет смысл
+
+Wardrobe
+Closet
