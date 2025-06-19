@@ -605,4 +605,7 @@ I've got = I have got = I have
 ~~I haven't a phone~~ = I haven't got a phone
 
 I haven't got = I don't have
-He hasn't got = 
+He hasn't got = He doesn't have
+
+*Have* you got? = *Do* you have?
+*Has* he got? = *Does* he have?
