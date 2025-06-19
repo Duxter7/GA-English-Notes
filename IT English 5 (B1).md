@@ -603,3 +603,6 @@ Make up your mind = определиться
 Wear = носить
 Put on = надеть; одеть
 Get dressed = одеться
+
+Completely agree 
+Whole heartedly agree 
