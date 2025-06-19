@@ -612,3 +612,5 @@ Makes sense = имеет смысл
 Wardrobe = шкаф
 Closet = встроенный шкаф
 Shelf = полка 
+
+I'm going to the cinema in a couple of hours
