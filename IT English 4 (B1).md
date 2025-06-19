@@ -423,3 +423,6 @@ Who married Jane?
 
 Who
 
+## 19-06-2025
+
+Make up someone's mind = определиться
