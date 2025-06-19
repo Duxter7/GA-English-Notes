@@ -605,4 +605,6 @@ Put on = надеть; одеть
 Get dressed = одеться
 
 Completely agree 
-Whole heartedly agree 
+Whole heartedly agree
+
+Makes sense = имеет смысл
