@@ -599,3 +599,6 @@ Spouse = супруг; супруга
 It depends on ... 
 
 Make up your mind = определиться
+
+Wear = носить
+Put on = 
