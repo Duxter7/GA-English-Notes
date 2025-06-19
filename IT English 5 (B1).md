@@ -601,4 +601,5 @@ It depends on ...
 Make up your mind = определиться
 
 Wear = носить
-Put on = 
+Put on = надеть; одеть
+Get dressed = одеться
