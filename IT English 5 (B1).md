@@ -593,5 +593,4 @@ Who broke the server?
 ## 19-06-2025
 
 Doubts = сомнения
-
-Knoweledge = 
+Knowledge = знания
