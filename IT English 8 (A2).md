@@ -610,8 +610,8 @@ He hasn't got = He doesn't have
 *Have* you got? = *Do* you have?
 *Has* he got? = *Does* he have?
 
-Did you do this?
-Yes, I did?
+**Did** you do this?
+Yes, I **did**?
 
-Are you busy?
-Yes, I am 
+**Are** you busy?
+Yes, I **am** 
