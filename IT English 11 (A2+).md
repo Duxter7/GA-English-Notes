@@ -319,3 +319,24 @@ I forgot locking the door
 **After** playing videogames I usually eat pizza
 
 I promise to do (~~done, did~~)
+
+## 18-06-2025
+
+I went shopping 
+Bottom = дно
+
+You **have to** work because I want it
+You **don't have to** talk with (to) Indians if you don't want to
+You **can't** talk to Indians even with you want to
+
+Dessert = десерт
+Desert = пустыня
+To desert = дезертировать
+
+I have to work = I've got to work = I've gotta work (slang) = I gotta work (slang)
+
+You don't have to come *vs* you can't come
+
+Driving licence (UK) = Driver's license (US)
+
+It's important that she **be** on time

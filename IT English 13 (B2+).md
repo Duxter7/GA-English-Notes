@@ -110,3 +110,15 @@ Much faster
 ## 16-06-2025
 
 Speak on the phone
+
+## 18-06-2025
+
+Power outage
+The lights went out
+
+Edgard Raven
+
+Schizophrenia
+
+memento movie
+
