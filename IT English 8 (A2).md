@@ -615,3 +615,69 @@ Yes, I **did**?
 
 **Are** you busy?
 Yes, I **am** 
+
+## 01-07-2025
+
+Host
+Guest
+Both
+
+Let me *take* your bag
+Let me *bring* / *get* you something to drink
+
+Neighborhood 
+Hood = гетто; капюшон
+
+Other buildings
+Another building
+
+Grocery store
+Kindergarten
+
+There are
+There's 
+
+## 03-07-2025
+
+There isn't money
+There isn't **any** money
+
+Grocery store
+
+Near my building
+Near my apartment
+
+There are many shops near my home
+
+Grocery store
+
+There's a forest, kindergarten, grocery store
+There's a forest, kindergartens, grocery stores
+
+## 10-07-2025
+
+They **were** at home last holiday
+I **was** at home yesterday
+I **was** in the office from Monday to Tuesday
+He **was** in a tournament on 5th July
+She **was** in a cinema last week
+I **was** happy to see you
+
+
+Be 
+1. am
+2. is
+3. are
+
+4. was
+5. were
+
+6. will *be*
+
+**Are not** vs **don't** 
+
+Tomorrow is Friday
+I don't work tomorrow
+
+Ordinary 
+Pregnant

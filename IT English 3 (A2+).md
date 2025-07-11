@@ -373,3 +373,76 @@ Who did *Kennedy* kill?
 Who **married** Jane?
 Who did *Jane* marry?
 
+## 23-06-2025
+
+Earring = сережка
+
+Lose - lost - lost
+
+## 02-07-2025
+
+The schedule was changed and then I couldn't attend 
+I was studying
+
+There wasn't chemistry in our school
+
+Absent
+
+1st grade
+2nd grade
+etc. 
+
+I didn't have a choice
+
+Every day = каждый день
+Everyday = ежедневный
+
+Couldn't = не мог (запрет)
+Didn't have to = не обязан (мог не делать)
+Had to = обязан был (100 процентов)
+
+Did you have to work?
+Did you like this cake?
+
+Did Did do this?
+
+Will Will Smith smith a sword?
+
+## 07-07-2025
+
+Take the bag
+Close the door
+Press the button
+
+First
+Now
+Then
+After that
+
+You need to
+You have to
+
+What next?
+What now?
+
+Is this right?
+Is that all?
+
+Not like that, like this
+
+---
+
+You **had to** work yesterday
+You **didn't have to** call Indians
+I **couldn't** finish this task yesterday 
+
+## 09-07-2025
+
+Occupied = занятый (кем-то или чем-то)
+
+I played videogames (давно)
+I have played videogames (недавно)
+
+I've finish**ed** the lesson
+
+Do - did - done 

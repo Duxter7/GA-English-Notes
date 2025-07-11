@@ -176,3 +176,36 @@ Listen in on
 Tear
 
 I think, therefore I am
+
+## 03-07-2025
+
+*It's time* we **went** to bed
+*It's time* we **were** all together
+
+Niko
+
+It's impossible
+
+## 08-07-2025
+
+<u>Could you tell me</u> where the bus stop is?
+
+Deprived of his happiness 
+
+Officer - Sergeant - Lieutenant - Captain - Major  
+
+If I were you, I would do it differently 
+Were I you, I would do it differently 
+
+Were I to study hard, I would get more money
+
+## 10-07-2025
+
+If we don't have food, we go to a grocery store (always) **0**
+If we don't have food, we will go to a grocery store (one time) **1st**
+If you don't have food, let us know (one time) **1st**
+
+Pay rise (UK) = Pay raise (US)
+
+Can't 
+

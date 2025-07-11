@@ -614,3 +614,85 @@ Closet = встроенный шкаф
 Shelf = полка 
 
 I'm going to the cinema in a couple of hours
+
+## 24-06-2025
+
+150% - **present continuous**
+100% - **going to**
+100% (neutral, no plans) - **will**
+50% - **might**; **may**
+
+*Going to* - *gonna* - gon' (slang) - finna (slang)
+
+~~I gonna to do~~ = I'm gonna do
+
+
+Walk there
+Go on foot
+
+## 26-06-2025
+
+1. Present continuous = 150%
+2. Going to (gonna) = 100%
+3. Will = 100% (no plans)
+4. Might / may = 50%
+
+Overwhelming = too much
+
+Foreigner 
+
+Temporary 
+
+I could never walk 
+
+European Nation = EU 
+
+Applicant 
+Application 
+
+Facilities 
+
+## 01-07-2025
+
+Injury 
+
+Stitches 
+Stich someone
+
+<u>I don't know </u>*where* <u>the station is</u>
+<u>Could you tell me </u> *where* <u>the station is</u>?
+Where is the station?
+
+He asked where the bus stop were
+Do you want to know who fixed the server?
+
+Shadowing
+
+I've known my two friends since I was 18 
+
+Give up
+
+Look
+Look at
+Look for
+Look after
+Look forward to 
+	We are looking forward to meeting with you
+Look up to 
+
+
+To **be** **into** something = to like something
+
+## 08-07-2025
+
+I **look** **after** my son
+
+**Put** clothes **on**
+**Put** **on** clothes
+
+Last night I decided to **put on** this beautiful and extravagant new *dress* 
+Last night I decided to **put** this beautiful and extravagant new *dress* **on** 
+
+Put **it** on
+
+Roast someone

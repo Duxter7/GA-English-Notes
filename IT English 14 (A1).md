@@ -851,3 +851,58 @@ I have
 I got
 
 Ballet
+
+## 19-06-2025
+
+Some = немного (какие-то)
+	We have some money
+	She has some problems
+Any = любые
+	Do you have any money?
+	Does she have any problems?
+
+Do you have a MacBook?
+What do you want?
+
+## 26-06-2025
+
+Can I **try** it **on**
+
+Can I **try** these shoes **on**
+Can I **try** these new beautiful and surprisingly inexpensive shoes **on**
+
+Fitting room
+Changing room
+Dressing room
+
+## 03-07-2025
+
+Do you have *an* email address?
+
+Foreigner = иностранец
+Foreign = иностранный 
+
+Do you have *an* Italian speaker in the office?
+
+Really like
+Really want
+Really think
+
+Together = вместе
+
+Some people like music, but some don't
+
+You made it = Ты смог
+
+Answer (энсэр)
+
+"@" = at
+"." = dot
+"-" = dash
+"__" = underscore
+
+Let me see 
+
+## 10-07-2025
+
+Я **никогда** **не** ем рыбу = I **never** eat fish

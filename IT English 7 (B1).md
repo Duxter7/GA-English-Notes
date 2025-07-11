@@ -440,3 +440,16 @@ Who **married** Jane?
 
 Consequences = последствия
 Make up your mind = определиться 
+
+## 20-06-2025
+
+Put on = надевать; одевать
+Get dressed = одеваться
+Wear = носить
+
+Makes sense 
+
+Advantages and disadvantages
+Pros and cons = плюс и минусы
+
+

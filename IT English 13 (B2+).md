@@ -122,3 +122,6 @@ Schizophrenia
 
 memento movie
 
+## 23-06-2025
+
+Treadmill = беговая дорожка

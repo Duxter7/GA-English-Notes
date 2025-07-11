@@ -710,3 +710,75 @@ Solder = паять
 Screwdriver
 
 Scissors 
+
+## 24-06-2025
+
+**A** 
+a daughter, a computer, a job
+
+**An**
+An app, an ethernet cable
+
+I have some money
+
+<font color="#4f81bd">Do</font> <u>Pat and Viv</u> <font color="#9bbb59">have</font>
+<font color="#4f81bd">Do</font> <u>we</u> <font color="#9bbb59">have</font>
+<font color="#4f81bd">Do</font> <u>the students</u> <font color="#9bbb59">have</font>
+
+## 27-06-2025
+
+**Some** = в утверждениях
+	I have some pens on my desk
+	We have some servers 
+**Any** = вопросы и отрицания 
+	Do you have any pens on your desk?
+	We don't have any servers.
+**A**/**an** = единственное число
+	We have **a** pen
+	I don't have **a** PC
+
+Trousers = штаны (UK)
+Pants = штаны (US)
+
+Pants = трусы (UK)
+Underwear = трусы (US)
+
+Try on = примерять
+Excuse me = извините (для привлечения внимания)
+How much ...
+
+Changing room
+Fitting room
+Dressing room
+
+## 01-07-2025
+
+How much are these?
+
+Be
+1. are
+2. is
+3. am
+
+
+Can I try *it* on?
+Can I try *the jacket* on?
+Turn *the computer* off
+
+What size are you?
+
+## 04-07-2025
+
+Groceries = продукты питания
+Grocery store
+I buy nothing online = I don't buy anything online
+
+Pay for = платить
+
+I buy bread and oil,  in a shop
+
+You can't buy beer online
+
+## 08-07-2025
+
+Chores = работа по дому

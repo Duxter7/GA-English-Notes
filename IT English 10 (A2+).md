@@ -1,5 +1,4 @@
 
-
 Something in common = что-то общее
 
 What do you do?
@@ -482,3 +481,45 @@ You **can't** speak with Indians even if you want to
 
 I have to = I've got to = I've gotta (slang) = I gotta (slang)= I must (more formal)
 
+## 20-06-2025
+
+Have to (обязан)
+Don't have to (необязательно)
+Can't (запрещено)
+
+Do you have to work every day?
+My boss can't work from home
+Does he have to listen to music so loud?
+Indians have to fix Quizizz 
+
+You can sit here but you don't have to
+
+Have to = gotta = have gotta = have got to = must
+
+That's a good sign = это хороший знак
+Sign = подписывать
+Sign language = язык жестов
+Sign in = войти в систему
+
+## 25-06-2025
+
+Who did Kennedy kill?
+Who killed Kennedy?
+
+~~What did Kennedy happen?~~
+What happened to Kennedy?
+
+I like
+He likes
+She likes
+It likes
+They live
+
+What **did** <u>Leo</u> **lose** yesterday
+
+Who lost their keys?
+Where does Jake see Maria?
+
+**Can you tell** me where the bus station is?
+**Could you tell** me where the nearest bar is?
+**Could you tell** me if I have to work here?

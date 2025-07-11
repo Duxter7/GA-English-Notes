@@ -533,3 +533,23 @@ Our employees are very happy *here*
 
 Stuff = вещи
 Staff = персонал
+
+## 23-06-2025
+
+Get caught in the rain
+
+Catch - caught - caught
+
+Vice versa
+
+There aren't 
+
+## 09-07-2025
+
+Be
+1. am
+2. is
+3. are
+
+4. was
+5. were

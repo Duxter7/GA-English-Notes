@@ -437,3 +437,50 @@ I'm going to go = I'm going
 I'm going to come = I'm coming
 
 Going to = gonna = gon' = finna (slang)
+
+## 24-06-2025
+
+Will
+
+Going to
+
+Present Continuous
+
+Might
+
+## 01-07-2025
+
+Thrice
+Three times 
+
+Call it a day
+Start from scratch
+
+## 03-07-2025
+
+Throw - threw - thrown
+
+Clothes
+Library
+
+That makes the two of us
+Mind the door
+
+## 08-07-2025
+
+Take off
+Put on
+
+**Put on** your clothes
+**Put** your clothes **on**
+
+**Look after** this person
+~~**Look** this person **after**~~
+
+Put **it** on
+
+## 10-07-2025
+
+Have to = gotta = have got to = 've gotta
+
+You have to have 

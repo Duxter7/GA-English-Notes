@@ -644,3 +644,49 @@ Yes, I **do**
 Yes, I **have**
 
 5600 = fifty-six hundred
+
+## 23-06-2025
+
+Offer = предложение; предлагать
+All-in-all 
+
+Get = получать (causual)
+Receive = получать (формально)
+
+## 25-06-2025
+
+I'm fine (я не хочу)
+I'm good (я не хочу)
+I'm full (я сыт)
+
+*Я сыт; я не хочу*
+
+That's kind of you
+
+## 02-07-2025
+
+Café 
+
+Car park
+Parking lot 
+
+There are many new MacBooks in the office.
+There aren't any Indians in the office.
+There are *a lot of* / *lots of* old keyboards on the desk
+There is chaos in the world
+There is a lot of love in my family
+There is no money / There isn't any money
+
+## 07-07-2025
+
+**Be** = быть; являться
+	*Настоящее*
+1. am
+2. is
+3. are
+	*Прошедшее*
+4. was
+5. were
+
+Where 
+Were

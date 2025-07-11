@@ -239,3 +239,47 @@ Sign in to
 **Buy from Ebay**
 **Buy off Ebay**
 Buy off of (informal)
+
+## 20-06-2025
+
+She acted as if she was important
+She acted as if she were important
+
+Eavesdrop 
+Listen in on 
+
+Geek
+
+Gig 
+
+Polite
+Impolite
+
+## 07-07-2025
+
+He got hit / was hit by a car
+
+## 11-07-2025
+
+I could save you
+I could have saved you
+
+**0**
+If he gets angry, everybody cries
+
+**1st**
+If he gets angry, everybody will cry
+
+**3rd**
+Should you have taken this photo, you would have been in trouble
+
+I like to do
+I like doing
+
+I dislike to do
+I dislike doing
+
+I see him right now = "with my eyes"
+I'm seeing him tomorrow = I'll meet with him
+
+Pay rise (UK) = Pay raise (US)

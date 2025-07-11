@@ -340,3 +340,50 @@ You don't have to come *vs* you can't come
 Driving licence (UK) = Driver's license (US)
 
 It's important that she **be** on time
+
+## 19-06-2025
+
+I'm going to Dubai next week, I'm so excited
+Going to Dubai is so exciting!
+
+## 25-06-2025
+
+Who **did** *Kennedy* **kill**?
+Who **killed** Kennedy?
+
+*What* happened?
+
+Who did Suzie marry?
+Who married Suzie?
+
+## 26-06-2025
+
+My phone is dead
+My laptop has died
+
+## 03-07-2025
+
+Condensed milk = сгущенка
+
+Leftovers = остатки еды
+Remains = останки человека
+
+Utensils = кухонные принаджелжности
+Cutlery = столовые приборы
+
+5 minutes remain
+Literature 
+
+Give - gave - given
+
+Headache
+Tooth
+
+## 10-07-2025
+
+Can = /kn/
+
+Mark's = Mark is; Mark has; Mark's
+
+I had a lot of tasks today (*it's the evening, you're at home*)
+I've had a lot of tasks today (*you are working right now*)

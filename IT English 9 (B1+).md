@@ -371,3 +371,24 @@ Postpone = откладывать (put off)
 If you ~~will~~ do this, I will get angry
 
 I will not help you unless you **tell** me what's wrong
+
+Have to - must - gotta - have/has got ta 
+
+## 27-06-2025
+
+1. At your first school, **were** you allowed to wear your own clothes or **did** you have to wear a uniform?
+2. What time **are** we **supposed** **to** arrive at the party this evening and **have** we **got** **to** wear anything special?
+3. When will/does this report need to be finished by?
+
+Rob someone
+Robber
+
+## 07-07-2025
+
+I have to **make do**
+
+I don't know what to call it
+
+* Read between the lines = understand the hidden meaning
+* Make up your mind = определись
+* Make up = придумывать
