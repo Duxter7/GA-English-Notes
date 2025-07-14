@@ -919,3 +919,5 @@ Quiet = тихий
 Queue (UK) / line (US)= очередь 
 
 Hundred
+
+Cute = милый
