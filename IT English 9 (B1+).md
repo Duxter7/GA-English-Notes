@@ -395,4 +395,5 @@ I don't know what to call it
 
 ## 14-07-2025
 
-I'd = 
+'d = would; had; did
+	Why'd you do this?
