@@ -446,3 +446,8 @@ I have played videogames (недавно)
 I've finish**ed** the lesson
 
 Do - did - done 
+
+## 14-07-2025
+
+I'**ve worked** at Gold Apple for 2 years
+I worked at Gold Apple for 2 years
