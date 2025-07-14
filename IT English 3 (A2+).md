@@ -453,4 +453,5 @@ I'**ve worked** at Gold Apple for 2 years (you still work there)
 I worked at Gold Apple for 2 years (you don't work there anymore)
 
 Have / has + V3 
-	
+	I've *just* eaten
+	Have you
