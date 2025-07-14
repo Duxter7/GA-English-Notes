@@ -561,4 +561,5 @@ My best friends **weren't** hungry two hours ago
 His boss (manager) **was** very angry 5 minutes ago
 
 Where **were** you last weekend?
-
+**Were** you upset *because of* her?
+**Were** you angry or not?
