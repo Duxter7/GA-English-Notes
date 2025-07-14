@@ -556,3 +556,5 @@ Be
 
 ## 14-07-2025
 
+I **was** busy yesterday
+My best friends **weren't** hungry two hours ago
