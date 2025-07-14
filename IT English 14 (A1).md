@@ -906,3 +906,11 @@ Let me see
 ## 10-07-2025
 
 Я **никогда** **не** ем рыбу = I **never** eat fish
+
+## 14-07-2025
+
+Quite = довольно
+	It is quite good
+
+Quit = выйти; бросить
+Quiet = тихий
