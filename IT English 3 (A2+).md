@@ -449,5 +449,8 @@ Do - did - done
 
 ## 14-07-2025
 
-I'**ve worked** at Gold Apple for 2 years
-I worked at Gold Apple for 2 years
+I'**ve worked** at Gold Apple for 2 years (you still work there)
+I worked at Gold Apple for 2 years (you don't work there anymore)
+
+Have / has + V3 
+	
