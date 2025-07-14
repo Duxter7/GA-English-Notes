@@ -558,3 +558,6 @@ Be
 
 I **was** busy yesterday
 My best friends **weren't** hungry two hours ago
+His boss (manager) **was** very angry 5 minutes ago
+
+Where 
