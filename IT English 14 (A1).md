@@ -914,3 +914,6 @@ Quite = довольно
 
 Quit = выйти; бросить
 Quiet = тихий
+	Be quiet
+
+Queue (UK) / line (US)= очередь 
