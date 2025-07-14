@@ -392,3 +392,7 @@ I don't know what to call it
 * Read between the lines = understand the hidden meaning
 * Make up your mind = определись
 * Make up = придумывать
+
+## 14-07-2025
+
+I'd = 
