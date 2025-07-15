@@ -484,3 +484,8 @@ Put **it** on
 Have to = gotta = have got to = 've gotta
 
 You have to have 
+
+## 15-07-2025
+
+Tent = палатка
+Dorm / dormitory = общага
