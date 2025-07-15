@@ -489,3 +489,4 @@ You have to have
 
 Tent = палатка
 Dorm / dormitory = общага
+Poverty = нищета
