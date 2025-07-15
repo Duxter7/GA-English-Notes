@@ -782,3 +782,7 @@ You can't buy beer online
 ## 08-07-2025
 
 Chores = работа по дому
+
+## 15-07-2025
+
+Angry with = злиться на кого-то
