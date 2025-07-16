@@ -471,5 +471,7 @@ Back pain
 	1. I **have** **been** to Moscow twice
 	2. He **has** never **swum** in the ocean
 2. Started in the past and still not finished (or finished recently)
-	1. I have worked at Gold Apple for 5 years
+	1. I **have** **worked** at Gold Apple for 5 years
+	2. I **have** just **come**
 3. Asking for experience
+	1. Have you ever tried a crayfish
