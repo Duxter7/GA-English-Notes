@@ -474,4 +474,7 @@ Back pain
 	1. I **have** **worked** at Gold Apple for 5 years
 	2. I **have** just **come**
 3. Asking for experience
-	1. Have you ever tried a crayfish
+	1. **Have** you **ever** **tried** a crayfish
+	2. **Has** he **ever** **flown** on a plane?
+
+P.S. aeroplane = a
