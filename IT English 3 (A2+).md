@@ -468,5 +468,8 @@ Knee pain
 Back pain
 
 1. Experience 
+	1. I **have** **been** to Moscow twice
+	2. He **has** never **swum** in the ocean
 2. Started in the past and still not finished (or finished recently)
-3. Asking for experien
+	1. I have worked at Gold Apple for 5 years
+3. Asking for experience
