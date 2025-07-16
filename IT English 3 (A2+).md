@@ -467,4 +467,6 @@ Ache = боль (ноющая)
 Knee pain
 Back pain
 
-1. Experien
+1. Experience 
+2. Started in the past and still not finished (or finished recently)
+3. Asking for experien
