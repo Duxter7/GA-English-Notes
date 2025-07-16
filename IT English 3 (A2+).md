@@ -456,3 +456,13 @@ Have / has + V3
 	I'**ve** *just* **eaten**
 	**Have** you ever **tried** crabs?
 	I **haven't finished** the task yet.
+
+## 16-07-2025
+
+Ache = боль (ноющая)
+	Headache 
+	Stomachache
+	Toothache
+
+Knee pain
+Back pain
