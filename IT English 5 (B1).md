@@ -718,3 +718,6 @@ Downstairs
 
 Stairs = лестница
 Ladder = стремянка
+
+Soldering = пайк
+Soldered 
