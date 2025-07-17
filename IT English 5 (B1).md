@@ -702,3 +702,4 @@ Roast someone
 Power outage = отключение света
 Electricity is out = нет электричества
 
+On your own
