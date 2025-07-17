@@ -495,5 +495,5 @@ Poverty = нищета
 
 Power outage = отключение электричества
 
-Tank top
-Vest
+Tank top (US)
+Vest (UK)
