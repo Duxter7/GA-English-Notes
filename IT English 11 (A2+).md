@@ -392,3 +392,10 @@ I've had a lot of tasks today (*you are working right now*)
 
 I've already finished the project
 My friend has gone to Australia
+
+## 17-07-2025
+
+I **owe** two weeks' rent
+
+Own = владеть
+Owe = быть должным
