@@ -684,4 +684,6 @@ Pregnant
 
 ## 17-07-2025
 
-Atch
+Achoo = апчхи
+Phew = фух
+Woof = гав 
