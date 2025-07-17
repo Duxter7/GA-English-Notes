@@ -497,3 +497,6 @@ Power outage = отключение электричества
 
 Tank top (US)
 Vest (UK)
+
+Achoo = апчхи
+Phew = фух
