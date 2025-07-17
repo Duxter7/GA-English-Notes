@@ -494,3 +494,6 @@ Poverty = нищета
 ## 17-07-2025
 
 Power outage = отключение электричества
+
+Tank top
+Vest
