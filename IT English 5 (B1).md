@@ -712,4 +712,9 @@ Silly me = как глупо с моей стороны
 
 Achoo = апчхи 
 Phew = фух
-Ah = ох
+
+Upstairs
+Downstairs
+
+Stairs = лестница
+Ladder = стремянка
