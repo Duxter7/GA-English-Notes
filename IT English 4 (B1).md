@@ -490,3 +490,7 @@ You have to have
 Tent = палатка
 Dorm / dormitory = общага
 Poverty = нищета
+
+## 17-07-2025
+
+Power outage = отключение электричества
