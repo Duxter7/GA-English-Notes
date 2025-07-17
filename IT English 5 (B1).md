@@ -699,4 +699,5 @@ Roast someone
 
 ## 17-07-2025
 
-Power 
+Power outage = отключение света
+Electricity is out = нет электричества
