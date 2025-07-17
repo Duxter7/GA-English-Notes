@@ -709,3 +709,7 @@ Are there any more tissues?
 I feel awful
 
 Silly me = как глупо с моей стороны
+
+Achoo = апчхи 
+Phew = фух
+Ah = ох
