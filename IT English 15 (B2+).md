@@ -289,3 +289,7 @@ Pay rise (UK) = Pay raise (US)
 What are the specs?
 
 Power efficient CPU
+
+Thermal paste = термопаста
+
+I've never done it
