@@ -287,9 +287,7 @@ Pay rise (UK) = Pay raise (US)
 ## 18-07-2025
 
 What are the specs?
-
 Power efficient CPU
-
 Thermal paste = термопаста
 
 I've never done it
