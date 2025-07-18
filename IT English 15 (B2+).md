@@ -319,6 +319,6 @@ Noisier
 
 A lot of corporations (many)
 
-**Lay off** vs **Fire** = 
+**Lay off** vs **Fire** = Lay off is downsizing, firing is when you did something wrong
 
 Paranoid 
