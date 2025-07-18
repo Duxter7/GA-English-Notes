@@ -414,3 +414,5 @@ Community college (2 years)
 In AmE school can mean university 
 
 in BrE a university is an **uni**
+
+Do someone = fuck someone 
