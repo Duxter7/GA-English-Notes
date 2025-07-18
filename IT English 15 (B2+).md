@@ -308,3 +308,5 @@ HDD
 ![[Pasted image 20250718123953.png]]
 
 1. You can stay at home
+
+Commute = go to work and back
