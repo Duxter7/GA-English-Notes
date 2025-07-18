@@ -291,3 +291,4 @@ Power efficient CPU
 Thermal paste = термопаста
 
 I've never done it
+
