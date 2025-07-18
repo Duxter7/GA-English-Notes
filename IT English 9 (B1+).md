@@ -410,3 +410,7 @@ From the get-go = from the start
 
 College (2 years or 4 years) ~ university (4 years)
 Community college (2 years)
+
+In AmE school can mean university 
+
+in BrE a university is an uni
