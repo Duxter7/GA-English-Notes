@@ -416,3 +416,8 @@ In AmE school can mean university
 in BrE a university is an **uni**
 
 Do someone = fuck someone 
+
+Restroom
+Bathroom
+
+Whipped cream = squirty cream = взбитые сливки
