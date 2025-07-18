@@ -423,3 +423,6 @@ Bathroom
 Whipped cream = squirty cream = взбитые сливки
 
 Make up = invent = придумывать
+
+Stuff = вещи
+Staff = персонал
