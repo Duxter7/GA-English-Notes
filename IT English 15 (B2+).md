@@ -319,4 +319,6 @@ Noisier
 
 A lot of corporations (many)
 
-**Lay off** vs **Fire** 
+**Lay off** vs **Fire** = 
+
+Paranoid 
