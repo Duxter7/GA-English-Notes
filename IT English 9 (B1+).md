@@ -421,3 +421,5 @@ Restroom
 Bathroom
 
 Whipped cream = squirty cream = взбитые сливки
+
+Make up = invent = придумывать
