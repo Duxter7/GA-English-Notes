@@ -283,3 +283,9 @@ I see him right now = "with my eyes"
 I'm seeing him tomorrow = I'll meet with him
 
 Pay rise (UK) = Pay raise (US)
+
+## 18-07-2025
+
+What are the specs?
+
+Power efficient CPU
