@@ -295,3 +295,6 @@ I've never done it
 **Memory** vs **Storage** = memory is short-term, storage is long-term
 
 Spend on videogames
+
+Curved ultrawide monitor
+Distort = искажать
