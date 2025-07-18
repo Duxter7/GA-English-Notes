@@ -401,4 +401,5 @@ I don't know what to call it
 ## 18-07-2025
 
 The lights are out
-Power outage
+Power outage 
+Blackout
