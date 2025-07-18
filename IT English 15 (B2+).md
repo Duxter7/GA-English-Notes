@@ -292,3 +292,4 @@ Thermal paste = термопаста
 
 I've never done it
 
+**Memory** vs **Storage**
