@@ -299,5 +299,5 @@ Spend on videogames
 Curved ultrawide monitor
 Distort = искажать
 
-Convenient = удобный (абс)
+Convenient = удобный (абстрактно)
 Comfortable = удобный (мягкий)
