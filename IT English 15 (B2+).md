@@ -304,3 +304,6 @@ Comfortable = удобный (мягкий)
 
 SSD
 HDD
+
+![[Pasted image 20250718123953.png]]
+
