@@ -406,3 +406,4 @@ Blackout
 
 My friends and I 
 
+From the get-go = from the start
