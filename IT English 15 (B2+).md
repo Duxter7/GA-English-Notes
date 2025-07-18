@@ -301,3 +301,6 @@ Distort = искажать
 
 Convenient = удобный (абстрактно)
 Comfortable = удобный (мягкий)
+
+SSD
+HDD
