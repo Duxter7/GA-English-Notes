@@ -426,3 +426,8 @@ Make up = invent = придумывать
 
 Stuff = вещи
 Staff = персонал
+
+Subs
+Dubs
+
+Cladding ~ facade 
