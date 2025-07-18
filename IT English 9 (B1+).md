@@ -403,3 +403,6 @@ I don't know what to call it
 The lights are out
 Power outage 
 Blackout
+
+My friends and I 
+
