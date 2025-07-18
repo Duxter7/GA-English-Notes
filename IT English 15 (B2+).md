@@ -318,3 +318,5 @@ Noisier
 	**At** Gold Apple
 
 A lot of corporations (many)
+
+**Lay off** vs **Fire** 
