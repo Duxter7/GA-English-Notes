@@ -408,4 +408,5 @@ My friends and I
 
 From the get-go = from the start
 
-College ~ university
+College (2 years or 4 years) ~ university (4 years)
+Community college (2 years)
