@@ -507,3 +507,7 @@ Spoilsport = человек, который портит веселье
 
 I went to my mother-in-law's 
 I went to my friend's
+
+1. Zero article
+2. The article
+3. A / an article
