@@ -502,3 +502,7 @@ Achoo = апчхи
 Phew = фух
 
 Spoilsport = человек, который портит веселье
+
+## 22-07-2025
+
+I went to my mother-in-law's dacha
