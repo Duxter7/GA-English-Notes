@@ -522,6 +522,6 @@ Kingdoms, States, Federations, Republics, Emirates
 The best of the best
 
 5 June
-	the fifth of June (B)
+	the fifth of June (BrE)
 	June fifth (AmE)
 	June the fifth (BrE)
