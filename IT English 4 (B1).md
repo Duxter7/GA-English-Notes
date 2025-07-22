@@ -512,8 +512,9 @@ I went to my friend's
 2. The article
 3. A / an article
 
-The
+**The**
 Kingdoms, States, Federations, Republics, Emirates
 	The USA
 	The UK
-	
+	The Russian Federation 
+	*The Netherlands
