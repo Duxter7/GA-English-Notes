@@ -505,4 +505,5 @@ Spoilsport = человек, который портит веселье
 
 ## 22-07-2025
 
-I went to my mother-in-law's dacha
+I went to my mother-in-law's 
+I went to my friend's
