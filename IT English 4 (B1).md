@@ -511,3 +511,9 @@ I went to my friend's
 1. Zero article
 2. The article
 3. A / an article
+
+The
+Kingdoms, States, Federations, Republics, Emirates
+	The USA
+	The UK
+	
