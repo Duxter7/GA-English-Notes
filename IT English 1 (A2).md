@@ -700,3 +700,5 @@ How much does it cost? = How much?
 
 Carry-on
 Hand luggage
+
+How many states **are** **there** in the USA?
