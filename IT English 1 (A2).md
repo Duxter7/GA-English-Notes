@@ -704,3 +704,4 @@ Hand luggage
 How many states **are** **there** in the USA?
 How old are your parents?
 How tall are you?
+How far is it from the city center to the airport? 
