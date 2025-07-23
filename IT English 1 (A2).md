@@ -707,3 +707,4 @@ How tall are you?
 How far is it from the city center to the airport? 
 How much money do you have? = How much money have you got?
 How long was your last vacation? 
+How different is English from your language?
