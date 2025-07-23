@@ -566,3 +566,4 @@ Where **were** you last weekend?
 
 ## 23-07-2025
 
+Money
