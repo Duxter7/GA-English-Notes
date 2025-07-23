@@ -489,3 +489,7 @@ Cold - colder - the coldest
 Interesting - more interesting - the most interesting
 
 Happy - happier - the happiest
+Easy - easier - the easiest
+
+Polite - more polite - the most polite
+Clever - more clever / cleverer - the most clever / the cleverest
