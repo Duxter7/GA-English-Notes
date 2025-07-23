@@ -485,3 +485,7 @@ Achoo!
 
 ## 23-07-2025
 
+Cold - colder - the coldest
+Interesting - more interesting - the most interesting
+
+Happy - happier - the happiest
