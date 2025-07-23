@@ -703,3 +703,4 @@ Hand luggage
 
 How many states **are** **there** in the USA?
 How old are your parents?
+How tall are you?
