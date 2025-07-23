@@ -493,3 +493,6 @@ Easy - easier - the easiest
 
 Polite - more polite - the most polite
 Clever - more clever / cleverer - the most clever / the cleverest
+
+She is more beautiful than he
+She is the most beautiful
