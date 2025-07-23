@@ -697,3 +697,6 @@ How much *money* do you have?
 How many apples do you eat a day?
 
 How much does it cost? = How much?
+
+Carry-on
+Hand luggage
