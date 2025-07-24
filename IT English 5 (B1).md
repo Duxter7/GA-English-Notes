@@ -729,8 +729,15 @@ The only
 The Sun
 In the morning
 In the evening
+The Amazon River
+The South
+The East
 The USA
 The UK
 The best 
 The worst
 The easiest
+
+A friend - the friend
+A dog - the dog
+
