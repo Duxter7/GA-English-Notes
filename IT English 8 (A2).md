@@ -693,3 +693,10 @@ Over a hundred
 Under a hundred
 
 Just over a hundred
+Just under a hundred
+	Almost a hundred
+	Nearly a hundred
+
+About a hundred
+Around a hundred
+Approximately 
