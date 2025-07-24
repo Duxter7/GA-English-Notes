@@ -399,3 +399,7 @@ I **owe** two weeks' rent
 
 Own = владеть
 Owe = быть должным
+
+## 24-07-2025
+
+I haven't started yet
