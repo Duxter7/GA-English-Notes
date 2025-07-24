@@ -537,3 +537,8 @@ Lay = класть
 	
 Lie = лежать
 	Lay = лежала
+
+University
+	a university
+Hour
+	an hour
