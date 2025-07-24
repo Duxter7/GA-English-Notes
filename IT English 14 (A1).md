@@ -929,8 +929,9 @@ Cute = милый
 **My colleague** love**s** beer
 **My dad** eat**s** honey every weekend
 
-Watch - watches
+Watch - watch**es**
 Fly - fl**ies**
-Play - plays
-Do - does
-Go - goe
+Play - play**s**
+Do - do**es**
+Go - go**es**
+
