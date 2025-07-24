@@ -766,4 +766,9 @@ Water
 By car
 On foot
 
+---
+**A / an**
 
+An apple
+A car 
+A job
