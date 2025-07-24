@@ -938,4 +938,4 @@ Go - go**es**
 My brother never chooses films
 My wife makes (cooks) pasta every day
 My best friend never answers her phone
-My cat sometimes lo
+My cat sometimes **looks at** the window
