@@ -779,3 +779,7 @@ A task
 A university
 An hour
 An upgrade 
+
+Lie - lay - lain
+Lay - laid - laid
+Lie - lied - lied
