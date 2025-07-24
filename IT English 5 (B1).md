@@ -745,7 +745,6 @@ A dog - the dog
 The first of July = July the first = **July first**
 
 ---
-
 **Zero article**
 
 Tennis
@@ -759,5 +758,12 @@ Kostya
 Mark
 At night
 At noon
+Money
+Traffic
+Milk
+Food
+Water
+By car
+On foot
 
 
