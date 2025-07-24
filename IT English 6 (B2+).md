@@ -217,4 +217,4 @@ Staff
 ## 24-07-2025
 
 We were playing a new video game when you called me
-We had be
+We had been playing a new video game when you called me
