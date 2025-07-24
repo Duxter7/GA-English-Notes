@@ -724,3 +724,13 @@ Soldered
 
 ## 24-07-2025
 
+The one
+The only
+The Sun
+In the morning
+In the evening
+The USA
+The UK
+The best 
+The worst
+The easiest
