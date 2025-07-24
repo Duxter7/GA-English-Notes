@@ -703,3 +703,6 @@ Approximately a hundred
 
 Exactly a hundred
 
+2100 USD
+
+My laptop is 1100 USD
