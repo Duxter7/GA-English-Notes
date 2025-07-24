@@ -708,4 +708,10 @@ Exactly a hundred
 My laptop is 1100 USD
 
 Hundredths
-Th
+Thousandths 
+
+1.4
+3,14
+3.14
+
+comma [кома] = запятая
