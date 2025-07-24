@@ -722,3 +722,6 @@ Two-fifth
 ### How much vs How many
 How **much money** do you have?
 How **many servers** do you have?
+
+Person - people
+Child - children
