@@ -528,3 +528,12 @@ The best of the best
 
 
 Think
+
+## 24-07-2025
+
+She 
+
+Lay = класть
+	
+Lie = лежать
+	Lay = лежала
