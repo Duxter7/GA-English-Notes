@@ -746,5 +746,18 @@ The first of July = July the first = **July first**
 
 ---
 
-The first of
+**Zero article**
+
+Tennis
+Football
+He was first in the competition
+Russia
+Great Britain
+Mars
+Venus
+Kostya
+Mark
+At night
+At noon
+
 
