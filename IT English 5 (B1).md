@@ -724,6 +724,9 @@ Soldered
 
 ## 24-07-2025
 
+---
+**The**
+
 The one
 The only
 The Sun
@@ -737,7 +740,11 @@ The UK
 The best 
 The worst
 The easiest
-
 A friend - the friend
 A dog - the dog
+The first of July = July the first = **July first**
+
+---
+
+The first of
 
