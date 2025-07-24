@@ -699,4 +699,6 @@ Just under a hundred
 
 About a hundred
 Around a hundred
-Approximately 
+Approximately a hundred
+
+Exactly a hundred
