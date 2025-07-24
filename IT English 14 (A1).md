@@ -926,4 +926,5 @@ Cute = милый
 
 **My friend** want**s** to work every day
 **My boss** drive**s** a BMW
-My c
+**My colleague** love**s** beer
+My dad eats honey 
