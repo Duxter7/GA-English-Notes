@@ -720,4 +720,5 @@ One-fourth
 Two-fifth
 
 ### How much vs How many
-How much money do you have?
+How **much money** do you have?
+How **many servers** do you have?
