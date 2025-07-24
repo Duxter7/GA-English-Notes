@@ -927,4 +927,10 @@ Cute = милый
 **My friend** want**s** to work every day
 **My boss** drive**s** a BMW
 **My colleague** love**s** beer
-My dad eats honey 
+**My dad** eat**s** honey every weekend
+
+Watch - watches
+Fly - fl**ies**
+Play - plays
+Do - does
+Go - goe
