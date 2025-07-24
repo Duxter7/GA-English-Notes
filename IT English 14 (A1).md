@@ -936,4 +936,5 @@ Do - do**es**
 Go - go**es**
 
 My brother never chooses films
-My wife makes 
+My wife makes (cooks) pasta every day
+My best friend never answer
