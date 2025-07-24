@@ -715,3 +715,6 @@ Thousandths
 3.14
 
 comma [кома] = запятая
+
+One-fourth
+Two-fifth
