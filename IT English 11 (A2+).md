@@ -403,3 +403,6 @@ Owe = быть должным
 ## 24-07-2025
 
 I haven't started yet
+
+Trip = to somewhere and back
+Journey = one way
