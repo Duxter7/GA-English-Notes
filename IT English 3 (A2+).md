@@ -496,3 +496,11 @@ Clever - more clever / cleverer - the most clever / the cleverest
 
 She is more beautiful than he
 She is the most beautiful
+
+## 28-07-2025
+
+More interesting
+Easier
+Worse
+
+The most difficu
