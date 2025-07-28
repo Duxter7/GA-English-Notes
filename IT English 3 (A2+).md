@@ -503,4 +503,6 @@ More interesting
 Easier
 Worse
 
-The most difficu
+The most difficult
+The happiest
+The funniest
