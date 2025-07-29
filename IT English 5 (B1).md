@@ -793,4 +793,5 @@ The 2010s
 
 Opponent = оппонент
 
-I often 
+I often ice skated 
+I used to ice skate a lot
