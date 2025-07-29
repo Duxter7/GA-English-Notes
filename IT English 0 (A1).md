@@ -791,3 +791,7 @@ Angry with = злиться на кого-то
 
 He read**s** books
 She watch**es** TV
+It work**s**
+He speak**s** Chinese
+My PC sleep**s**
+
