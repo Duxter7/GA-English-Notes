@@ -786,3 +786,8 @@ Chores = работа по дому
 ## 15-07-2025
 
 Angry with = злиться на кого-то
+
+## 29-07-2025
+
+He read**s** books
+She watch**es** TV
