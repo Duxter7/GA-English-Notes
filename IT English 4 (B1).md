@@ -542,3 +542,7 @@ University
 	a university
 Hour
 	an hour
+
+## 29-07-2025
+
+Opponent = оппонент

@@ -788,3 +788,7 @@ The 80s
 The 90s
 The 2000s
 The 2010s
+
+## 29-07-2025
+
+Opponent = оппонент
