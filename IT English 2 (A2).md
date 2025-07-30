@@ -573,4 +573,7 @@ Traffic
 ## 30-07-2025
 
 Anything else?
-Can I try this T-Shirt on
+Can I try this T-Shirt on?
+I'll take it, thank you
+I'll leave it, it's not right
+I'll th
