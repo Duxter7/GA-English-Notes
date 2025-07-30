@@ -713,3 +713,5 @@ How different is English from your language?
 
 Pay **by phone** = платить телефоном
 Pay **in cash** = платить наличкой 
+
+Try on = примерять
