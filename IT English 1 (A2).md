@@ -717,5 +717,5 @@ Pay **in cash** = платить наличкой
 Try on = примерять
 Try these trousers on 
 
-This = Зыс
+This = зыс
 These = зиc 
