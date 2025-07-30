@@ -580,3 +580,5 @@ I'll think about it
 
 Can I pay **by** phone?
 Can I pay **in** cash?
+
+Do someone
