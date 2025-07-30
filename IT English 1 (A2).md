@@ -718,4 +718,4 @@ Try on = примерять
 Try these trousers on 
 
 This = Зыс
-These = зис 
+These = зиc 
