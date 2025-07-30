@@ -576,4 +576,7 @@ Anything else?
 Can I try this T-Shirt on?
 I'll take it, thank you
 I'll leave it, it's not right
-I'll th
+I'll think about it
+
+Can I pay **by** phone?
+Can I pay **in** cash?
