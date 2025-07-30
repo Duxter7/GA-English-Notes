@@ -715,3 +715,4 @@ Pay **by phone** = платить телефоном
 Pay **in cash** = платить наличкой 
 
 Try on = примерять
+Try these trousers on 
