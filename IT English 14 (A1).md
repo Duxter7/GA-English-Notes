@@ -955,3 +955,5 @@ He do**es**n't like Gold Apple
 **Do** you like Gold Apple?
 Do**es** he like Gold Apple?
 
+He **did**n't like Gold Apple
+Did he l
