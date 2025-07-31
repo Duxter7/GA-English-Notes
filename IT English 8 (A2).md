@@ -738,4 +738,6 @@ Hand luggage
 ## 31-07-2025
 
 Receipt = чек (об оплате)
-	
+**In** cash = наличкой
+By phone
+By card
