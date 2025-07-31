@@ -810,7 +810,7 @@ Last = длиться
 
 There are ~ There's
 
-
+**Modal**
 Will
 Must
 Can
@@ -818,3 +818,8 @@ Might
 Would
 Could
 Should
+May
+Shall
+
+You can do
+I must study
