@@ -832,4 +832,6 @@ Debt
 Mortgage
 
 Can't 
-Cunt = пизда 
+
+Can /kn/
+You can't 
