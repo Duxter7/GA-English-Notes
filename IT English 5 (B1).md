@@ -795,3 +795,8 @@ Opponent = оппонент
 
 I often ice skated 
 I used to ice skate a lot
+
+## 31-07-2025
+
+Expense = трата
+Expenses
