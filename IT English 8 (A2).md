@@ -753,3 +753,6 @@ Where **is** *he*?
 Next to = very near
 
 I'll = I will
+
+This = зыс
+These  = зиис
