@@ -946,3 +946,7 @@ Nichang
 
 ## 31-07-2025
 
+I **love** Gold Apple
+He love**s** Gold Apple
+
+I don't like Gold Apple
