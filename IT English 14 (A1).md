@@ -949,8 +949,9 @@ Nichang
 I **love** Gold Apple
 He love**s** Gold Apple
 
-I don't like Gold Apple
+I **don't** like Gold Apple
 He do**es**n't like Gold Apple
 
-Do you like Gold Apple?
+**Do** you like Gold Apple?
+Do**es** he like Gold Apple?
 
