@@ -744,3 +744,8 @@ By card
 
 Changing room
 Fitting room
+
+I **am** busy
+**Am** I busy?
+
+Where **is** he?
