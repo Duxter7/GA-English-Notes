@@ -808,17 +808,4 @@ Last = длиться
 	Lasted
 	Lasted
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+There are ~ There's
