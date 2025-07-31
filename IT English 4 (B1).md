@@ -552,3 +552,5 @@ Opponent = оппонент
 Shall ~ should
 
 There's 
+
+Can vs Ca
