@@ -800,3 +800,6 @@ I used to ice skate a lot
 
 Expense = трата
 Expenses
+
+Early
+Earlier 
