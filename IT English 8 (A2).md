@@ -741,3 +741,6 @@ Receipt = чек (об оплате)
 **In** cash = наличкой
 By phone
 By card
+
+Changing room
+Fitting room
