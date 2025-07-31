@@ -749,3 +749,5 @@ I **am** busy
 **Am** *I* busy?
 
 Where **is** *he*?
+
+Next to = very near
