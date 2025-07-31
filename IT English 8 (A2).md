@@ -746,6 +746,6 @@ Changing room
 Fitting room
 
 I **am** busy
-**Am** I busy?
+**Am** *I* busy?
 
-Where **is** he?
+Where **is** *he*?
