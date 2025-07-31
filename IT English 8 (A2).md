@@ -735,3 +735,7 @@ Hand luggage
 2005 = twenty oh five / thousand (and) five
 
 
+## 31-07-2025
+
+Receipt = чек (об оплате)
+	
