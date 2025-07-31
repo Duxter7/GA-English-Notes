@@ -830,3 +830,6 @@ Again
 Says
 Debt
 Mortgage
+
+Can't 
+Cunt = пизда 
