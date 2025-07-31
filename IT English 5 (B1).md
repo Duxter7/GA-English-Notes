@@ -803,3 +803,7 @@ Expenses
 
 Early
 Earlier 
+
+Last = длиться
+	Lasted
+	Lasted
