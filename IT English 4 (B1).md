@@ -550,3 +550,6 @@ Opponent = оппонент
 ## 31-07-2025
 
 Shall ~ should
+
+There's 
+Th
