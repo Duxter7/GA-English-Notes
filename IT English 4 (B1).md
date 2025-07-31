@@ -553,4 +553,8 @@ Shall ~ should
 
 There's 
 
-Can vs Ca
+Can vs Can't
+
+You can do this
+You can't study hard
+
