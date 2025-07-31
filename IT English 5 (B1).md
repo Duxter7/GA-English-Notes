@@ -807,3 +807,18 @@ Earlier
 Last = длиться
 	Lasted
 	Lasted
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
