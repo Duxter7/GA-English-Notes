@@ -809,3 +809,12 @@ Last = длиться
 	Lasted
 
 There are ~ There's
+
+
+Will
+Must
+Can
+Might
+Would
+Could
+Should
