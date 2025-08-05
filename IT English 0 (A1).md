@@ -820,3 +820,5 @@ Take out
 Withdraw
 
 Jaws
+
+Rug = ковер
