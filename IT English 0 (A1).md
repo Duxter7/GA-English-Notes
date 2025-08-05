@@ -813,3 +813,5 @@ Gas = Petrol
 
 With
 Without
+
+Altogether = все вместе
