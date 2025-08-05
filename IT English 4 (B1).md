@@ -567,7 +567,12 @@ big - bigger - the biggest
 interesting - more interesting - the most interesting
 
 **2 syllable words**
-easy
+easy - easier - the easiest
 healthy - healthier - the healthiest
 funny - funnier - the funniest
 happy - happier - the happiest
+
+more polite
+more simple / simpler
+more clever / cleverer*
+
