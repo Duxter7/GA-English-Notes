@@ -564,4 +564,10 @@ You can't study hard
 big - bigger - the biggest
 
 **3 syllable words**
-interesting - more interesting 
+interesting - more interesting - the most interesting
+
+**2 syllable words**
+easy
+healthy - healthier - the healthiest
+funny - funnier - the funniest
+happy - happier - the happiest
