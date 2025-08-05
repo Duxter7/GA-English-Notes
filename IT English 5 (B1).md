@@ -868,4 +868,4 @@ more clever / cleverer*
 
 Bad - worse - *the* worst (the baddest *slang*)
 Good - better - *the* best
-Far - Further / Farther - the 
+Far - *Further* / Farther - *the furthest* / the farthest
