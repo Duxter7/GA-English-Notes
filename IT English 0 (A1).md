@@ -815,3 +815,6 @@ With
 Without
 
 Altogether = все вместе
+
+Take out
+Withdraw
