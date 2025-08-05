@@ -558,3 +558,10 @@ Can vs Can't
 You can do this
 You can't study hard
 
+## 05-08-2025
+
+**1 syllable words**
+big - bigger - the biggest
+
+**3 syllable words**
+interesting - more interesting 
