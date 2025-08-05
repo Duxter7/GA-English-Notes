@@ -802,4 +802,6 @@ Dagger = кинжал
 Sword = меч
 Bow = лук (оружие)
 Trident = трезубец 
-Crossbow
+Crossbow = арбалет
+Sling = праща
+Bolt gun 
