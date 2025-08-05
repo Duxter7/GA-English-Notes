@@ -798,4 +798,7 @@ My best friend write**s** letters
 
 ## 05-08-2025
 
-Dag
+Dagger = кинжал
+Sword = меч
+Bow = лук (оружие)
+
