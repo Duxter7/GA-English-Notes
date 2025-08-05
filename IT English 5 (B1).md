@@ -857,10 +857,10 @@ interesting - *more* interesting - *the most* interesting
 beautiful
 
 **2 syllable words**
-easy - easier - the easiest
-healthy - healthier - the healthiest
-funny - funnier - the funniest
-happy - happier - the happiest
+eas*y* - easier - the easiest
+health*y* - healthier - the healthiest
+funn*y* - funnier - the funniest
+happ*y* - happier - the happiest
 
 more polite
 more simple / simpler
