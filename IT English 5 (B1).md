@@ -843,3 +843,6 @@ Can't (AmE) = /kaen/
 Can (BrE/AmE) = /kn/
 
 Lorry (BrE) = Truck (AmE)
+
+Narrow passage / road
+Wide passage / road
