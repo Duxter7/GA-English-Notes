@@ -805,3 +805,5 @@ Trident = трезубец
 Crossbow = арбалет
 Sling = праща
 Bolt gun 
+
+Drone
