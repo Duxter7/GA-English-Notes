@@ -846,3 +846,22 @@ Lorry (BrE) = Truck (AmE)
 
 Narrow passage / road
 Wide passage / road
+
+**1 syllable words**
+big - bigger - the biggest
+hot
+sad
+
+**3 syllable words**
+interesting - more interesting - the most interesting
+
+**2 syllable words**
+easy - easier - the easiest
+healthy - healthier - the healthiest
+funny - funnier - the funniest
+happy - happier - the happiest
+
+more polite
+more simple / simpler
+more clever / cleverer*
+
