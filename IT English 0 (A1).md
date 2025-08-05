@@ -818,3 +818,5 @@ Altogether = все вместе
 
 Take out
 Withdraw
+
+Jaws
