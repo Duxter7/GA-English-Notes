@@ -801,4 +801,5 @@ My best friend write**s** letters
 Dagger = кинжал
 Sword = меч
 Bow = лук (оружие)
-
+Trident = трезубец 
+Crossbow
