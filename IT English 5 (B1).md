@@ -848,12 +848,13 @@ Narrow passage / road
 Wide passage / road
 
 **1 syllable words**
-big - bigger - the biggest
+big - bigg*er* - *the* bigg*est*
 hot
 sad
 
 **3 syllable words**
-interesting - more interesting - the most interesting
+interesting - *more* interesting - *the most* interesting
+beautiful
 
 **2 syllable words**
 easy - easier - the easiest
