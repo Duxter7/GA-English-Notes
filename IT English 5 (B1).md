@@ -866,3 +866,4 @@ more polite
 more simple / simpler
 more clever / cleverer*
 
+Bad - worse - the worst (the baddest)
