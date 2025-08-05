@@ -228,3 +228,5 @@ Mascara
 
 Cleanser
 Cleanse 
+
+Subsidiary = дочерняя компания
