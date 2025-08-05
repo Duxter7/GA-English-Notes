@@ -866,4 +866,6 @@ more polite
 more simple / simpler
 more clever / cleverer*
 
-Bad - worse - the worst (the baddest)
+Bad - worse - *the* worst (the baddest *slang*)
+Good - better - *the* best
+Far - Further / Farther - the 
