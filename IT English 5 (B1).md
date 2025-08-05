@@ -839,4 +839,5 @@ You can't
 ## 05-08-2025
 
 Can't (BrE) = /кант/
-Can't (AmE)
+Can't (AmE) = /kaen/
+Can (BrE/AmE) = /kn/
