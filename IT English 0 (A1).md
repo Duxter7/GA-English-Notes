@@ -807,3 +807,4 @@ Sling = праща
 Bolt gun 
 
 Drone
+Helicopter
