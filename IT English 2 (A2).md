@@ -583,3 +583,7 @@ Can I pay **in** cash?
 
 This = зыс
 These = зис
+
+## 06-08-2025
+
+Bring / go / spend
