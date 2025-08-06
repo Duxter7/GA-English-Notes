@@ -719,3 +719,9 @@ Try these trousers on
 
 This = зыс
 These = зиc 
+
+## 06-08-2025
+
+Should = следует
+	You shouldn't smoke in the office?
+	Should you study 
