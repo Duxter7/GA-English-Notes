@@ -512,3 +512,6 @@ The funniest
 Cockroach = таракан
 Frog = лягушка
 Grasshopper = кузнечик
+
+Cuisine = кухня
+	
