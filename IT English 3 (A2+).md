@@ -506,3 +506,9 @@ Worse
 The most difficult
 The happiest
 The funniest
+
+## 06-08-2025
+
+Cockroach = таракан
+Frogs
+Grasshopper = 
