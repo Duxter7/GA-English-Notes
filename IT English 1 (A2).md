@@ -722,6 +722,10 @@ These = зиc
 
 ## 06-08-2025
 
-Should = следует
+**Should** = следует
 	You shouldn't smoke in the office?
-	Should you study 
+	Should you study English?
+
+**Close** the window
+**Open** the door
+**Fix** the computer
