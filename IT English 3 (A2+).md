@@ -510,5 +510,5 @@ The funniest
 ## 06-08-2025
 
 Cockroach = таракан
-Frogs
-Grasshopper = 
+Frog = лягушка
+Grasshopper = кузнечик
