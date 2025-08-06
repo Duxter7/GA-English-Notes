@@ -729,3 +729,5 @@ These = зиc
 **Close** the window
 **Open** the door
 **Fix** the computer
+
+Bring / go / spend
