@@ -132,3 +132,8 @@ Treadmill = беговая дорожка
 Football pools
 Change your tune 
 Swiss letter 
+
+Historically, the British associated the word **“French”** with anything **sexually suggestive or risqué**:
+- French kiss
+- French disease (an old term for syphilis)
+- French postcards (erotic pictures)
