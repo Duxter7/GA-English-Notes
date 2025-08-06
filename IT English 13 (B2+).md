@@ -128,5 +128,6 @@ Treadmill = беговая дорожка
 
 ## 06-08-2025
 
+**Mind Your Language S1 E5**
 Football pools
-	sd
+Change your tune
