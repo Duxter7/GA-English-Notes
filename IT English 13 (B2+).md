@@ -138,4 +138,4 @@ Historically, the British associated the word **“French”** with anything **s
 - French disease (an old term for syphilis)
 - French postcards (erotic pictures)
 
-Whereabouts = where does it hurt
+**Whereabouts?** (when seeing a doctor) = where does it hurt?
