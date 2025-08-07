@@ -581,4 +581,4 @@ more clever / cleverer*
 Teach - Taught - Taught 
 
 6 Feet = 182.3 cm
-5'11 = 180 cm
+5'11 Feet = 180 cm
