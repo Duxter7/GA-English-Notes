@@ -869,3 +869,8 @@ more clever / cleverer*
 Bad - worse - *the* worst (the baddest *slang*)
 Good - better - *the* best
 Far - *Further* / Farther - *the furthest* / the farthest
+
+## 07-08-2025
+
+The biggest 
+The most interesting
