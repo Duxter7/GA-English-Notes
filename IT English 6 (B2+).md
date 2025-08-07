@@ -234,3 +234,5 @@ Subsidiary = дочерняя компания
 ## 07-08-2025
 
 Whereabouts? 
+
+He went nuts
