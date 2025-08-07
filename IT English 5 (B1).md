@@ -874,3 +874,6 @@ Far - *Further* / Farther - *the furthest* / the farthest
 
 The biggest 
 The most interesting
+The easiest
+The happiest
+The most beautiful
