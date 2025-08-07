@@ -877,3 +877,5 @@ The most interesting
 The easiest
 The happiest
 The most beautiful
+
+Teach - taught - taug
