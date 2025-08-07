@@ -881,3 +881,5 @@ The most beautiful
 Teach - taught - taught
 Think - thought - thought
 Buy - bought - bought
+
+I'm 6 foot tall = 182
