@@ -878,4 +878,6 @@ The easiest
 The happiest
 The most beautiful
 
-Teach - taught - taug
+Teach - taught - taught
+Think - thought - thought
+Buy - bought - bought
