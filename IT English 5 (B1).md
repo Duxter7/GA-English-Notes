@@ -893,4 +893,4 @@ Talk about
 I haven't had a TV for about 15 years
 Listen to
 
-The last news st
+The last news story we discussed with my colleagues was the Trump-Putin meeting
