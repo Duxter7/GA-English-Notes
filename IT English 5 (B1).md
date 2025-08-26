@@ -889,3 +889,6 @@ I'm 6 foot tall = 182.5 см
 
 ~~Discuss about~~ = discuss
 Talk about 
+
+I haven't had For about 15 years
+Listen to
