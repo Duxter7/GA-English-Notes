@@ -731,3 +731,8 @@ These = зиc
 **Fix** the computer
 
 Bring / go / spend
+
+## 03-09-2025
+
+Sore throat = больное горло
+I'm sore after my training session 
