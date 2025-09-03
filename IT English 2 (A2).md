@@ -587,3 +587,16 @@ These = зис
 ## 06-08-2025
 
 Bring / go / spend
+
+## 03-09-2025
+
+Be 
+1. am
+2. is
+3. are
+4. was
+5. were
+6. will be
+7. been
+8. had been
+9. will have been
