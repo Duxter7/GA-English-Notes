@@ -736,3 +736,5 @@ Bring / go / spend
 
 Sore throat = больное горло
 I'm sore after my training session = у меня болит тело после тренировки
+
+To have a lot in common = иметь много общего
