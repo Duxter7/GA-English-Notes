@@ -894,3 +894,7 @@ I haven't had a TV for about 15 years
 Listen to
 
 The last news story we discussed with my colleagues was the Trump-Putin meeting
+
+## 09-09-2025
+
+Mutually beneficial relationship = взаимовыгодные отношения
