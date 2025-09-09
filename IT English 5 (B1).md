@@ -902,5 +902,5 @@ Mutually beneficial relationship = взаимовыгодные отношени
 Warehouse = склад
 Wares
 
-It fits me
-It suits me
+It fits me = по размеру норм
+It suits me = идет
