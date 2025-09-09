@@ -900,3 +900,4 @@ The last news story we discussed with my colleagues was the Trump-Putin meeting
 Mutually beneficial relationship = взаимовыгодные отношения
 
 Warehouse = склад
+Wares
